@@ -1,7 +1,7 @@
 [
 	{
 		"name": "UNKNOWN UNKNOWNS",
-		"blurb": "Originally designed as a part of my sixth grade Creative Productions curriculum, I eventually rebuilt this eight-foot high problem for the Inflection Point kids' rationality camp.  Typically, it is presented to a group of students disassembled and jumbled together, with no hints as to what it should be or what is expected of them.  Solving the problem requires teamwork, persistence, and most of all a set of clear heads.",
+		"blurb": "Originally designed as a part of my sixth grade curriculum, I rebuilt this eight-foot high problem for the Inflection Point kids' rationality camp.  Typically, it is presented to students disassembled and jumbled together, with no hints as to what it should be or what is expected of them.  Solving the problem requires teamwork, persistence, and most of all a set of clear heads.",
 		"imageURL": "img/fig1Arch.png",
 		"time": "November 2014 - January 2015 (300 hours)"
 	},
@@ -94,5 +94,5 @@
 		"blurb": "",
 		"imageURL": "img/fig1.png",
 		"time": ""
-	},
+	}
 ]

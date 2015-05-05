@@ -43,9 +43,12 @@ portfolioApp.controller('MainController', function($scope) {
     $scope.message = "I'll be a handful of cool icons.";
 });
 
-portfolioApp.controller('AboutController', function($scope) {
+portfolioApp.controller('AboutController', ['$scope', '$http', function($scope, $http) {
+    $http.get('json/snippetsAbout.json').success(function(data) {
+      $scope.snippets = data;
+    });
     $scope.message = "I'll be a résumé and articles about Duncan.";
-});
+}]);
 
 portfolioApp.controller('ApparelController', ['$scope', '$http', function($scope, $http) {
     $http.get('json/snippetsApparel.json').success(function(data) {
@@ -54,22 +57,37 @@ portfolioApp.controller('ApparelController', ['$scope', '$http', function($scope
     $scope.message = "I'll be a list of apparel projects.";
 }]);
 
-portfolioApp.controller('ArtController', function($scope) {
+portfolioApp.controller('ArtController', ['$scope', '$http', function($scope, $http) {
+    $http.get('json/snippetsArt.json').success(function(data) {
+      $scope.snippets = data;
+    });
     $scope.message = "I'll be a list of art projects.";
-});
+}]);
 
-portfolioApp.controller('CodeController', function($scope) {
+portfolioApp.controller('CodeController', ['$scope', '$http', function($scope, $http) {
+    $http.get('json/snippetsCode.json').success(function(data) {
+      $scope.snippets = data;
+    });
     $scope.message = "I'll be a list of code projects.";
-});
+}]);
 
-portfolioApp.controller('DesignController', function($scope) {
+portfolioApp.controller('DesignController', ['$scope', '$http', function($scope, $http) {
+    $http.get('json/snippetsDesign.json').success(function(data) {
+      $scope.snippets = data;
+    });
     $scope.message = "I'll be a list of design projects.";
-});
+}]);
 
-portfolioApp.controller('VideoController', function($scope) {
+portfolioApp.controller('VideoController', ['$scope', '$http', function($scope, $http) {
+    $http.get('json/snippetsVideo.json').success(function(data) {
+      $scope.snippets = data;
+    });
     $scope.message = "I'll be a list of video projects.";
-});
+}]);
 
-portfolioApp.controller('WritingController', function($scope) {
+portfolioApp.controller('WritingController', ['$scope', '$http', function($scope, $http) {
+    $http.get('json/snippetsWriting.json').success(function(data) {
+      $scope.snippets = data;
+    });
     $scope.message = "I'll be a list of writing projects.";
-});
+}]);

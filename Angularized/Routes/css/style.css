@@ -1,6 +1,6 @@
 #canvas {
 	width: 960px;
-	height: 1000px;
+	min-height: 1000px;
 	background-color: #474747;
 	margin-right: auto;
 	margin-left: auto;
@@ -39,14 +39,6 @@ nav {
 	left: 44px;
 }
 
-.photoBox {
-	width: 256px;
-	height: 196px;
-	background-color: white;
-	border: 1px solid black;
-	box-shadow: 5px 5px 3px black;
-}
-
 /*----------------------------------------------------------------------*/
 /*-----------------------------Text styling-----------------------------*/
 .raleway {
@@ -56,26 +48,13 @@ nav {
 	color: #d4d4d4;
 }
 
-.itemTitle {
+.montserrat {
 	font-family: 'Montserrat', sans-serif;
 	font-weight: 700;
 	font-size: 25pt;
 	color: #d4d4d4;
-	position: absolute;
-	top: 0px;
-	left: 380px;
 }
-.itemTime {
-	position: absolute;
-	left: 381px;
-	top: 55px;
-}
-.itemBlurb {
-	width: 500px;
-	position: absolute;
-	left: 381px;
-	top: 75px;
-}
+
 .smallBoldLight {
 	font-family: Raleway;
 	font-weight: 600;
@@ -201,24 +180,7 @@ nav a:hover {
 
 /*----------------------------------------------------------------------*/
 /*----------------Styling for project links on sub pages----------------*/
-.projectContainer {
-	position: relative;
-	width: 960px;
-	height: 200px;
-	margin-top: 20px;
-	margin-bottom: 20px;
-}
-.projectCover {
-	margin-top: 8px;
-	margin-left: 8px;
-/*	display: inline-block;
-	position: absolute;
-	width:250px;
-	height: 194px;
-	background-size: 250px 194px;
-	margin-top: 6px;
-	left: 100px;*/
-}
+
 #scratchpost {
 	background-image: url("../img/fig1Scratchpost.png");
 	position: relative;
