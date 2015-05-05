@@ -1,10 +1,5 @@
 var portfolioApp = angular.module('portfolioApp', ['ngRoute']);
 
-portfolioApp.controller('displayController', function($scope) {
-  $scope.message = "I'm the display controller, wired to the 'main' html tag.";
-});
-
-
 portfolioApp.config(function($routeProvider) {
   $routeProvider
     .when('/main', {
@@ -44,34 +39,34 @@ portfolioApp.config(function($routeProvider) {
     });
 });
 
-    portfolioApp.controller('MainController', function($scope) {
-        $scope.message = "I'll be a handful of cool icons.";
-    });
+portfolioApp.controller('MainController', function($scope) {
+    $scope.message = "I'll be a handful of cool icons.";
+});
 
-    portfolioApp.controller('AboutController', function($scope) {
-        $scope.message = "I'll be a résumé and articles about Duncan.";
-    });
+portfolioApp.controller('AboutController', function($scope) {
+    $scope.message = "I'll be a résumé and articles about Duncan.";
+});
 
-    portfolioApp.controller('ApparelController', function($scope) {
-        $scope.message = "I'll be a list of apparel projects.";
-    });
+portfolioApp.controller('ApparelController', function($scope) {
+    $scope.message = "I'll be a list of apparel projects.";
+});
 
-    portfolioApp.controller('ArtController', function($scope) {
-        $scope.message = "I'll be a list of art projects.";
-    });
+portfolioApp.controller('ArtController', function($scope) {
+    $scope.message = "I'll be a list of art projects.";
+});
 
-    portfolioApp.controller('CodeController', function($scope) {
-        $scope.message = "I'll be a list of code projects.";
-    });
+portfolioApp.controller('CodeController', function($scope) {
+    $scope.message = "I'll be a list of code projects.";
+});
 
-    portfolioApp.controller('DesignController', function($scope) {
-        $scope.message = "I'll be a list of design projects.";
-    });
+portfolioApp.controller('DesignController', function($scope) {
+    $scope.message = "I'll be a list of design projects.";
+});
 
-    portfolioApp.controller('VideoController', function($scope) {
-        $scope.message = "I'll be a list of video projects.";
-    });
+portfolioApp.controller('VideoController', function($scope) {
+    $scope.message = "I'll be a list of video projects.";
+});
 
-    portfolioApp.controller('WritingController', function($scope) {
-        $scope.message = "I'll be a list of writing projects.";
-    });
+portfolioApp.controller('WritingController', function($scope) {
+    $scope.message = "I'll be a list of writing projects.";
+});

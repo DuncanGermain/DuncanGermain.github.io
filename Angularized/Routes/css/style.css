@@ -1,0 +1,224 @@
+#canvas {
+	width: 960px;
+	height: 1000px;
+	background-color: #474747;
+	margin-right: auto;
+	margin-left: auto;
+	box-shadow: 0 0 30px 5px black;
+}
+header {
+	position: relative;
+	height: 300px;
+}
+#headerLogo {
+	display: inline-block;
+	width: 200px;
+	height: 94px;
+	margin: 10px;
+	background-size: 200px 94px;
+	background-image: url("../img/logo.png");
+	margin: 10px;
+}
+#headerLogo:active {
+	background-position: 0px 2px;
+}
+#borderTop {
+	position: absolute;
+	top: 75px;
+	right: 0px;
+	pointer-events: none;
+}
+#duncan {
+	position: absolute;
+	top: 78px;
+	left: 765px;
+}
+nav {
+	position: absolute;
+	top: 153px;
+	left: 44px;
+}
+
+
+/*----------------------------------------------------------------------*/
+/*-----------------------------Text styling-----------------------------*/
+.itemTitle {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 700;
+	font-size: 25pt;
+	color: #d4d4d4;
+	position: absolute;
+	left: 380px;
+}
+.itemDescription {
+	width: 500px;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 300;
+	color: #d4d4d4;
+	position: absolute;
+	left: 381px;
+	top: 55px;
+}
+.smallBoldLight {
+	font-family: Raleway;
+	font-weight: 600;
+	font-size: 11pt;
+	color: #d4d4d4;
+	text-decoration: none;
+	text-shadow: 2px 2px #212121;
+}
+.smallBoldOrange {
+	font-family: Raleway;
+	font-weight: 600;
+	font-size: 11pt;
+	color: #ff7722;
+	text-decoration: none;
+	text-shadow: 2px 2px #212121;
+}
+
+nav a {
+	margin-right: 20px;
+}
+nav a:hover {
+	color: #ff7722;
+}
+
+.hoverButton {
+	width: 200px;
+	height: 35px;
+	background-size: 200px 38px;
+	position: absolute;
+}
+#scratchpostLive {
+	background-image: url("../img/HOVERCHEATLIVE.png");
+	left: 25px;
+	top: 45px;
+}
+#scratchpostGit {
+	background-image: url("../img/HOVERCHEATGIT.png");
+	left: 25px;
+	top: 110px;
+}
+
+/*----------------------------------------------------------------------*/
+/*--------------------Styling for icons on main page--------------------*/
+
+.icon {
+	display: inline-block;
+	width: 100px;
+	height: 133px;
+	background-size: 100px 133px;
+	margin: 10px;
+}
+#art {
+	background-image: url("../img/artIconGray.png");
+	-webkit-animation-delay: .4s;
+}
+#art:hover {
+	background-image: url("../img/artIconOrange.png");
+}
+#art:active {
+	background-position: 0px 2px;
+}
+#design {
+	background-image: url("../img/designIconGray.png");
+	-webkit-animation-delay: .48s;
+}
+#design:hover {
+	background-image: url("../img/designIconOrange.png");
+}
+#design:active {
+	background-position: 0px 2px;
+}
+#apparel {
+	background-image: url("../img/apparelIconGray.png");
+	-webkit-animation-delay: .56s;
+}
+#apparel:hover {
+	background-image: url("../img/apparelIconOrange.png");
+}
+#apparel:active {
+	background-position: 0px 2px;
+}
+#writing {
+	background-image: url("../img/writingIconGray.png");
+	-webkit-animation-delay: .64s;
+}
+#writing:hover {
+	background-image: url("../img/writingIconOrange.png");
+}
+#writing:active {
+	background-position: 0px 2px;
+}
+#video {
+	background-image: url("../img/videoIconGray.png");
+	-webkit-animation-delay: .72s;
+}
+#video:hover {
+	background-image: url("../img/videoIconOrange.png");
+}
+#video:active {
+	background-position: 0px 2px;
+}
+#code {
+	background-image: url("../img/codeIconGray.png");
+	-webkit-animation-delay: .8s;
+}
+#code:hover {
+	background-image: url("../img/codeIconOrange.png");
+}
+#code:active {
+	background-position: 0px 2px;
+}
+#about {
+	background-image: url("../img/aboutIconGray.png");
+	-webkit-animation-delay: .88s;
+}
+#about:hover {
+	background-image: url("../img/aboutIconOrange.png");
+}
+#about:active {
+	background-position: 0px 2px;
+}
+
+
+/*----------------------------------------------------------------------*/
+/*----------------Styling for project links on sub pages----------------*/
+.projectContainer {
+	position: relative;
+	width: 960px;
+	height: 200px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.projectCover {
+	display: inline-block;
+	position: absolute;
+	width:250px;
+	height: 194px;
+	background-size: 250px 194px;
+	margin-top: 6px;
+	left: 100px;
+}
+#scratchpost {
+	background-image: url("../img/fig1Scratchpost.png");
+	position: relative;
+}
+#scratchpost:hover {
+	background-image: url("../img/fig1ScratchpostHOVERCHEAT.png");
+}
+#drills {
+	background-image: url("../img/fig1Drills.png");
+}
+#frankentwix {
+	background-image: url("../img/fig1Frankentwix.png");
+}
+#cloak {
+	background-image: url("../img/fig1Cloaxedo.png");
+}
+#pass {
+	background-image: url("../img/fig1Pass.png");
+}
+#go {
+	background-image: url("../img/fig1Go.png");
+}

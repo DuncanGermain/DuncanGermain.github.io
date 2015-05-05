@@ -9,35 +9,25 @@
       <link type="text/css" rel="stylesheet" href="css/style.css">
       <link type="text/css" rel="stylesheet" href="http://fonts.googleapis.com/css?family=Montserrat:700|Raleway:600,300">
   </head>
-  <body >
+  <body background="img/woodgrain.png">
+    <div id="canvas">
       <header>
-          <nav class="navbar navbar-default">
-          <div class="container">
-              <div class="navbar-header">
-                  <a class="navbar-brand" href="/">Angular Routing Example</a>
-              </div>
-
-              <ul class="nav navbar-nav navbar-right">
-                  <li><a href="#main"> Main</a></li>
-                  <li><a href="#about"> About</a></li>
-                  <li><a href="#apparel"> Apparel</a></li>
-                  <li><a href="#art"> Art</a></li>
-                  <li><a href="#code"> Code</a></li>
-                  <li><a href="#design"> Design</a></li>
-                  <li><a href="#video"> Video</a></li>
-                  <li><a href="#writing"> Writing</a></li>
-              </ul>
-          </div>
-          </nav>
+        <a id="headerLogo" href="#main"></a>
+        <img id="borderTop" src="img/borderTop.png">
+        <nav id="nav">
+          <a href="#art" class="smallBoldLight"> Art</a>
+          <a href="#design" class="smallBoldLight"> Design</a>
+          <a href="#apparel" class="smallBoldLight"> Apparel</a>
+          <a href="#writing" class="smallBoldLight"> Writing</a>
+          <a href="#video" class="smallBoldLight"> Video</a>
+          <a href="#code" class="smallBoldLight"> Code</a>
+          <a href="#about" class="smallBoldLight"> About</a>
+        </nav>
       </header>
 
       <!-- MAIN CONTENT AND INJECTED VIEWS -->
-      <main ng-controller="displayController">
-        {{ message }}
-          <!-- angular templating -->
-          <!-- this is where content will be injected -->
-        <div ng-view></div>
-      </main>
+      <main ng-view></main>
+    </div>
     <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.15/angular.min.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.15/angular-route.js"></script>
     <script src="js/portfolio.js"></script>
