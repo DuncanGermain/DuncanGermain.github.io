@@ -1,0 +1,56 @@
+[
+	{
+		"name": "GO",
+		"blurb": "Filmed at UNC Chapel Hill and the courthouse plaza in Greensboro, North Carolina, this project represents my third and fourth years of parkour training. It's a personal sampler meant to convey the quieter, smoother, less extreme aspects of the discipline that were often overlooked in videos at the time.",
+		"imageURL": "img/fig1Go.png",
+		"time": "June 2005 - August 2007"
+	},
+	{
+		"name": "PILGRIMAGE",
+		"blurb": "This is a full-length documentary about the birthplace of parkour, and the practitioners who travel there to reconnect with the roots of the discipline.  It was completed collaboratively, with footage contributed by traceurs from around the world.  It contains philosophy, history, technical information, and plenty of action, and was fully endorsed by David Belle, one of parkour's central founding figures.",
+		"imageURL": "img/fig1Pilgrimage.png",
+		"time": "May 2007 - February 2008"
+	},
+	{
+		"name": "OBSTACLES & OPPORTUNITY",
+		"blurb": "An excerpt from the documentary Pilgrimage, this twelve-minute short features a close look at the history, philosophy, and method of parkour, as well as showcasing my first, cautious foray into the realm of graphic animation.",
+		"imageURL": "img/fig1ObstaclesAndOpportunity.png",
+		"time": "November 2007 (200 hours)"
+	},
+	{
+		"name": "ONE",
+		"blurb": "",
+		"imageURL": "img/fig1One.png",
+		"time": ""
+	},
+	{
+		"name": "NEXTGEN",
+		"blurb": "",
+		"imageURL": "img/fig1NextGen.png",
+		"time": ""
+	},
+	{
+		"name": "3RUN FAMILY",
+		"blurb": "",
+		"imageURL": "img/fig13RunFamily.png",
+		"time": ""
+	},
+	{
+		"name": "GEOMETER'S SKETCHPAD",
+		"blurb": "",
+		"imageURL": "img/fig1GeomSketch.png",
+		"time": ""
+	},
+	{
+		"name": "MOLLY MAID COMMERCIAL",
+		"blurb": "",
+		"imageURL": "img/fig1MollyMaid.png",
+		"time": ""
+	},
+	{
+		"name": "WHAT ARE YE DOIN'?",
+		"blurb": "",
+		"imageURL": "img/fig1Pirates.png",
+		"time": ""
+	}
+]

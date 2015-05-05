@@ -3,3 +3,10 @@
 
 	<p>{{message}}</p>
 </div>
+
+<section ng-repeat="snippet in snippets" class="projectContainer">
+	<div class="photoBox"><img class="projectCover" src="img/fig1Test.png"></div>
+	<span class="itemTitle">{{snippet.name}}</span>
+	<span class="itemTime raleway">{{snippet.time}}</span>
+	<span class="itemBlurb raleway">{{snippet.blurb}}</span>
+</section>

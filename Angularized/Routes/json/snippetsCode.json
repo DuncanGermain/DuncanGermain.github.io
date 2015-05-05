@@ -1,0 +1,14 @@
+[
+	{
+		"name": "SCRATCHPOST",
+		"blurb": "This was the capstone project during my tenure at Code Fellows, completed together with Matthew McClure and Nathan O'Brien.  It was my first live application, a collaborative screen-sharing tool for use in lectures and discussions.  Additional help given by Stephanie Zolayvar, who coded a simpler version for my classroom in 2009.",
+		"imageURL": "img/fig1Scratchpost.png",
+		"time": "January 2015 (100 hours)"
+	},
+	{
+		"name": "THINGMAKERY",
+		"blurb": "This portfolio site was itself a coding project, completed during my tenure at this.dev.  It was created using CSS, HTML5, JavaScript, NodeJS, and AngularJS.  The theme was built from the ground up, using Daniel Eden's Animate.css and resources created in Inkscape.",
+		"imageURL": "img/fig1ThingMakery.png",
+		"time": "May 2015 (50 hours)"
+	}
+]

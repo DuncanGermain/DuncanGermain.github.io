@@ -39,25 +39,42 @@ nav {
 	left: 44px;
 }
 
+.photoBox {
+	width: 256px;
+	height: 196px;
+	background-color: white;
+	border: 1px solid black;
+	box-shadow: 5px 5px 3px black;
+}
 
 /*----------------------------------------------------------------------*/
 /*-----------------------------Text styling-----------------------------*/
+.raleway {
+	font-family: 'Raleway'; sans-serif;
+	font-weight: 300;
+	font-size: 18px;
+	color: #d4d4d4;
+}
+
 .itemTitle {
 	font-family: 'Montserrat', sans-serif;
 	font-weight: 700;
 	font-size: 25pt;
 	color: #d4d4d4;
 	position: absolute;
+	top: 0px;
 	left: 380px;
 }
-.itemDescription {
-	width: 500px;
-	font-family: 'Raleway', sans-serif;
-	font-weight: 300;
-	color: #d4d4d4;
+.itemTime {
 	position: absolute;
 	left: 381px;
 	top: 55px;
+}
+.itemBlurb {
+	width: 500px;
+	position: absolute;
+	left: 381px;
+	top: 75px;
 }
 .smallBoldLight {
 	font-family: Raleway;
@@ -192,13 +209,15 @@ nav a:hover {
 	margin-bottom: 20px;
 }
 .projectCover {
-	display: inline-block;
+	margin-top: 8px;
+	margin-left: 8px;
+/*	display: inline-block;
 	position: absolute;
 	width:250px;
 	height: 194px;
 	background-size: 250px 194px;
 	margin-top: 6px;
-	left: 100px;
+	left: 100px;*/
 }
 #scratchpost {
 	background-image: url("../img/fig1Scratchpost.png");

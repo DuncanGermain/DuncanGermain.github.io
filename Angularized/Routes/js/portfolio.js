@@ -47,9 +47,12 @@ portfolioApp.controller('AboutController', function($scope) {
     $scope.message = "I'll be a résumé and articles about Duncan.";
 });
 
-portfolioApp.controller('ApparelController', function($scope) {
+portfolioApp.controller('ApparelController', ['$scope', '$http', function($scope, $http) {
+    $http.get('json/snippetsApparel.json').success(function(data) {
+      $scope.snippets = data;
+    });
     $scope.message = "I'll be a list of apparel projects.";
-});
+}]);
 
 portfolioApp.controller('ArtController', function($scope) {
     $scope.message = "I'll be a list of art projects.";
