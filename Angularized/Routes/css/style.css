@@ -107,6 +107,7 @@ nav a:hover {
 	margin: 10px;
 }
 #art {
+	margin-left: 60px;
 	background-image: url("../img/artIconGray.png");
 	-webkit-animation-delay: .4s;
 }

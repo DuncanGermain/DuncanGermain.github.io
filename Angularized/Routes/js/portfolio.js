@@ -7,31 +7,31 @@ portfolioApp.config(function($routeProvider) {
       controller:  'MainController'
     })
     .when('/about', {
-      templateUrl: 'partials/about.html',
+      templateUrl: 'partials/about/about.html',
       controller:  'AboutController'
     })
     .when('/apparel', {
-      templateUrl: 'partials/apparel.html',
+      templateUrl: 'partials/apparel/apparel.html',
       controller:  'ApparelController'
     })
     .when('/art', {
-      templateUrl: 'partials/art.html',
+      templateUrl: 'partials/art/art.html',
       controller:  'ArtController'
     })
     .when('/code', {
-      templateUrl: 'partials/code.html',
+      templateUrl: 'partials/code/code.html',
       controller:  'CodeController'
     })
     .when('/design', {
-      templateUrl: 'partials/design.html',
+      templateUrl: 'partials/design/design.html',
       controller:  'DesignController'
     })
     .when('/video', {
-      templateUrl: 'partials/video.html',
+      templateUrl: 'partials/video/video.html',
       controller:  'VideoController'
     })
     .when('/writing', {
-      templateUrl: 'partials/writing.html',
+      templateUrl: 'partials/writing/writing.html',
       controller:  'WritingController'
     })
     .otherwise({
