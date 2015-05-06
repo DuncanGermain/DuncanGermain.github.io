@@ -43,8 +43,15 @@ a {
 	text-decoration: none;
 }
 
+.fieldHeader {
+	min-height: 40px;
+}
+
 .options {
-	width: 150px;
+	min-width: 135px;
+	background: #474747;
+	border: 1px solid #d4d4d4;
+	margin-left: 50px;
 }
 
 /*----------------------------------------------------------------------*/
