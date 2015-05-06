@@ -1,6 +1,6 @@
 #canvas {
 	width: 960px;
-	height: 1000px;
+	min-height: 1000px;
 	background-color: #474747;
 	margin-right: auto;
 	margin-left: auto;
@@ -39,26 +39,26 @@ nav {
 	left: 44px;
 }
 
+a {
+	text-decoration: none;
+}
 
 /*----------------------------------------------------------------------*/
 /*-----------------------------Text styling-----------------------------*/
-.itemTitle {
+.raleway {
+	font-family: 'Raleway'; sans-serif;
+	font-weight: 300;
+	font-size: 18px;
+	color: #d4d4d4;
+}
+
+.montserrat {
 	font-family: 'Montserrat', sans-serif;
 	font-weight: 700;
 	font-size: 25pt;
 	color: #d4d4d4;
-	position: absolute;
-	left: 380px;
 }
-.itemDescription {
-	width: 500px;
-	font-family: 'Raleway', sans-serif;
-	font-weight: 300;
-	color: #d4d4d4;
-	position: absolute;
-	left: 381px;
-	top: 55px;
-}
+
 .smallBoldLight {
 	font-family: Raleway;
 	font-weight: 600;
@@ -111,6 +111,7 @@ nav a:hover {
 	margin: 10px;
 }
 #art {
+	margin-left: 60px;
 	background-image: url("../img/artIconGray.png");
 	-webkit-animation-delay: .4s;
 }
@@ -170,36 +171,21 @@ nav a:hover {
 #code:active {
 	background-position: 0px 2px;
 }
-#resume {
-	background-image: url("../img/resumeIconGray.png");
+#about {
+	background-image: url("../img/aboutIconGray.png");
 	-webkit-animation-delay: .88s;
 }
-#resume:hover {
-	background-image: url("../img/resumeIconOrange.png");
+#about:hover {
+	background-image: url("../img/aboutIconOrange.png");
 }
-#resume:active {
+#about:active {
 	background-position: 0px 2px;
 }
 
 
 /*----------------------------------------------------------------------*/
 /*----------------Styling for project links on sub pages----------------*/
-.projectContainer {
-	position: relative;
-	width: 960px;
-	height: 200px;
-	margin-top: 20px;
-	margin-bottom: 20px;
-}
-.projectCover {
-	display: inline-block;
-	position: absolute;
-	width:250px;
-	height: 194px;
-	background-size: 250px 194px;
-	margin-top: 6px;
-	left: 100px;
-}
+
 #scratchpost {
 	background-image: url("../img/fig1Scratchpost.png");
 	position: relative;

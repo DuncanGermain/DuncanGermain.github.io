@@ -1,0 +1,14 @@
+<section ng-repeat="snippet in snippets" class="projectContainer">
+	<div class="photoBox">
+		<a ng-href="#{{field}}/{{snippet.name}}">
+			<img class="projectCover" ng-src="{{snippet.imageURL}}">
+		</a>
+	</div>
+	<div class="blurbBox">
+		<a ng-href="#{{field}}/{{snippet.name}}">
+			<span class="itemTitle montserrat">{{snippet.title}}</span>
+		</a>
+		<span class="itemTime raleway">{{snippet.time}}</span>
+		<span class="itemBlurb raleway">{{snippet.blurb}}</span>
+	</div>
+</section>

@@ -1,41 +1,35 @@
 <!DOCTYPE html>
-<html lang="en">
-	<head>
-		<meta charset="UTF-8">
-		<link type="text/css" rel="stylesheet" href="css/normalize.css"/>
-		<link type="text/css" rel="stylesheet" href="css/animate.css"/>
-		<link type="text/css" rel="stylesheet" href="css/style.css"/>
-		<link type="text/css" rel="stylesheet" href="http://fonts.googleapis.com/css?family=Montserrat:700|Raleway:600,300">
-		<title>ThingMakery</title>
-	</head>
-	<body background="img/woodgrain.png">
-		<div id="canvas">
-			<header>
-				<a id="headerLogo" href="http://duncangermain.github.io"></a>
-				<img id="borderTop" src="img/borderTop.png">
-				<span id="duncan" class="smallBoldLight">Duncan Germain</span>
-				<nav id="nav">
-					<a href="html/art.html" class="smallBoldLight">Art</a>
-					<a href="html/design.html" class="smallBoldLight">Design</a>
-					<a href="html/apparel.html" class="smallBoldLight">Apparel</a>
-					<a href="html/writing.html" class="smallBoldLight">Writing</a>
-					<a href="html/video.html" class="smallBoldLight">Video</a>
-					<a href="html/code.html" class="smallBoldLight">Code</a>
-					<a href="https://docs.google.com/document/d/1eP-rco_bX4ENIN7D2nUgKqB8Fjs6ekZxCEkmDjn_KrE/edit?usp=sharing" class="smallBoldLight">Résumé</a>
-				</nav>
-			</header>
-			<main>
-				<a id="art" class="icon animated flipInX" href="html/art.html"></a>
-				<a id="design" class="icon animated flipInX" href="html/design.html"></a>
-				<a id="apparel" class="icon animated flipInX" href="html/apparel.html"></a>
-				<a id="writing" class="icon animated flipInX" href="html/writing.html"></a>
-				<a id="video" class="icon animated flipInX" href="html/video.html"></a>
-				<a id="code" class="icon animated flipInX" href="html/code.html"></a>
-				<a id="resume" class="icon animated flipInX" href="https://docs.google.com/document/d/1eP-rco_bX4ENIN7D2nUgKqB8Fjs6ekZxCEkmDjn_KrE/edit?usp=sharing"></a>
-			</main>
-			<footer>
-			</footer>
-		</div>
-	</body>
-</html>
+<html ng-app="portfolioApp">
+  <head>
+    <title>ThingMakery</title>
+    <meta charset="UTF-8">
+    <link type="text/css" rel="stylesheet" href="css/normalize.css">
+      <link type="text/css" rel="stylesheet" href="css/animate.css">
+      <link type="text/css" rel="stylesheet" href="css/layout.css">
+      <link type="text/css" rel="stylesheet" href="css/style.css">
+      <link type="text/css" rel="stylesheet" href="http://fonts.googleapis.com/css?family=Montserrat:700|Raleway:600,300">
+  </head>
+  <body background="img/woodgrain.png">
+    <div id="canvas">
+      <header>
+        <a id="headerLogo" href="#main"></a>
+        <img id="borderTop" src="img/borderTop.png">
+        <nav id="nav">
+          <a href="#art" class="smallBoldLight"> Art</a>
+          <a href="#design" class="smallBoldLight"> Design</a>
+          <a href="#apparel" class="smallBoldLight"> Apparel</a>
+          <a href="#writing" class="smallBoldLight"> Writing</a>
+          <a href="#video" class="smallBoldLight"> Video</a>
+          <a href="#code" class="smallBoldLight"> Code</a>
+          <a href="#about" class="smallBoldLight"> About</a>
+        </nav>
+      </header>
 
+      <!-- MAIN CONTENT AND INJECTED VIEWS -->
+      <main ng-view></main>
+    </div>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.15/angular.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.15/angular-route.js"></script>
+    <script src="js/portfolio.js"></script>
+  </body>
+</html>
