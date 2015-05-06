@@ -1,40 +1,36 @@
 var portfolioApp = angular.module('portfolioApp', ['ngRoute']);
 
+//TODO: Refactor with Mel
 portfolioApp.config(function($routeProvider) {
   $routeProvider
     .when('/main', {
       templateUrl: 'partials/main.html',
       controller:  'MainController'
-    })
-    .when('/about', {
+    }).when('/*', {
+      templateUrl: 'topic.html',
+      controller:  'TopicController'
+    }).when('/about', {
       templateUrl: 'partials/about/about.html',
       controller:  'AboutController'
-    })
-    .when('/apparel', {
+    }).when('/apparel', {
       templateUrl: 'partials/apparel/apparel.html',
       controller:  'ApparelController'
-    })
-    .when('/art', {
+    }).when('/art', {
       templateUrl: 'partials/art/art.html',
       controller:  'ArtController'
-    })
-    .when('/code', {
+    }).when('/code', {
       templateUrl: 'partials/code/code.html',
       controller:  'CodeController'
-    })
-    .when('/design', {
+    }).when('/design', {
       templateUrl: 'partials/design/design.html',
       controller:  'DesignController'
-    })
-    .when('/video', {
+    }).when('/video', {
       templateUrl: 'partials/video/video.html',
       controller:  'VideoController'
-    })
-    .when('/writing', {
+    }).when('/writing', {
       templateUrl: 'partials/writing/writing.html',
       controller:  'WritingController'
-    })
-    .otherwise({
+    }).otherwise({
       redirectTo: '/main'
     });
 });
@@ -42,6 +38,12 @@ portfolioApp.config(function($routeProvider) {
 portfolioApp.controller('MainController', function($scope) {
     $scope.message = "I'll be a handful of cool icons.";
 });
+
+portfolioApp.controller('TopicController', ['$scope', '$http', function($scope, $http) {
+    $http.get('json/snippetsAbout.json').success(function(data) {
+      $scope.snippets = data;
+    });
+}]);
 
 portfolioApp.controller('AboutController', ['$scope', '$http', function($scope, $http) {
     $http.get('json/snippetsAbout.json').success(function(data) {
