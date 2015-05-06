@@ -6,9 +6,9 @@ portfolioApp.config(function($routeProvider) {
     .when('/main', {
       templateUrl: 'partials/main.html',
       controller:  'MainController'
-    }).when('/:topic', {
-      templateUrl: 'partials/topic.html',
-      controller:  'TopicController'
+    }).when('/:field', {
+      templateUrl: 'partials/field.html',
+      controller:  'FieldController'
     }).when('/about', {
       templateUrl: 'partials/about/about.html',
       controller:  'AboutController'
@@ -38,8 +38,8 @@ portfolioApp.config(function($routeProvider) {
 portfolioApp.controller('MainController', function($scope) {
 });
 
-portfolioApp.controller('TopicController', ['$scope', '$http', function($scope, $http) {
-    $http.get('json/snippetsAbout.json').success(function(data) {
+portfolioApp.controller('FieldController', ['$scope', '$http', '$routeParams', function($scope, $http, $routeParams) {
+    $http.get('json/' + $routeParams.field + '.json').success(function(data) {
       $scope.snippets = data;
     });
 }]);
