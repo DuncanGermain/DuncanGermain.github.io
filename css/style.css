@@ -43,6 +43,10 @@ a {
 	text-decoration: none;
 }
 
+.options {
+	width: 150px;
+}
+
 /*----------------------------------------------------------------------*/
 /*-----------------------------Text styling-----------------------------*/
 .raleway {
@@ -83,22 +87,6 @@ nav a:hover {
 	color: #ff7722;
 }
 
-.hoverButton {
-	width: 200px;
-	height: 35px;
-	background-size: 200px 38px;
-	position: absolute;
-}
-#scratchpostLive {
-	background-image: url("../img/HOVERCHEATLIVE.png");
-	left: 25px;
-	top: 45px;
-}
-#scratchpostGit {
-	background-image: url("../img/HOVERCHEATGIT.png");
-	left: 25px;
-	top: 110px;
-}
 
 /*----------------------------------------------------------------------*/
 /*--------------------Styling for icons on main page--------------------*/
@@ -180,31 +168,4 @@ nav a:hover {
 }
 #about:active {
 	background-position: 0px 2px;
-}
-
-
-/*----------------------------------------------------------------------*/
-/*----------------Styling for project links on sub pages----------------*/
-
-#scratchpost {
-	background-image: url("../img/fig1Scratchpost.png");
-	position: relative;
-}
-#scratchpost:hover {
-	background-image: url("../img/fig1ScratchpostHOVERCHEAT.png");
-}
-#drills {
-	background-image: url("../img/fig1Drills.png");
-}
-#frankentwix {
-	background-image: url("../img/fig1Frankentwix.png");
-}
-#cloak {
-	background-image: url("../img/fig1Cloaxedo.png");
-}
-#pass {
-	background-image: url("../img/fig1Pass.png");
-}
-#go {
-	background-image: url("../img/fig1Go.png");
 }

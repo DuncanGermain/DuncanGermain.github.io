@@ -4,111 +4,119 @@
 		"name": "arch",
 		"blurb": "Originally designed as a part of my sixth grade curriculum, I rebuilt this eight-foot high problem for the Inflection Point kids' rationality camp.  Typically, it is presented to students disassembled and jumbled together, with no hints as to what it should be or what is expected of them.  Solving the problem requires teamwork, persistence, and most of all a set of clear heads.",
 		"imageURL": "img/fig1Test.png",
-		"time": "November 2014 - January 2015 (300 hours)"
+		"time": "November 2014 - January 2015 (300 hours)",
+		"tag": "Education"
 	},
 	{
 		"title": "FRANKENTWIX",
 		"name": "frankentwix",
 		"blurb": "Ankle-height railings, artificial stepping stones, and low curb-height wooden blocks are all common pieces of equipment in parkour gyms around the world. In this project, I combined all three into a single, versatile, portable training tool. Excellent for balance, precision, strides, broad jumps, and all kinds of physical conditioning.",
 		"imageURL": "img/fig1Frankentwix.png",
-		"time": "January 2015 (15 hours)"
+		"time": "January 2015 (15 hours)",
+		"tag": "Parkour"
 	},
 	{
 		"title": "MAGIC BOX",
 		"name": "deckbox",
 		"blurb": "",
 		"imageURL": "img/fig1Test.png",
-		"time": ""
+		"time": "",
+		"tag": "Games & Toys"
 	},
 	{
 		"title": "STRUCTURES",
 		"name": "structures",
 		"blurb": "",
 		"imageURL": "img/fig1Test.png",
-		"time": ""
+		"time": "",
+		"tag": "Games & Toys"
 	},
 	{
 		"title": "ORANGE LEGOS",
 		"name": "orange",
 		"blurb": "",
 		"imageURL": "img/fig1Test.png",
-		"time": ""
+		"time": "",
+		"tag": "Games & Toys"
 	},
 	{
 		"title": "GREEN LEGOS",
 		"name": "green",
 		"blurb": "",
 		"imageURL": "img/fig1Test.png",
-		"time": ""
+		"time": "",
+		"tag": "Games & Toys"
 	},
 	{
 		"title": "JUCANTE",
 		"name": "jucante",
 		"blurb": "",
 		"imageURL": "img/fig1Test.png",
-		"time": ""
-	},
-	{
-		"title": "PKV SITE MOCKUP",
-		"name": "pkv",
-		"blurb": "",
-		"imageURL": "img/fig1Test.png",
-		"time": ""
+		"time": "",
+		"tag": "Games & Toys"
 	},
 	{
 		"title": "BRIDGE",
 		"name": "bridge",
 		"blurb": "",
 		"imageURL": "img/fig1Test.png",
-		"time": ""
+		"time": "",
+		"tag": "Education"
 	},
 	{
 		"title": "PORTO-WALL, MARK II",
 		"name": "mark2",
 		"blurb": "",
 		"imageURL": "img/fig1Test.png",
-		"time": ""
+		"time": "",
+		"tag": "Parkour"
 	},
 	{
 		"title": "SHIMZILLA",
 		"name": "shimzilla",
 		"blurb": "",
 		"imageURL": "img/fig1Test.png",
-		"time": ""
+		"time": "",
+		"tag": "Parkour"
 	},
 	{
 		"title": "TIKI TOPPERS",
 		"name": "tiki",
 		"blurb": "",
 		"imageURL": "img/fig1Test.png",
-		"time": ""
+		"time": "",
+		"tag": "Parkour"
 	},
 	{
 		"title": "TURTLES",
 		"name": "turtles",
 		"blurb": "",
 		"imageURL": "img/fig1Test.png",
-		"time": ""
+		"time": "",
+		"tag": "Parkour"
 	},
 	{
 		"title": "THUGLETS",
 		"name": "thuglets",
 		"blurb": "",
 		"imageURL": "img/fig1Test.png",
-		"time": ""
+		"time": "",
+		"tag": "Parkour"
 	},
 	{
 		"title": "VAULT BOXEN",
 		"name": "vaultboxen",
 		"blurb": "",
 		"imageURL": "img/fig1Test.png",
-		"time": ""
+		"time": "",
+		"tag": "Parkour"
 	},
 	{
 		"title": "CHESSCRAFT",
 		"name": "chesscraft",
 		"blurb": "",
 		"imageURL": "img/fig1Test.png",
-		"time": ""
+		"time": "",
+		"tag": "Games & Toys"
 	}
 ]
