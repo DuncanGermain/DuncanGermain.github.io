@@ -6,8 +6,8 @@ portfolioApp.config(function($routeProvider) {
     .when('/main', {
       templateUrl: 'partials/main.html',
       controller:  'MainController'
-    }).when('/*', {
-      templateUrl: 'topic.html',
+    }).when('/:topic', {
+      templateUrl: 'partials/topic.html',
       controller:  'TopicController'
     }).when('/about', {
       templateUrl: 'partials/about/about.html',
@@ -36,7 +36,6 @@ portfolioApp.config(function($routeProvider) {
 });
 
 portfolioApp.controller('MainController', function($scope) {
-    $scope.message = "I'll be a handful of cool icons.";
 });
 
 portfolioApp.controller('TopicController', ['$scope', '$http', function($scope, $http) {
