@@ -1,55 +1,60 @@
 [
 	{
-		"name": "GO",
+		"title": "GO",
+		"name": "go",
 		"blurb": "Filmed at UNC Chapel Hill and the courthouse plaza in Greensboro, North Carolina, this project represents my third and fourth years of parkour training. It's a personal sampler meant to convey the quieter, smoother, less extreme aspects of the discipline that were often overlooked in videos at the time.",
 		"imageURL": "img/fig1Go.png",
 		"time": "June 2005 - August 2007"
 	},
 	{
-		"name": "PILGRIMAGE",
+		"title": "PILGRIMAGE",
+		"name": "pilgrimage",
 		"blurb": "This is a full-length documentary about the birthplace of parkour, and the practitioners who travel there to reconnect with the roots of the discipline.  It was completed collaboratively, with footage contributed by traceurs from around the world.  It contains philosophy, history, technical information, and plenty of action, and was fully endorsed by David Belle, one of parkour's central founding figures.",
 		"imageURL": "img/fig1Test.png",
 		"time": "May 2007 - February 2008"
 	},
 	{
-		"name": "OBSTACLES & OPPORTUNITY",
+		"title": "OBSTACLES & OPPORTUNITY",
+		"name": "blackwhite",
 		"blurb": "An excerpt from the documentary Pilgrimage, this twelve-minute short features a close look at the history, philosophy, and method of parkour, as well as showcasing my first, cautious foray into the realm of graphic animation.",
 		"imageURL": "img/fig1Test.png",
 		"time": "November 2007 (200 hours)"
 	},
 	{
-		"name": "ONE",
+		"title": "ONE",
+		"name": "one",
 		"blurb": "",
 		"imageURL": "img/fig1Test.png",
 		"time": ""
 	},
 	{
-		"name": "NEXTGEN",
+		"title": "NEXTGEN",
+		"name": "nextgen",
 		"blurb": "",
 		"imageURL": "img/fig1Test.png",
 		"time": ""
 	},
 	{
-		"name": "3RUN FAMILY",
-		"blurb": "",
+		"title": "3RUN FAMILY",
+		"blurb": "3run",
 		"imageURL": "img/fig1Test.png",
 		"time": ""
 	},
 	{
-		"name": "GEOMETER'S SKETCHPAD",
-		"blurb": "",
+		"title": "GEOMETER'S SKETCHPAD",
+		"blurb": "geo",
 		"imageURL": "img/fig1Test.png",
 		"time": ""
 	},
 	{
-		"name": "MOLLY MAID COMMERCIAL",
-		"blurb": "",
+		"title": "MOLLY MAID COMMERCIAL",
+		"blurb": "mollymaid",
 		"imageURL": "img/fig1Test.png",
 		"time": ""
 	},
 	{
-		"name": "WHAT ARE YE DOIN'?",
-		"blurb": "",
+		"title": "WHAT ARE YE DOIN'?",
+		"blurb": "typography",
 		"imageURL": "img/fig1Test.png",
 		"time": ""
 	}

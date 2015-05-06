@@ -1,18 +1,21 @@
 [
 	{
-		"name": "PASS",
+		"title": "PASS",
+		"name": "pass",
 		"blurb": "Pass is the title of my ongoing novel (realistic fiction).  It follows Conor Moreton, a seventh grader with a penchant for climbing on things, as he deals with the unraveling of his oldest and most important friendship and a teacher with strange ideas and even stranger methods.",
 		"imageURL": "img/fig1Pass.png",
 		"time": "June 2006 - Present"
 	},
 	{
-		"name": "R!ANIMORPHS: THE RECKONING",
+		"title": "R!ANIMORPHS: THE RECKONING",
+		"name": "animorphs",
 		"blurb": "This is a fanfiction, inspired by 'Harry Potter and the Methods of Rationality' and based on the beloved teen sci-fi series 'Animorphs.'  In this reimagining, the rules of the universe have been made internally consistent, and both heroes and villains act with rational self-interest, moving toward victory as quickly and intelligently as they can.",
 		"imageURL": "img/fig1Test.png",
 		"time": "January 2015 - Present"
 	},
 	{
-		"name": "INFLECTION POINT",
+		"title": "INFLECTION POINT",
+		"name": "camp",
 		"blurb": "This is the curriculum for a two-week rationality camp developed for the middle-grades age group.  Its intent is to lay the groundwork for lifelong growth as an agent for positive change, providing underchallenged kids and teens with an introduction to the core concepts of logic, psychology, decision theory, epistemology, and heroic responsibility.",
 		"imageURL": "img/fig1Test.png",
 		"time": "January 2015 - Present"

@@ -1,30 +1,35 @@
 [
 	{
-		"name": "RÉSUMÉ",
+		"title": "RÉSUMÉ",
+		"name": "",
 		"blurb": "",
 		"imageURL": "img/fig1Test.png",
 		"time": ""
 	},
 	{
-		"name": "USA TODAY",
+		"title": "USA TODAY",
+		"name": "",
 		"blurb": "",
 		"imageURL": "img/fig1Test.png",
 		"time": ""
 	},
 	{
-		"name": "AMERICAN FITNESS",
+		"title": "AMERICAN FITNESS",
+		"name": "",
 		"blurb": "",
 		"imageURL": "img/fig1Test.png",
 		"time": ""
 	},
 	{
-		"name": "EDUCATIONAL THEORY",
+		"title": "EDUCATIONAL THEORY",
+		"name": "",
 		"blurb": "",
 		"imageURL": "img/fig1Test.png",
 		"time": ""
 	},
 	{
-		"name": "PARKOUR HANDBOOK",
+		"title": "PARKOUR HANDBOOK",
+		"name": "",
 		"blurb": "",
 		"imageURL": "img/fig1Test.png",
 		"time": ""
