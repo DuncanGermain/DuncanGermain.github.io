@@ -12,12 +12,5 @@
 		"blurb": "This portfolio site was itself a coding project, completed during my tenure at this.dev.  It was created using CSS, HTML5, JavaScript, NodeJS, and AngularJS.  The theme was built from the ground up, using Daniel Eden's Animate.css and resources created in Inkscape.",
 		"imageURL": "img/fig1Test.png",
 		"time": "May 2015 (50 hours)"
-	},
-	{
-		"title": "PKV SITE MOCKUP",
-		"name": "pkv",
-		"blurb": "",
-		"imageURL": "img/fig1Test.png",
-		"time": ""
 	}
 ]
