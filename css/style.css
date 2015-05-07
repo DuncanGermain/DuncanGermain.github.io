@@ -5,10 +5,11 @@
 	margin-right: auto;
 	margin-left: auto;
 	box-shadow: 0 0 30px 5px black;
+	padding-bottom: 50px;
 }
 header {
 	position: relative;
-	height: 300px;
+	height: 180px;
 }
 #headerLogo {
 	display: inline-block;
@@ -51,7 +52,7 @@ a {
 	min-width: 135px;
 	background: #474747;
 	border: 1px solid #d4d4d4;
-	margin-left: 50px;
+	margin-left: 43px;
 }
 
 /*----------------------------------------------------------------------*/
@@ -68,9 +69,10 @@ a {
 	font-weight: 700;
 	font-size: 25pt;
 	color: #d4d4d4;
+	text-shadow: 2px 2px 2px black;
 }
 
-.smallBoldLight {
+nav a, .sbGray {
 	font-family: Raleway;
 	font-weight: 600;
 	font-size: 11pt;
@@ -78,7 +80,7 @@ a {
 	text-decoration: none;
 	text-shadow: 2px 2px #212121;
 }
-.smallBoldOrange {
+.sbOrange {
 	font-family: Raleway;
 	font-weight: 600;
 	font-size: 11pt;

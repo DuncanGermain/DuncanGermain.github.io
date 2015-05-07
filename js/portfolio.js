@@ -32,3 +32,10 @@ portfolioApp.controller('ProjectController', ['$scope', '$http', '$routeParams',
       $scope.snippets = data;
     });
 }]);
+
+portfolioApp.controller('HeaderController', ['$scope', '$routeParams', function($scope, $routeParams) {
+  $scope.fields = ['Art', 'Design', 'Apparel', 'Writing', 'Video', 'Code', 'About'];
+  $scope.url = $routeParams;
+}]);
+
+
