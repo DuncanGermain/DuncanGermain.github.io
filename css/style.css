@@ -5,10 +5,11 @@
 	margin-right: auto;
 	margin-left: auto;
 	box-shadow: 0 0 30px 5px black;
+	padding-bottom: 50px;
 }
 header {
 	position: relative;
-	height: 300px;
+	height: 180px;
 }
 #headerLogo {
 	display: inline-block;
@@ -43,6 +44,17 @@ a {
 	text-decoration: none;
 }
 
+.fieldHeader {
+	min-height: 40px;
+}
+
+.options {
+	min-width: 135px;
+	background: #474747;
+	border: 1px solid #d4d4d4;
+	margin-left: 43px;
+}
+
 /*----------------------------------------------------------------------*/
 /*-----------------------------Text styling-----------------------------*/
 .raleway {
@@ -57,9 +69,10 @@ a {
 	font-weight: 700;
 	font-size: 25pt;
 	color: #d4d4d4;
+	text-shadow: 2px 2px 2px black;
 }
 
-.smallBoldLight {
+nav a, .sbGray {
 	font-family: Raleway;
 	font-weight: 600;
 	font-size: 11pt;
@@ -67,7 +80,7 @@ a {
 	text-decoration: none;
 	text-shadow: 2px 2px #212121;
 }
-.smallBoldOrange {
+.sbOrange {
 	font-family: Raleway;
 	font-weight: 600;
 	font-size: 11pt;
@@ -83,22 +96,6 @@ nav a:hover {
 	color: #ff7722;
 }
 
-.hoverButton {
-	width: 200px;
-	height: 35px;
-	background-size: 200px 38px;
-	position: absolute;
-}
-#scratchpostLive {
-	background-image: url("../img/HOVERCHEATLIVE.png");
-	left: 25px;
-	top: 45px;
-}
-#scratchpostGit {
-	background-image: url("../img/HOVERCHEATGIT.png");
-	left: 25px;
-	top: 110px;
-}
 
 /*----------------------------------------------------------------------*/
 /*--------------------Styling for icons on main page--------------------*/
@@ -180,31 +177,4 @@ nav a:hover {
 }
 #about:active {
 	background-position: 0px 2px;
-}
-
-
-/*----------------------------------------------------------------------*/
-/*----------------Styling for project links on sub pages----------------*/
-
-#scratchpost {
-	background-image: url("../img/fig1Scratchpost.png");
-	position: relative;
-}
-#scratchpost:hover {
-	background-image: url("../img/fig1ScratchpostHOVERCHEAT.png");
-}
-#drills {
-	background-image: url("../img/fig1Drills.png");
-}
-#frankentwix {
-	background-image: url("../img/fig1Frankentwix.png");
-}
-#cloak {
-	background-image: url("../img/fig1Cloaxedo.png");
-}
-#pass {
-	background-image: url("../img/fig1Pass.png");
-}
-#go {
-	background-image: url("../img/fig1Go.png");
 }

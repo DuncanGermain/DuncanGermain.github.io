@@ -11,13 +11,13 @@
 	background-color: white;
 	border: 1px solid black;
 	box-shadow: 5px 5px 3px black;
-	margin-left: 50px;
-	margin-right: 50px;
+	margin-left: 43px;
+	margin-right: 43px;
 }
 .blurbBox {
 	display: inline-block;
 	vertical-align: top;
-	width: 550px;
+	width: 565px;
 	height: 196px;
 }
 .projectCover {
