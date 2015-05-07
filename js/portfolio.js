@@ -20,6 +20,11 @@ portfolioApp.config(function($routeProvider) {
 portfolioApp.controller('MainController', function($scope) {
 });
 
+portfolioApp.controller('HeaderController', ['$scope', '$routeParams', function($scope, $routeParams) {
+  $scope.fields = ['Art', 'Design', 'Apparel', 'Writing', 'Video', 'Code', 'About'];
+  $scope.url = $routeParams;
+}]);
+
 portfolioApp.controller('FieldController', ['$scope', '$http', '$routeParams', function($scope, $http, $routeParams) {
     $scope.field = $routeParams.field;
     $http.get('json/' + $routeParams.field + '.json').success(function(data) {
@@ -28,14 +33,10 @@ portfolioApp.controller('FieldController', ['$scope', '$http', '$routeParams', f
 }]);
 
 portfolioApp.controller('ProjectController', ['$scope', '$http', '$routeParams', function($scope, $http, $routeParams) {
-    $http.get('json/' + $routeParams.project + '.json').success(function(data) {
-      $scope.snippets = data;
+    $http.get('json/projects/' + $routeParams.project + '.json').success(function(data) {
+      $scope.contents = data;
     });
 }]);
 
-portfolioApp.controller('HeaderController', ['$scope', '$routeParams', function($scope, $routeParams) {
-  $scope.fields = ['Art', 'Design', 'Apparel', 'Writing', 'Video', 'Code', 'About'];
-  $scope.url = $routeParams;
-}]);
 
 

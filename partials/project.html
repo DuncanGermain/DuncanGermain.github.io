@@ -1,1 +1,8 @@
-<p>I'm a project details page!</p>
+<div ng-repeat="item in contents">
+	<span class="projectTitle montserrat">{{item.title}}</span>
+	<span class="projectImage" ng-show="{{true}}"><img ng-src="{{item.imageURL}}"></span>
+	<span class="projectCaption" ng-show="{{item.caption}}">{{item.caption}}</span>
+	<span class="projectBlurb" ng-show="{{item.blurb}}">{{item.blurb}}</span>
+</div>
+
+<p>I'm a project page!</p>
