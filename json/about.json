@@ -9,7 +9,7 @@
 	{
 		"title": "NOW YOU SEE IT",
 		"name": "pedagogy",
-		"blurb": "Now You See It: How Technology and Brain Science Will Transform Schools and Business for the 21st Century. In its fifth chapter, Cathy N. Davidson's text on the future of education features an extensive look at my sixth grade Creative Productions classroom at Voyager Academy in North Carolina.",
+		"blurb": "Now You See It: How Technology and Brain Science Will Transform Schools and Business for the 21st Century. In its fifth chapter, Cathy N. Davidson's text on the future of education features an extensive look at my sixth grade Core Connections classroom at the project-based learning Voyager Academy in North Carolina.",
 		"imageURL": "img/fig1Pedagogy.png",
 		"time": "July 2012"
 	},
@@ -26,6 +26,13 @@
 		"blurb": "Dan Edwardes' handbook on the disciplines of parkour and freerunning, featuring an introduction written by me.",
 		"imageURL": "img/fig1Handbook.png",
 		"time": "August 2009"
+	},
+	{
+		"title": "PILGRIMAGE",
+		"name": "pilgrimage",
+		"blurb": "WorldwideJam's interview with me after the release of my documentary Pilgrimage, about the birthplace of parkour and the practitioners who travel there from around the world to train.",
+		"imageURL": "img/fig1Pilgrimage.png",
+		"time": "March 2008"
 	},
 	{
 		"title": "LOOK MA, NO HANDS",
