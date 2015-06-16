@@ -1,12 +1,4 @@
 [
-	// {
-	// 	"title": "BITCHIN' WATERCOLOR",
-	// 	"name": "watercolor",
-	// 	"blurb": "",
-	// 	"imageURL": "img/fig1Test.png",
-	// 	"time": "",
-	// 	"tag": "2D"
-	// },
 	{
 		"title": "SPACEPAINTING",
 		"name": "space",
@@ -67,7 +59,7 @@
 		"title": "GRAPHIC ART",
 		"name": "pilgrimage",
 		"blurb": "In the fall of 2007, as a part of my work on the parkour documentary \"Pilgrimage,\" I created a large number of silhouettes and stylized line-art representations of parkour, its practitioners, and the city at the heart of the project, Lisses, France.",
-		"imageURL": "img/fig1Dame.png",
+		"imageURL": "img/fig1Pilgrimage.png",
 		"time": "August 2007 - November 2007 (30 hours)",
 		"tag": "Digital"
 	},
