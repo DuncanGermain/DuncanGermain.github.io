@@ -1,4 +1,28 @@
 [
+	// {
+	// 	"title": "BITCHIN' WATERCOLOR",
+	// 	"name": "watercolor",
+	// 	"blurb": "",
+	// 	"imageURL": "img/fig1Test.png",
+	// 	"time": "",
+	// 	"tag": "2D"
+	// },
+	{
+		"title": "SPACEPAINTING",
+		"name": "space",
+		"blurb": "Around the summer of 2009, I stumbled across several examples of street-art spacescapes made with only spray paint, round bowls, and magazine pages.  I gave it a try at the time, but ended up giving those paintings away as gifts to my sixth grade students. In the spring of 2015, I decided to revisit the artform with some friends.",
+		"imageURL": "img/fig1Space.png",
+		"time": "April 2015 (1 hour)",
+		"tag": "2D"
+	},
+	{
+		"title": "NON-LINEAR STORYTELLING",
+		"name": "wizards",
+		"blurb": "In winter of 2014, I applied for a job in the Creative Department at Wizards of the Coast, working on storylines for the Magic: The Gathering trading card game.  This was a supplemental piece submitted with my application, meant to demonstrate creativity, world-building, and outside-the-box-thinking.",
+		"imageURL": "img/fig1Wizards.png",
+		"time": "December 2014 (30 hours)",
+		"tag": "3D"
+	},
 	{
 		"title": "POINTILLISM",
 		"name": "drills",
@@ -6,14 +30,6 @@
 		"imageURL": "img/fig1Drills.png",
 		"time": "September 2014 (30 hours)",
 		"tag": "2D"
-	},
-	{
-		"title": "NON-LINEAR STORYTELLING",
-		"name": "wizards",
-		"blurb": "In December of 2014, I applied for a job in the Creative Department working on storylines for the Magic: The Gathering trading card game.  This was a supplemental piece submitted with my application, meant to demonstrate creativity, world-building, and outside-the-box-thinking.",
-		"imageURL": "img/fig1Wizards.png",
-		"time": "December 2014 (30 hours)",
-		"tag": "3D"
 	},
 	{
 		"title": "POSTER DESIGN",
@@ -28,7 +44,7 @@
 		"name": "pkv",
 		"blurb": "During my first few months in Seattle, while volunteering at a gym for parkour, freerunning, acrobatics, and obstacle coursing, I created the following website concept using the vector graphics program Inkscape.  Although it was sadly never implemented, I retained elements of its style for my own portfolio site.",
 		"imageURL": "img/fig1PKV.png",
-		"time": "",
+		"time": "January 2013 (40 hours)",
 		"tag": "Digital"
 	},
 	{
@@ -48,75 +64,43 @@
 		"tag": "3D"
 	},
 	{
+		"title": "GRAPHIC ART",
+		"name": "pilgrimage",
+		"blurb": "In the fall of 2007, as a part of my work on the parkour documentary \"Pilgrimage,\" I created a large number of silhouettes and stylized line-art representations of parkour, its practitioners, and the city at the heart of the project, Lisses, France.",
+		"imageURL": "img/fig1Dame.png",
+		"time": "August 2007 - November 2007 (30 hours)",
+		"tag": "Digital"
+	},
+	{
+		"title": "PHOTOMOSAIC",
+		"name": "hand",
+		"blurb": "This was an international project, intended for David Belle, the \"father of parkour,\" and ultimately delivered to him at his home in Lisses, France.  Over 400 parkour practitioners (traceurs) from around the world sent in photographs of their hands, which I assembled into this tribute to his guidance and inspiration.",
+		"imageURL": "img/fig1Hand.png",
+		"time": "May 2007 (30 hours)",
+		"tag": "2D"
+	},
+	{
+		"title": "PORTRAITURE",
+		"name": "portrait",
+		"blurb": "During my junior year at the North Carolina School of Science and Math, I went in search of someone who could sketch a portrait of the main character from a story I was writing, based off some cobbled-together photographs.  No one could, so I picked up some pencils and paper gave it a shot myself, eventually completing around 30 portraits.",
+		"imageURL": "img/fig1Portrait.png",
+		"time": "January 2003 - August 2005 (100 hours)",
+		"tag": "2D"
+	},
+	{
+		"title": "MECHANICAL DRAWING",
+		"name": "pyramids",
+		"blurb": "During my senior year at the North Carolina School of Science and Math, Professor Joe Liles was kind enough to accommodate my request for an independent study in mechanical drawing when the actual class didn't fit my schedule.  He gave me a book, a desk, and some tools, and turned me loose for what quickly became my favorite hour of the day.",
+		"imageURL": "img/fig1Golden.png",
+		"time": "October 2003 - December 2003 (50 hours)",
+		"tag": "2D"
+	},
+	{
 		"title": "BEATSTICK",
 		"name": "lanyard",
 		"blurb": "In my youth, I attended summer camp with the YMCA at Camp Frontier.  It was usually somewhere in the vicinity of 100°, and as an antisocial, out-of-shape Star Wars nerd, I didn't end up hanging out with the other boys very often.  The girls, however, were braiding lanyards in the shade during tennis, and that was about my speed.",
 		"imageURL": "img/fig1Test.png",
 		"time": "July 2001 (20 hours)",
 		"tag": "3D"
-	},
-	{
-		"title": "WOODBURNING",
-		"name": "mana",
-		"blurb": "",
-		"imageURL": "img/fig1Test.png",
-		"time": "",
-		"tag": "2D"
-	},
-	{
-		"title": "PORTRAITURE",
-		"name": "portrait",
-		"blurb": "",
-		"imageURL": "img/fig1Test.png",
-		"time": "",
-		"tag": "2D"
-	},
-	{
-		"title": "MECHANICAL DRAWING",
-		"name": "pyramids",
-		"blurb": "",
-		"imageURL": "img/fig1Test.png",
-		"time": "",
-		"tag": "2D"
-	},
-	{
-		"title": "PARKOUR EQUIPMENT",
-		"name": "portowall",
-		"blurb": "",
-		"imageURL": "img/fig1Test.png",
-		"time": "",
-		"tag": "2D"
-	},
-	{
-		"title": "SPACEPAINTING",
-		"name": "space",
-		"blurb": "",
-		"imageURL": "img/fig1Test.png",
-		"time": "",
-		"tag": "2D"
-	},
-	{
-		"title": "PHOTOMOSAIC/AWARD",
-		"name": "hand",
-		"blurb": "",
-		"imageURL": "img/fig1Test.png",
-		"time": "",
-		"tag": "2D"
-	},
-	{
-		"title": "GRAPHIC ART",
-		"name": "pilgrimage",
-		"blurb": "",
-		"imageURL": "img/fig1Test.png",
-		"time": "",
-		"tag": "Digital"
-	},
-	{
-		"title": "BITCHIN' WATERCOLOR",
-		"name": "watercolor",
-		"blurb": "",
-		"imageURL": "img/fig1Test.png",
-		"time": "",
-		"tag": "2D"
 	}
 ]
