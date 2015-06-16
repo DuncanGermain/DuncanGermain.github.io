@@ -1,8 +1,9 @@
-<div ng-repeat="item in contents">
+<div class="itemContainer" ng-repeat="item in contents">
 	<span class="projectTitle montserrat">{{item.title}}</span>
-	<span class="projectImage" ng-show="{{true}}"><img ng-src="{{item.imageURL}}"></span>
-	<span class="projectCaption" ng-show="{{item.caption}}">{{item.caption}}</span>
-	<span class="projectBlurb" ng-show="{{item.blurb}}">{{item.blurb}}</span>
+	<span class="projectImage"><img ng-src="{{item.imageURL}}"></span>
+	<span class="projectCaption">{{item.caption}}</span>
+	<span class="projectBlurb">{{item.blurb}}</span>
+	<span class="projectLink"><a ng-href="{{item.linkURL}}">{{item.linkText}}</a></span>
 </div>
 
 <p>I'm a project page!</p>

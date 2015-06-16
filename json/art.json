@@ -8,39 +8,39 @@
 		"tag": "2D"
 	},
 	{
-		"title": "WIZARDS APPLICATION",
+		"title": "NON-LINEAR STORYTELLING",
 		"name": "wizards",
 		"blurb": "In December of 2014, I applied for a job in the Creative Department working on storylines for the Magic: The Gathering trading card game.  This was a supplemental piece submitted with my application, meant to demonstrate creativity, world-building, and outside-the-box-thinking.",
-		"imageURL": "img/fig1Test.png",
+		"imageURL": "img/fig1Wizards.png",
 		"time": "December 2014 (30 hours)",
 		"tag": "3D"
 	},
 	{
-		"title": "FATHER'S DAY",
+		"title": "POSTER DESIGN",
 		"name": "whist",
 		"blurb": "When I stumbled across a two-page excerpt in Edgar Allan Poe's \"The Murders in the Rue Morgue\" extolling the virtues of whist and whist players, I knew that I had found the seed of the perfect Father's Day present.  Completed using Inkscape and photos from the Pershing Room at West Point, where my father spent years playing.",
-		"imageURL": "img/fig1Test.png",
+		"imageURL": "img/fig1Whist.png",
 		"time": "April 2013 (25 hours)",
 		"tag": "2D"
 	},
 	{
-		"title": "PKV SITE MOCKUP",
+		"title": "WEBSITE DESIGN",
 		"name": "pkv",
-		"blurb": "",
-		"imageURL": "img/fig1Test.png",
+		"blurb": "During my first few months in Seattle, while volunteering at a gym for parkour, freerunning, acrobatics, and obstacle coursing, I created the following website concept using the vector graphics program Inkscape.  Although it was sadly never implemented, I retained elements of its style for my own portfolio site.",
+		"imageURL": "img/fig1PKV.png",
 		"time": "",
 		"tag": "Digital"
 	},
 	{
-		"title": "LIGNIFIED RAPTOR",
+		"title": "POPSICLE STICK SCULPTURE",
 		"name": "raptor",
 		"blurb": "One of the final projects in my sixth grade class was a bridge-building challenge with popsicle sticks and hot glue.  By my third year of teaching, I had already constructed multiple example bridges, and instead spent the time between student questions sculpting the bust of a velociraptor.",
-		"imageURL": "img/fig1Test.png",
+		"imageURL": "img/fig1Raptor.png",
 		"time": "April 2012 (15 hours)",
 		"tag": "3D"
 	},
 	{
-		"title": "VAULT",
+		"title": "HOT GLUE SCULPTURE",
 		"name": "vault",
 		"blurb": "In 2011, my friend Stephanie introduced me to the concept of sculpting with hot glue (laying down layer after layer in a sort of 3D printing).  Using string and paperclips to create a wireframe skeleton, I sculpted a traceur performing a speed vault and skinned it with black airsoft pellets.",
 		"imageURL": "img/fig1Test.png",
@@ -56,7 +56,7 @@
 		"tag": "3D"
 	},
 	{
-		"title": "MAGIC WOODBURNING",
+		"title": "WOODBURNING",
 		"name": "mana",
 		"blurb": "",
 		"imageURL": "img/fig1Test.png",
@@ -64,7 +64,7 @@
 		"tag": "2D"
 	},
 	{
-		"title": "PORTRAIT",
+		"title": "PORTRAITURE",
 		"name": "portrait",
 		"blurb": "",
 		"imageURL": "img/fig1Test.png",
@@ -80,7 +80,7 @@
 		"tag": "2D"
 	},
 	{
-		"title": "PORTOWALL",
+		"title": "PARKOUR EQUIPMENT",
 		"name": "portowall",
 		"blurb": "",
 		"imageURL": "img/fig1Test.png",
@@ -96,7 +96,7 @@
 		"tag": "2D"
 	},
 	{
-		"title": "THE HAND FOR DAVID BELLE",
+		"title": "PHOTOMOSAIC/AWARD",
 		"name": "hand",
 		"blurb": "",
 		"imageURL": "img/fig1Test.png",
@@ -104,7 +104,7 @@
 		"tag": "2D"
 	},
 	{
-		"title": "PILGRIMAGE ARTWORK",
+		"title": "GRAPHIC ART",
 		"name": "pilgrimage",
 		"blurb": "",
 		"imageURL": "img/fig1Test.png",

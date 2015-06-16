@@ -15,7 +15,7 @@
 	},
 	{
 		"title": "THE ALLURE OF PARKOUR",
-		"name": "",
+		"name": "magazine",
 		"blurb": "Jeff Schnaufer's article on parkour in American Fitness magazine, drawing on interviews from me and other practitioners and featuring photos of me training in Chapel Hill, NC and San Francisco, CA.",
 		"imageURL": "img/fig1Fitness.png",
 		"time": "March 2010"
@@ -28,8 +28,8 @@
 		"time": "August 2009"
 	},
 	{
-		"title": "PILGRIMAGE",
-		"name": "pilgrimage",
+		"title": "INSIDE LOOK: PILGRIMAGE",
+		"name": "worldwide",
 		"blurb": "WorldwideJam's interview with me after the release of my documentary Pilgrimage, about the birthplace of parkour and the practitioners who travel there from around the world to train.",
 		"imageURL": "img/fig1Pilgrimage.png",
 		"time": "March 2008"
