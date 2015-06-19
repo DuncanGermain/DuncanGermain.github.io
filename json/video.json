@@ -10,29 +10,29 @@
 		"title": "PILGRIMAGE",
 		"name": "pilgrimage",
 		"blurb": "This is a full-length documentary about the birthplace of parkour, and the practitioners who travel there to reconnect with the roots of the discipline.  It was completed collaboratively, with footage contributed by traceurs from around the world.  It contains philosophy, history, technical information, and plenty of action, and was fully endorsed by David Belle, one of parkour's central founding figures.",
-		"imageURL": "img/fig1Test.png",
+		"imageURL": "img/fig1Proof.png",
 		"time": "May 2007 - February 2008 (1000 hours)"
 	},
 	{
 		"title": "OBSTACLES & OPPORTUNITY",
 		"name": "blackwhite",
 		"blurb": "An excerpt from the documentary Pilgrimage, this twelve-minute short features a close look at the history, philosophy, and method of parkour, as well as showcasing my first, cautious foray into the realm of graphic animation.",
-		"imageURL": "img/fig1Test.png",
+		"imageURL": "img/fig1Obstacles.png",
 		"time": "November 2007 (200 hours)"
 	},
 	{
 		"title": "ONE",
 		"name": "one",
-		"blurb": "",
-		"imageURL": "img/fig1Test.png",
-		"time": ""
+		"blurb": "In 2010, three years after my documentary Pilgrimage and two years after a serious fall, I returned to Lisses with my friend Alan and the goal of filming a first-person POV run through some of the most famous \"original\" parkour obstacles.  I had originally hoped to do the run many times and choose the best take, but circumstances prevented me from doing it more than once.",
+		"imageURL": "img/fig1One.png",
+		"time": "July 2010 (1 hour)"
 	},
 	{
 		"title": "NEXTGEN",
 		"name": "nextgen",
-		"blurb": "",
-		"imageURL": "img/fig1Test.png",
-		"time": ""
+		"blurb": "As I was leaving Voyager Academy, I knew that I might want to reference the success of my afterschool parkour club in future job searches, so I asked nine of my students to come out for a midsummer filming/jam session.  We filled the gym with equipment and trained for the better part of a day, with Tanner Smith as my backup instructor/cameraman.",
+		"imageURL": "img/fig1Next.png",
+		"time": "July 2011 (20 hours)"
 	},
 	{
 		"title": "3RUN FAMILY",
@@ -41,21 +41,22 @@
 		"time": ""
 	},
 	{
-		"title": "GEOMETER'S SKETCHPAD",
-		"blurb": "geo",
-		"imageURL": "img/fig1Test.png",
-		"time": ""
+		"title": "COMMERCIAL (MOLLY MAID)",
+		"name": "commercial",
+		"blurb": "My father owns a Molly Maid franchise in North Carolina, and once recruited me, my mother, and my grandmother to make a quick advertisement he could place on the local page of the Molly Maid website.  The filming was done with tripods in my childhood home as our regular cleaning crew went about their routine.",
+		"imageURL": "img/fig1Maid.png",
+		"time": "March 2011 (10 hours)"
 	},
 	{
-		"title": "MOLLY MAID COMMERCIAL",
-		"blurb": "mollymaid",
-		"imageURL": "img/fig1Test.png",
-		"time": ""
+		"title": "TYPOGRAPHY (PIRATES)",
+		"blurb": "One of my favorite units in my sixth grade Core Connections classroom was a dynamic typography project, in which students manipulated physical cutouts of letters on a clear screen, with a camera down below.  This more traditional typography video was created as an example of the medium, for early discussion and inspiration.",
+		"imageURL": "img/fig1Pirates.png",
+		"time": "October 2010 (20 hours)"
 	},
 	{
-		"title": "WHAT ARE YE DOIN'?",
-		"blurb": "typography",
-		"imageURL": "img/fig1Test.png",
-		"time": ""
+		"title": "TUTORIAL (GEO. SKETCHPAD)",
+		"blurb": "As a part of my bid for the position of sixth grade Creative Productions (later renamed to Core Connections) teacher at Voyager Academy, I put together this quick tutorial on animations in Geometer's Sketchpad.  The goal was to showcase my mathematical knowledge, lecture style, and video editing skills.",
+		"imageURL": "img/fig1Geo.png",
+		"time": "March 2009 (5 hours)"
 	}
 ]
