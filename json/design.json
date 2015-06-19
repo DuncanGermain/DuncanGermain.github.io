@@ -1,11 +1,11 @@
 [
 	{
-		"title": "UNKNOWN UNKNOWNS",
-		"name": "arch",
-		"blurb": "Originally designed as a part of my sixth grade curriculum, I rebuilt this eight-foot high problem for the Inflection Point kids' rationality camp.  Typically, it is presented to students disassembled and jumbled together, with no hints as to what it should be or what is expected of them.  Solving the problem requires teamwork, persistence, and most of all a set of clear heads.",
-		"imageURL": "img/fig1Test.png",
-		"time": "November 2014 - January 2015 (300 hours)",
-		"tag": "Education"
+		"title": "TURTLES",
+		"name": "turtles",
+		"blurb": "\"Turtles\" is the name I gave to a set of small, portable stepping stones I built for parkour practice, useful for precision landings, strides, and boosted takeoffs.  I left the original set of four at the gym in Seattle, and built a second, more refined pair to take with me for my own training.",
+		"imageURL": "img/fig1Turtle.png",
+		"time": "June 2015 (20 hours)",
+		"tag": "Parkour"
 	},
 	{
 		"title": "FRANKENTWIX",
@@ -16,107 +16,115 @@
 		"tag": "Parkour"
 	},
 	{
+		"title": "UNKNOWN UNKNOWNS",
+		"name": "arch",
+		"blurb": "Originally designed as a part of my sixth grade curriculum, I rebuilt this eight-foot high problem for the Inflection Point kids' rationality camp.  Typically, it is presented to students disassembled and jumbled together, with no hints as to what it should be or what is expected of them.  Solving the problem requires teamwork, persistence, and most of all a set of clear heads.",
+		"imageURL": "img/fig1Arch.png",
+		"time": "November 2014 - January 2015 (300 hours)",
+		"tag": "Education"
+	},
+	{
 		"title": "MAGIC BOX",
 		"name": "deckbox",
-		"blurb": "",
-		"imageURL": "img/fig1Test.png",
-		"time": "",
+		"blurb": "In the trading card game Magic: The Gathering, you assemble various decks of cards to play with.  I wanted to create a set of five decks (one for each color in the game) and keep them together in a small, classy case that I could take with me when I wanted to teach beginners.  None of the cases for sale met my requirements, so I made my own.",
+		"imageURL": "img/fig1Box.png",
+		"time": "August 2014 (30 hours)",
 		"tag": "Games & Toys"
+	},
+	{
+		"title": "FATHER'S DAY",
+		"name": "whist",
+		"blurb": "When I stumbled across a two-page excerpt in Edgar Allan Poe's \"The Murders in the Rue Morgue\" extolling the virtues of whist and whist players, I knew that I had found the seed of the perfect Father's Day present.  Completed using Inkscape and photos from the Pershing Room at West Point, where my father spent years playing.",
+		"imageURL": "img/fig1Whist.png",
+		"time": "April 2013 (25 hours)",
+		"tag": "Graphic"
 	},
 	{
 		"title": "STRUCTURES",
 		"name": "structures",
-		"blurb": "",
-		"imageURL": "img/fig1Test.png",
-		"time": "",
-		"tag": "Games & Toys"
-	},
-	{
-		"title": "ORANGE LEGOS",
-		"name": "orange",
-		"blurb": "",
-		"imageURL": "img/fig1Test.png",
-		"time": "",
-		"tag": "Games & Toys"
-	},
-	{
-		"title": "GREEN LEGOS",
-		"name": "green",
-		"blurb": "",
-		"imageURL": "img/fig1Test.png",
-		"time": "",
-		"tag": "Games & Toys"
-	},
-	{
-		"title": "JUCANTE",
-		"name": "jucante",
-		"blurb": "",
-		"imageURL": "img/fig1Test.png",
-		"time": "",
-		"tag": "Games & Toys"
-	},
-	{
-		"title": "BRIDGE",
-		"name": "bridge",
-		"blurb": "",
-		"imageURL": "img/fig1Test.png",
-		"time": "",
-		"tag": "Education"
+		"blurb": "In the trading card game Magic: The Gathering, there are many play variants requiring special cards. Structures are a variant I designed, complete with their own rules, introducing conquerable territory into the game.  The final versions were printed on label paper and applied to Magic cards to create an authentic look.",
+		"imageURL": "img/fig1Structure.png",
+		"time": "July 2014 (30 hours)",
+		"tag": "Graphic || Games & Toys"
 	},
 	{
 		"title": "PORTO-WALL, MARK II",
 		"name": "mark2",
-		"blurb": "",
-		"imageURL": "img/fig1Test.png",
-		"time": "",
+		"blurb": "When I arrived in Seattle, one of the biggest gaps in the equipment set of the local parkour gym was any kind of wall that could be climbed or vaulted OVER (rather than simply onto). This was my second attempt at building a sturdy, portable wall that could be used for training a variety of movements.",
+		"imageURL": "img/fig1MarkII.png",
+		"time": "March 2014 (75 hours)",
 		"tag": "Parkour"
 	},
 	{
-		"title": "SHIMZILLA",
-		"name": "shimzilla",
-		"blurb": "",
-		"imageURL": "img/fig1Test.png",
-		"time": "",
-		"tag": "Parkour"
+		"title": "JUCANTE",
+		"name": "jucante",
+		"blurb": "Together with my friends Nate, Stephanie, Eric, Kevin, and Morgan, I designed, developed, printed, and playtested a complete Magic: The Gathering expansion of over 250 cards, centered around a world loosely inspired by Robert Jordan's Blight in the Wheel of Time series.",
+		"imageURL": "img/fig1Jucante.png",
+		"time": "October 2013 - February 2014 (200 hours)",
+		"tag": "Games & Toys"
 	},
 	{
 		"title": "TIKI TOPPERS",
 		"name": "tiki",
-		"blurb": "",
-		"imageURL": "img/fig1Test.png",
-		"time": "",
+		"blurb": "The Seattle gym had an excellent set of 3'x3' square-based boxes called \"Tikis\" that could stack and nest like LEGOs.  However, I felt that the boring flat tops were a waste of potential, and began designing a set of \"Tiki tops\" that would present a wide range of opportunities and challenges at various heights.",
+		"imageURL": "img/fig1Toad.png",
+		"time": "March 2013 - July 2014 (50 hours)",
 		"tag": "Parkour"
 	},
 	{
-		"title": "TURTLES",
-		"name": "turtles",
-		"blurb": "",
-		"imageURL": "img/fig1Test.png",
-		"time": "",
-		"tag": "Parkour"
-	},
-	{
-		"title": "THUGLETS",
+		"title": "THUGLETS & TWIX BARS",
 		"name": "thuglets",
-		"blurb": "",
-		"imageURL": "img/fig1Test.png",
-		"time": "",
+		"blurb": "In the outdoor world, most walls and curbs stay put. In a gym, it's sometimes difficult to create a similar landing space that won't tip or slide.  \"Thuglets\" and \"Twix bars\" were two of my solutions to that problem: robust, portable, and almost infinitely modular.",
+		"imageURL": "img/fig1Thuglet.png",
+		"time": "October 2013 - October 2014 (30 hours)",
 		"tag": "Parkour"
 	},
 	{
 		"title": "VAULT BOXEN",
 		"name": "vaultboxen",
-		"blurb": "",
-		"imageURL": "img/fig1Test.png",
+		"blurb": "Vault boxes (usually trapezoidal prisms about three feet high and four feet wide) were one piece of equipment I did NOT have to build very often, since the gym had plenty.  But I did build a small pair for the younger kids, a two-height stackable one with a base, and a large wedge-shaped one that doubled as a wall or ramp.",
+		"imageURL": "img/fig1.png",
 		"time": "",
 		"tag": "Parkour"
 	},
 	{
+		"title": "WEBSITE DESIGN",
+		"name": "pkv",
+		"blurb": "While considering whether to start a parkour gym or join an existing one in Seattle, Washington, I created the following two website concepts using the vector graphics program Inkscape.  Although neither site was ever implemented, I retained elements of each for use in other projects.",
+		"imageURL": "img/fig1PKV.png",
+		"time": "July 2011 (20 hours) and January 2013 (40 hours)",
+		"tag": "Graphic"
+	},
+	{
 		"title": "CHESSCRAFT",
 		"name": "chesscraft",
-		"blurb": "",
+		"blurb": "One of my \"someday\" projects is to create a game that falls somewhere in the middle of the spectrum defined by chess on one end and Starcraft on the other - a turn-based strategy game with deterministic, predictable combat that nevertheless resembles the chaos of real conflict.  This is the digital board that \"Chesscraft\" will be played on.",
+		"imageURL": "img/fig1Blur.png",
+		"time": "March 2012 (5 hours)",
+		"tag": "Graphic || Games & Toys"
+	},
+	{
+		"title": "BRIDGE",
+		"name": "bridge",
+		"blurb": "As a part of my sixth grade Core Connections curriculum, my students built and stress tested/smashed popsicle stick bridges, many of which held up well over 100 pounds distributed across their decks. In my second year, I built the following bridge as an example.",
 		"imageURL": "img/fig1Test.png",
-		"time": "",
+		"time": "February 2011 (20 hours)",
+		"tag": "Education"
+	},
+	{
+		"title": "THE NOVAN FLEET",
+		"name": "green",
+		"blurb": "I was in third grade when get-well gifts after a car accident netted me an enviable LEGO collection practially overnight.  Since then, I have designed and built well over fifty ships for the \"Novan fleet,\" the well-intentioned-but-misunderstood bad guys of my childhood imagination.",
+		"imageURL": "img/fig1Test.png",
+		"time": "1995 - Present (3000 hours)",
+		"tag": "Games & Toys"
+	},
+	{
+		"title": "THE CENTURIAN BRIGADE",
+		"name": "orange",
+		"blurb": "It was 1999 when LEGO first began producing licensed Star Wars sets, which meant that I could finally have ORANGE pieces in my spaceships.  They didn't mesh well with my established black-blue-green theme, and thus the Centurian Briage was born, \"Trojans\" to my Novan's \"Greeks.\"",
+		"imageURL": "img/fig1Test.png",
+		"time": "1999 - Present (1000 hours)",
 		"tag": "Games & Toys"
 	}
 ]
