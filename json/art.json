@@ -24,22 +24,6 @@
 		"tag": "2D"
 	},
 	{
-		"title": "POSTER DESIGN",
-		"name": "whist",
-		"blurb": "When I stumbled across a two-page excerpt in Edgar Allan Poe's \"The Murders in the Rue Morgue\" extolling the virtues of whist and whist players, I knew that I had found the seed of the perfect Father's Day present.  Completed using Inkscape and photos from the Pershing Room at West Point, where my father spent years playing.",
-		"imageURL": "img/fig1Whist.png",
-		"time": "April 2013 (25 hours)",
-		"tag": "2D"
-	},
-	{
-		"title": "WEBSITE DESIGN",
-		"name": "pkv",
-		"blurb": "During my first few months in Seattle, while volunteering at a gym for parkour, freerunning, acrobatics, and obstacle coursing, I created the following website concept using the vector graphics program Inkscape.  Although it was sadly never implemented, I retained elements of its style for my own portfolio site.",
-		"imageURL": "img/fig1PKV.png",
-		"time": "January 2013 (40 hours)",
-		"tag": "Digital"
-	},
-	{
 		"title": "POPSICLE STICK SCULPTURE",
 		"name": "raptor",
 		"blurb": "One of the final projects in my sixth grade class was a bridge-building challenge with popsicle sticks and hot glue.  By my third year of teaching, I had already constructed multiple example bridges, and instead spent the time between student questions sculpting the bust of a velociraptor.",
@@ -56,7 +40,7 @@
 		"tag": "3D"
 	},
 	{
-		"title": "GRAPHIC ART",
+		"title": "B&W GRAPHIC ART",
 		"name": "pilgrimage",
 		"blurb": "In the fall of 2007, as a part of my work on the parkour documentary \"Pilgrimage,\" I created a large number of silhouettes and stylized line-art representations of parkour, its practitioners, and the city at the heart of the project, Lisses, France.",
 		"imageURL": "img/fig1Dame.png",
