@@ -32,10 +32,11 @@ portfolioApp.controller('FieldController', ['$scope', '$http', '$routeParams', f
     });
 }]);
 
-portfolioApp.controller('ProjectController', ['$scope', '$http', '$routeParams', function($scope, $http, $routeParams) {
+portfolioApp.controller('ProjectController', ['$scope', '$http', '$routeParams', '$sce', function($scope, $http, $routeParams, $sce) {
     $http.get('json/projects/' + $routeParams.project + '.json').success(function(data) {
       $scope.contents = data;
     });
+
 }]);
 
 
