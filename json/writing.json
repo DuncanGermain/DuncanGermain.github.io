@@ -8,9 +8,9 @@
 		"tag": "Fiction"
 	},
 	{
-		"title": "CORE CONNECTIONS HANDBOOK",
+		"title": "CORE CONNECTIONS GUIDE",
 		"name": "handbook",
-		"blurb": "At the end of my three-year stint as a sixth-grade teacher, I wrote the following document to summarize my style, method, content, and rationale for the teacher replacing me.",
+		"blurb": "At the end of my three-year stint as a sixth-grade teacher, I wrote the following handbook to summarize my style, method, content, and rationale for the teacher replacing me.",
 		"imageURL": "img/fig1Test.png",
 		"time": "May 2012 (10 hours)",
 		"tag": "Education"
@@ -40,6 +40,14 @@
 		"tag": "Essay"
 	},
 	{
+		"title": "INSTRUCTIONS",
+		"name": "instructions",
+		"blurb": "There is a Neil Gaiman poem titled \"Instructions\" that offers a set of handy rules for people navigating their way through a fairy tale.  When I read it, I shed a few tears, but it was also missing many of the lessons I'd learned from Narnia, Redwall, the Castle in the Attic, the Minpins, and all the other tales of my youth.  This is my more complete take.",
+		"imageURL": "img/fig1Instructions.png",
+		"time": "August 2009 (2 hours)",
+		"tag": "Poetry"
+	},
+	{
 		"title": "R!ANIMORPHS: THE RECKONING",
 		"name": "animorphs",
 		"blurb": "This is a fanfiction, inspired by 'Harry Potter and the Methods of Rationality' and based on the beloved teen sci-fi series 'Animorphs.'  In this reimagining, the rules of the universe have been made internally consistent, and both heroes and villains act with rational self-interest, moving toward victory as quickly and intelligently as they can.",
@@ -54,5 +62,29 @@
 		"imageURL": "img/fig1Test.png",
 		"time": "January 2015 - Present",
 		"tag": "Education"
+	},
+	{
+		"title": "TIME-BOUND PROGRAMS",
+		"name": "time-bound",
+		"blurb": "A significant part of my work at the Seattle parkour gym was developing and organizing curriculum.  We often offered special sessions and seminars ranging from a single day to twenty or thirty sessions.  This is a guide that was written to help coaches cover all the bases in time-bound programs of various lengths.",
+		"imageURL": "img/fig1Test.png",
+		"time": "June 2014 (10 hours)",
+		"tag": "Legal"
+	},
+	{
+		"title": "RISK & LIABILITY",
+		"name": "liability",
+		"blurb": "While running an afterschool parkour club at Voyager Academy, and later while preparing to start a parkour gym in North Carolina, I discovered that there were not yet any standardized forms for parkour, as there are for more well-established activities like martial arts or gymnastics.  I created these for my own use in the meantime.",
+		"imageURL": "img/fig1Test.png",
+		"time": "January 2010 and March 2012 (10 hours)",
+		"tag": "Legal"
+	},
+	{
+		"title": "VAULT BOX PLANS",
+		"name": "stackable",
+		"blurb": "I have had an excellent relationship with the mat manufacturers at Carolina Gym Supply since they began making custom parkour equipment for me when I was in high school.  They were interested in copying my design for a stackable/nestable vault box, so I did a quick, informal write-up of my process.",
+		"imageURL": "img/fig1Test.png",
+		"time": "August 2012 (10 hours)",
+		"tag": "Legal"
 	}
 ]
