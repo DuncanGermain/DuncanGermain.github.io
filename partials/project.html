@@ -1,10 +1,10 @@
 <div class="itemContainer" ng-repeat="item in contents">
-	<span class="projectTitle montserrat">{{item.title}}</span>
-	<span class="projectVideo"><iframe width="960" height="720" frameborder="0" allowfullscreen ng-src="{{item.videoURL}}"></iframe></span>
-	<span class="projectImage"><img ng-src="{{item.imageURL}}"></span>
-	<span class="projectCaption">{{item.caption}}</span>
-	<span class="projectBlurb">{{item.blurb}}</span>
-	<span class="projectLink"><a ng-href="{{item.linkURL}}">{{item.linkText}}</a></span>
+	<span class="projectTitle montserrat" ng-show="item.title">{{item.title}}</span>
+	<span class="projectVideo" ng-show="item.videoURL"><iframe width="960" height="720" frameborder="0" allowfullscreen ng-src="{{item.videoURL}}"></iframe></span>
+	<span class="projectImage" ng-show="item.imageURL"><img ng-src="{{item.imageURL}}"></span>
+	<span class="projectCaption" ng-show="item.caption">{{item.caption}}</span>
+	<span class="projectBlurb" ng-show="item.blurb">{{item.blurb}}</span>
+	<span class="projectLink" ng-show="item.linkURL"><a ng-href="{{item.linkURL}}">{{item.linkText}}</a></span>
 </div>
 
 <p>I'm a project page!</p>
