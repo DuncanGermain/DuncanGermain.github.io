@@ -8,6 +8,38 @@
 		"tag": "Fiction"
 	},
 	{
+		"title": "CORE CONNECTIONS HANDBOOK",
+		"name": "handbook",
+		"blurb": "At the end of my three-year stint as a sixth-grade teacher, I wrote the following document to summarize my style, method, content, and rationale for the teacher replacing me.",
+		"imageURL": "img/fig1Test.png",
+		"time": "May 2012 (10 hours)",
+		"tag": "Education"
+	},
+	{
+		"title": "JUCANTE SPOILER ARTICLE",
+		"name": "jucante",
+		"blurb": "In 2013 and 2014, my friends and I designed a complete Magic: The Gathering expansion of over 250 cards.  In the fall of 2014, as I began to consider an application to work for Wizards of the Coast, I wrote the following \"spoiler article\" mimicking the style of the articles published on the Wizards website before a new expansion is released.",
+		"imageURL": "img/fig1Test.png",
+		"time": "August 2014 (10 hours)",
+		"tag": "Essay"
+	},
+	{
+		"title": "NEVER AGAIN",
+		"name": "never",
+		"blurb": "During my time at the University of North Carolina, I took a creative writing course from the outstanding Lawrence Naumoff.  This was one of my favorite assignments during that course, in which we were to make use of absolutely every element of a given photograph as we wrote a short story inspired by it.  I would later use the same assignment with my sixth grade students.",
+		"imageURL": "img/fig1Test.png",
+		"time": "March 2007 (3 hours)",
+		"tag": "Fiction"
+	},
+	{
+		"title": "WHAT 100 REALLY MEANS",
+		"name": "100",
+		"blurb": "This is one of many, many, MANY pieces of writing I did on the subject of parkour philosophy and method between 2003 and 2009, during the \"forum days.\"  It serves as a good example of the length, quality, style, and theme of most of my posts on 3run.co.uk and parkour.net, which made my nom-de-plume \"TK17\" an internationally-recognized name in the community.",
+		"imageURL": "img/fig1Test.png",
+		"time": "",
+		"tag": "Essay"
+	},
+	{
 		"title": "R!ANIMORPHS: THE RECKONING",
 		"name": "animorphs",
 		"blurb": "This is a fanfiction, inspired by 'Harry Potter and the Methods of Rationality' and based on the beloved teen sci-fi series 'Animorphs.'  In this reimagining, the rules of the universe have been made internally consistent, and both heroes and villains act with rational self-interest, moving toward victory as quickly and intelligently as they can.",
