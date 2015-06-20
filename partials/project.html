@@ -1,6 +1,6 @@
 <div class="itemContainer" ng-repeat="item in contents">
 	<span class="projectTitle montserrat">{{item.title}}</span>
-	<span class="projectVideo">{{item.video}}</span>
+	<span class="projectVideo"><iframe width="960" height="720" frameborder="0" allowfullscreen ng-src="{{item.videoURL}}"></iframe></span>
 	<span class="projectImage"><img ng-src="{{item.imageURL}}"></span>
 	<span class="projectCaption">{{item.caption}}</span>
 	<span class="projectBlurb">{{item.blurb}}</span>
@@ -8,3 +8,6 @@
 </div>
 
 <p>I'm a project page!</p>
+
+
+
