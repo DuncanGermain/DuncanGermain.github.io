@@ -34,9 +34,19 @@ portfolioApp.controller('FieldController', ['$scope', '$http', '$routeParams', f
 
 portfolioApp.controller('ProjectController', ['$scope', '$http', '$routeParams', '$sce', function($scope, $http, $routeParams, $sce) {
     $http.get('json/projects/' + $routeParams.project + '.json').success(function(data) {
-      $scope.contents = data;
+      $scope.projectEntries = data;
+      $scope.contents = data[0];
+      //      $scope.currentProjectUrl = $sce.trustAsResourceUrl($scope.currentProject.url);
     });
-
+    $scope.imageFilter = function(word) {
+      return /imageURL[0-9]*/.test(word);
+    };
+    $scope.captionFilter = function(word) {
+      return /caption[0-9]*/.test(word);
+    };
+    $scope.blurbFilter = function(word) {
+      return /blurb[0-9]*/.test(word);
+    };
 }]);
 
 
