@@ -4,9 +4,10 @@
 		"videoURL": "https://www.youtube.com/embed/vzFFscHc5yM?rel=0",
 		"blurb": "Dis ma vidjimo Go!",
 		"imageURL": "img/fig1Go.png",
+		"imageURL1": "img/fig1Test.png",
 		"caption": "I'm the caption for Go!",
 		"link": {
-			"URL": "www.google.com",
+			"URL": "http://www.google.com",
 			"text": "Lemme googleit fahyah."
 		}
 	}

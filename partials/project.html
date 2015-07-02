@@ -1,23 +1,11 @@
-<!-- <div class="itemContainer" ng-repeat="item in contents">
-	<span class="projectTitle montserrat" ng-show="item.title">{{item.title}}</span>
-	<iframe width="640" height="480" frameborder="0" allowfullscreen ng-src="{{item.videoURL}}" ng-show="item.videoURL"></iframe>
-	<span class="projectImage" ng-show="item.imageURL"><img ng-src="{{item.imageURL}}"></span>
-	<span class="projectCaption" ng-show="item.caption">{{item.caption}}</span>
-	<span class="projectBlurb" ng-show="item.blurb">{{item.blurb}}</span>
-	<span class="projectLink" ng-show="item.linkURL"><a ng-href="{{item.linkURL}}">{{item.linkText}}</a></span>
-</div>
-
-<p>I'm a project page!</p> -->
-
-<iframe width="640" height="480" frameborder="0" allowfullscreen src="https://www.youtube.com/embed/vzFFscHc5yM?rel=0"></iframe>
-
-
 <div class="itemContainer" ng-repeat="(key, val) in contents">
-	<span class="projectTitle montserrat" ng-show="key === 'title'">{{contents.key}}</span>
-	<iframe width="640" height="480" frameborder="0" allowfullscreen ng-src="{{contents.key}}" ng-show="key === 'videoURL'"></iframe>
-	<span class="projectImage" ng-show="key === 'imageURL'"><img ng-src="{{contents.key}}"></span>
-	<span class="projectCaption" ng-show="key === 'caption'">{{contents.key}}</span>
-	<span class="projectBlurb" ng-show="key === 'blurb'">{{contents.key}}</span>
-	<span class="projectLink" ng-show="key === 'link'"><a ng-href="{{contents.key.URL}}">{{contents.key.text}}</a></span>
+	<span class="projectTitle montserrat" ng-show="key == 'title'">{{val}}</span>
+	<iframe width="640" height="480" frameborder="0" allowfullscreen ng-src="{{val}}" ng-show="key === 'videoURL'"></iframe>
+	<span class="projectImage" ng-show="key | filter:imageFilter"><img ng-src="{{val}}"></span>
+	<span class="projectCaption" ng-show="key === 'caption'">{{val}}</span>
+	<span class="projectBlurb" ng-show="key === 'blurb'">{{val}}</span>
+	<span class="projectLink" ng-show="key === 'link'"><a ng-href="{{val.URL}}">{{val.text}}</a></span>
 </div>
+
+
 
