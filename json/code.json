@@ -1,16 +1,30 @@
 [
 	{
-		"title": "SCRATCHPOST",
-		"name": "scratchpost",
-		"blurb": "This was the capstone project during my tenure at Code Fellows, completed together with Matthew McClure and Nathan O'Brien.  It was my first live application, a collaborative screen-sharing tool for use in lectures and discussions.  Additional help given by Stephanie Zolayvar, who coded a simpler version for my classroom in 2009.",
-		"imageURL": "img/fig1Scratchpost.png",
-		"time": "January 2015 (100 hours)"
+		"title": "SCRATCHPOST 3.0",
+		"name": "ng-scratchpost",
+		"blurb": "While struggling to teach myself AngularJS, I decided that I would be more motivated and likely to succeed with a specific goal rather than with arbitrary problems. Thus, I set about refactoring my previous project, Scratchpost, making it mobile-friendly and responsive with Angular as its new backbone.",
+		"imageURL": "img/fig1Angular.png",
+		"time": "March 2015 - July 2015 (100 hours)"
+	},
+	{
+		"title": "SIERPINSKI",
+		"name": "sierpinski",
+		"blurb": "During my coding self-education, I often found myself darting back and forth to cover basics I'd skipped over, and sites like CodeWars and books like EloquentJS were a huge help in providing practice material. This is a detailed write-up of my solution to a simple but fun problem I completed while working data structures and algorithms.",
+		"imageURL": "img/fig1Sierpinski.png",
+		"time": "June 2015 (2 hours)"
 	},
 	{
 		"title": "THINGMAKERY",
 		"name": "thingmakery",
 		"blurb": "This portfolio site was itself a coding project, completed during my tenure at this.dev.  It was created using CSS, HTML5, JavaScript, NodeJS, and AngularJS.  The theme was built from the ground up, using Daniel Eden's Animate.css and resources created in Inkscape.",
 		"imageURL": "img/fig1Thing.png",
-		"time": "May 2015 (50 hours)"
+		"time": "May 2015 - July 2015 (75 hours)"
+	},
+	{
+		"title": "SCRATCHPOST 2.0",
+		"name": "scratchpost",
+		"blurb": "This was the capstone project during my tenure at Code Fellows, completed together with Matthew McClure and Nathan O'Brien.  It was my first live application, a collaborative screen-sharing tool for use in lectures and discussions.  Additional help given by Stephanie Zolayvar, who coded a simpler version for my classroom in 2009.",
+		"imageURL": "img/fig1Scratchpost.png",
+		"time": "January 2015 (100 hours)"
 	}
 ]
