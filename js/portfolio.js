@@ -1,6 +1,5 @@
 var portfolioApp = angular.module('portfolioApp', ['ngRoute']);
 
-//TODO: Refactor with Mel
 portfolioApp.config(function($routeProvider) {
   $routeProvider
     .when('/main', {
@@ -32,21 +31,26 @@ portfolioApp.controller('FieldController', ['$scope', '$http', '$routeParams', f
     });
 }]);
 
-portfolioApp.controller('ProjectController', ['$scope', '$http', '$routeParams', '$sce', function($scope, $http, $routeParams, $sce) {
+portfolioApp.controller('ProjectController', ['$scope', '$http', '$routeParams', function($scope, $http, $routeParams) {
+    $scope.format = 'basic';
     $http.get('json/projects/' + $routeParams.project + '.json').success(function(data) {
-      $scope.projectEntries = data;
       $scope.contents = data[0];
-      //      $scope.currentProjectUrl = $sce.trustAsResourceUrl($scope.currentProject.url);
+      if ($scope.contents.hasOwnProperty('videoURLs')) {
+        $scope.format = 'video';
+      }
+      if ($scope.contents.hasOwnProperty('articleURLs')) {
+        $scope.format = 'article';
+      }
     });
-    $scope.imageFilter = function(word) {
-      return /imageURL[0-9]*/.test(word);
-    };
-    $scope.captionFilter = function(word) {
-      return /caption[0-9]*/.test(word);
-    };
-    $scope.blurbFilter = function(word) {
-      return /blurb[0-9]*/.test(word);
-    };
+    // $scope.imageFilter = function(word) {
+    //   return /imageURL[0-9]*/.test(word);
+    // };
+    // $scope.captionFilter = function(word) {
+    //   return /caption[0-9]*/.test(word);
+    // };
+    // $scope.blurbFilter = function(word) {
+    //   return /blurb[0-9]*/.test(word);
+    // };
 }]);
 
 

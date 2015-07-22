@@ -1,11 +1,19 @@
-<div class="itemContainer" ng-repeat="(key, val) in contents">
-	<span class="projectTitle montserrat" ng-show="key == 'title'">{{val}}</span>
-	<iframe width="640" height="480" frameborder="0" allowfullscreen ng-src="{{val}}" ng-show="key === 'videoURL'"></iframe>
-	<span class="projectImage" ng-show="key | filter:imageFilter"><img ng-src="{{val}}"></span>
-	<span class="projectCaption" ng-show="key === 'caption'">{{val}}</span>
-	<span class="projectBlurb" ng-show="key === 'blurb'">{{val}}</span>
-	<span class="projectLink" ng-show="key === 'link'"><a ng-href="{{val.URL}}">{{val.text}}</a></span>
+<div class="titleAndIntro">
+	<span class="projectTitle montserrat">{{contents['title']}}</span>
+	<span class="projectIntro raleway" ng-repeat="paragraph in contents['intro']">
+	{{paragraph}}</span>
 </div>
 
-
-
+<div ng-switch="format">
+	<div ng-switch-when="basic">
+		<div class="imgWithCap" ng-repeat="img in contents['imageURLs']">
+				<img class="projectImage" ng-src="{{img}}">
+				<span class="projectBlurb raleway">{{contents['blurbs'][$index]}}</span>
+		</div>
+	</div>
+	<div ng-switch-when="video">
+		<div class="vidWithCap" ng-repeat="vid in contents['videoURLs']">
+			<iframe class="embeddedVid" width="640" height="480" frameborder="0" allowfullscreen ng-src="{{vid}}"></iframe>
+			<span class="projectBlurb raleway">{{contents['blurbs'][$index]}}</span>
+	</div>
+</div>

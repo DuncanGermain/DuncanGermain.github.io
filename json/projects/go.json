@@ -1,14 +1,22 @@
 [
 	{
 		"title": "GO",
-		"videoURL": "https://www.youtube.com/embed/vzFFscHc5yM?rel=0",
-		"blurb": "Dis ma vidjimo Go!",
-		"imageURL": "img/fig1Go.png",
-		"imageURL1": "img/fig1Test.png",
-		"caption": "I'm the caption for Go!",
-		"link": {
-			"URL": "http://www.google.com",
-			"text": "Lemme googleit fahyah."
-		}
+		"intro": [
+			"Making 'Go' was an exercise in trying to meet multiple goals with a single project.  First and foremost, I used the process of filming as a focus and a spur for my training—having particular locations and shots in mind forced me to practice regularly and stretch my abilities.  Second, since I was never the most physically impressive athlete, I knew that my video would have to be stylistically and thematically unusual, if it were to stand out.  I took particular care to wear the same clothes in every shot, to film only on cloudy days with few bystanders, to use uncharacteristically relaxed music, and to use a static camera that emphasized the largeness and stillness of the environment as I moved through it.",
+			"Finally, as a moderately well-known and respected individual in the international parkour community of the time, I hoped to drive home a few points about the nature of efficiency, the purpose of parkour, and the difference between 'practice' and 'performance.'  This was partly accomplished through the tone and feel, and partly by the following introductory message, which ran before the footage itself:",
+			"--------------------------------------------------------------------------------------------------------",
+			"Before we begin, I would like to explain two points concerning my project, which is called \"Go.\"",
+			"Firstly, this is a PARKOUR-ONLY video, meaning that every technique is meant to be as efficient as possible.",
+			"Because this video contains some unusual spins and direction changes, it could be argued that not every move makes sense in terms of a straight path from A to B.",
+			"However, every one of these \"inefficient\" routes serves the overall goal of parkour, either by allowing me to save time and energy, by throwing off or deceiving potential pursuers, or by helping me to safely absorb and redirect the forces of impact.  Although some of these moves are useful ONLY in familiar locations where they can be trained to perfection, that's okay: if foreknowledge of the environment and specially tailored techniques can give me an edge, I will gladly take advantage of them.",
+			"Secondly, this is an artistic piece, and thus cannot show every aspect of proper training in full detail.  It is important to remember that, although everything in this video is parkour, not everything that is parkour is in this video.",
+			"Viewers wishing to become traceurs should be aware that the ability to flow from one movement to the next is more important than any single skill; that training must be supplemented by conditioning in strength, balance, and endurance; that progress takes years, not days; and that physical ability is useless unless accompanied by respect for one's body and one's environment.  Parkour can and should be fun, but it is a discipline, not a game."
+			],
+		"videoURLs": [
+			"https://www.youtube.com/embed/vzFFscHc5yM?rel=0"
+		],
+		"blurbs": [
+			"Music: 'Where Are You Going?' by Dave Matthews Band"
+		]
 	}
 ]

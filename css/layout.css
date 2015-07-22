@@ -4,7 +4,7 @@
 	height: 210px;
 	margin-bottom: 50px;
 }
-.photoBox {
+.thumbBox {
 	display: inline-block;
 	width: 256px;
 	height: 196px;
@@ -40,15 +40,39 @@
 .itemBlurb {
 	display: block;
 }
+.titleAndIntro {
+	margin: 50px 0px 70px 0px;
+	width: 100%;
+}
 .projectTitle {
-
+	display: block;
+	margin-bottom: 10px;
+	text-align: center;
+}
+.projectIntro {
+	display: block;
+	margin: 0px auto 18px auto;
+	width: 800px;
+	text-align: justify;
+}
+.imgWithCap {
+	display: block;
+	margin: 10px 0px 70px 0px;
 }
 .projectImage {
-	max-width: 50px;
-}
-.projectCaption {
-
+	border: 10px solid white;
+	box-shadow: 7px 7px 5px black;
+	display: block;
+	margin: 0px auto 15px auto;
+	max-width: 700px;
 }
 .projectBlurb {
-
+	display: block;
+	margin: 0px auto 0px auto;
+	width: 660px;
+	text-align: center;
+}
+.embeddedVid {
+	display: block;
+	margin: 0px auto 10px auto;
 }
