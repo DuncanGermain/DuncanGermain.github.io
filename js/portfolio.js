@@ -31,7 +31,7 @@ portfolioApp.controller('FieldController', ['$scope', '$http', '$routeParams', f
     });
 }]);
 
-portfolioApp.controller('ProjectController', ['$scope', '$http', '$routeParams', function($scope, $http, $routeParams) {
+portfolioApp.controller('ProjectController', ['$scope', '$http', '$routeParams', '$sce', function($scope, $http, $routeParams, $sce) {
     $scope.format = 'basic';
     $http.get('json/projects/' + $routeParams.project + '.json').success(function(data) {
       $scope.contents = data[0];
@@ -42,16 +42,10 @@ portfolioApp.controller('ProjectController', ['$scope', '$http', '$routeParams',
         $scope.format = 'article';
       }
     });
-    // $scope.imageFilter = function(word) {
-    //   return /imageURL[0-9]*/.test(word);
-    // };
-    // $scope.captionFilter = function(word) {
-    //   return /caption[0-9]*/.test(word);
-    // };
-    // $scope.blurbFilter = function(word) {
-    //   return /blurb[0-9]*/.test(word);
-    // };
 }]);
 
-
-
+portfolioApp.filter('trustURL', function ($sce) {
+  return function(url) {
+    return $sce.trustAsResourceUrl(url);
+  }
+});
