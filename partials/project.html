@@ -1,19 +1,24 @@
-<div class="titleAndIntro">
-	<span class="projectTitle montserrat">{{contents['title']}}</span>
-	<span class="projectIntro raleway" ng-repeat="paragraph in contents['intro']">
-	{{paragraph}}</span>
-</div>
 
 <div ng-switch="format">
 	<div ng-switch-when="basic">
+		<div class="titleWithIntro">
+			<span class="projectTitle montserrat">{{contents['title']}}</span>
+			<span class="projectIntro raleway" ng-repeat="paragraph in contents['intro']">
+			{{paragraph}}</span>
+		</div>
 		<div class="imgWithCap" ng-repeat="img in contents['imageURLs']">
 				<img class="projectImage" ng-src="{{img}}">
 				<span class="projectBlurb raleway">{{contents['blurbs'][$index]}}</span>
 		</div>
 	</div>
 	<div ng-switch-when="video">
-		<div class="vidWithCap" ng-repeat="vid in contents['videoURLs']">
-			<iframe class="embeddedVid" width="640" height="480" frameborder="0" allowfullscreen ng-src="{{vid | trustURL}}"></iframe>
-			<span class="projectBlurb raleway">{{contents['blurbs'][$index]}}</span>
+		<div class="titleWithVids">
+			<span class="projectTitle montserrat">{{contents['title']}}</span>
+			<div class="vidWithCap" ng-repeat="vid in contents['videoURLs']">
+				<iframe class="embeddedVid" width="640" height="480" frameborder="0" allowfullscreen ng-src="{{vid | trustURL}}"></iframe>
+				<span class="projectBlurb raleway">{{contents['blurbs'][$index]}}</span>
+			</div>
+		</div>
+		<span class="projectIntro raleway" ng-repeat="paragraph in contents['intro']">{{paragraph}}</span>
 	</div>
 </div>

@@ -40,7 +40,7 @@
 .itemBlurb {
 	display: block;
 }
-.titleAndIntro {
+.titleWithIntro {
 	margin: 50px 0px 70px 0px;
 	width: 100%;
 }
@@ -74,5 +74,9 @@
 }
 .embeddedVid {
 	display: block;
-	margin: 0px auto 10px auto;
+	margin: 10px auto 10px auto;
+}
+.titleWithVids {
+	margin: 50px 0px 70px 0px;
+	width: 100%;
 }
