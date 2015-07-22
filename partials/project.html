@@ -13,7 +13,7 @@
 	</div>
 	<div ng-switch-when="video">
 		<div class="vidWithCap" ng-repeat="vid in contents['videoURLs']">
-			<iframe class="embeddedVid" width="640" height="480" frameborder="0" allowfullscreen ng-src="{{vid}}"></iframe>
+			<iframe class="embeddedVid" width="640" height="480" frameborder="0" allowfullscreen ng-src="{{vid | trustURL}}"></iframe>
 			<span class="projectBlurb raleway">{{contents['blurbs'][$index]}}</span>
 	</div>
 </div>
