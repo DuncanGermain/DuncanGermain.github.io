@@ -27,7 +27,7 @@
 
 <!--Populated project list-->
 <section ng-repeat="snippet in snippets | filter:filter" class="projectContainer">
-	<div class="photoBox">
+	<div class="thumbBox">
 		<a ng-href="#{{field}}/{{snippet.name}}">
 			<img class="projectCover" ng-src="{{snippet.imageURL}}">
 		</a>
