@@ -1,5 +1,6 @@
 
 <div ng-switch="format">
+	<!-- This section describes basic image-and-caption project pages. -->
 	<div ng-switch-when="basic">
 		<div class="titleWithIntro">
 			<span class="projectTitle montserrat">{{contents['title']}}</span>
@@ -11,6 +12,7 @@
 				<span class="projectBlurb raleway">{{contents['blurbs'][$index]}}</span>
 		</div>
 	</div>
+	<!-- This section describes basic video project pages. -->
 	<div ng-switch-when="video">
 		<div class="titleWithVids">
 			<span class="projectTitle montserrat">{{contents['title']}}</span>
@@ -20,5 +22,15 @@
 			</div>
 		</div>
 		<span class="projectIntro raleway" ng-repeat="paragraph in contents['intro']">{{paragraph}}</span>
+	</div>
+	<!-- This section describes pages that reproduce articles in their original formats. -->
+	<div ng-switch-when="article">
+		<div class="titleWithIntro">
+			<span class="projectTitle montserrat">{{contents['title']}}</span>
+			<span class="projectIntro raleway" ng-repeat="paragraph in contents['intro']">
+			{{paragraph}}</span>
+		</div>
+		<a class="articleLink sbGray" ng-show="{{hasLink}}" ng-href="{{contents['articleLink']}}">Click here for original source.</a>
+		<img class="articlePage" ng-repeat="page in contents['articleURLs']" ng-src="{{page}}">
 	</div>
 </div>

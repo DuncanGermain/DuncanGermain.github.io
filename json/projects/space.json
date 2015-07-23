@@ -1,14 +1,43 @@
 [
 	{
-		"title": "SPACE PAINTING"
-	},
-	{
-		"blurb": "I'm a blurb!"
-	},
-	{
-		"imageURL": "img/fig1Test.png"
-	},
-	{
-		"caption": "I'm a caption!"
+		"title": "SPACE PAINTING",
+		"intro": [
+			"The key to this medium is cultivating a relaxed, casual attitude.  Even in cool weather, spray paint dries quickly, so you can't spend lots of time worrying and thinking.  I recommend holding a can in each hand, and often not even really looking at what you're doing—the best results tend to come from serendipity, and it takes the same amount of time and effort to do four or five iterations as it does to really focus hard on a single attempt.",
+			"Materials to have on hand: paints, rubber gloves, newspaper, foam posterboard, glossy paper (flyers or magazine pages), painter's tape, bowls you don't mind ruining, and scrapers (e.g. rough cut wood, combs, or corrugated cardboard)."
+			],
+		"imageURLs": [
+			"http://i.imgur.com/ed1SDjr.jpg",
+			"http://i.imgur.com/CzkkmF5.jpg",
+			"http://i.imgur.com/FW8jC7n.jpg",
+			"http://i.imgur.com/5qV5Bvx.jpg",
+			"http://i.imgur.com/YkXcJZD.jpg",
+			"http://i.imgur.com/W2npJTm.jpg",
+			"http://i.imgur.com/AR7TghY.jpg",
+			"http://i.imgur.com/wFObKzI.jpg",
+			"http://i.imgur.com/NDAHGVv.jpg",
+			"http://i.imgur.com/SPcIPKd.jpg",
+			"http://i.imgur.com/NdDoqEt.jpg",
+			"http://i.imgur.com/hynOGz2.jpg",
+			"http://i.imgur.com/DwFcXff.jpg",
+			"http://i.imgur.com/tUd8CJ4.jpg",
+			"http://i.imgur.com/PYLZdgn.jpg"
+		],
+		"blurbs": [
+			"Here you can see our staging area, appropriately disorganized.",
+			"This is what your workspace will look like, halfway through.  Note the shade—it was a hot day, so we took turns holding up a large board to keep the paintings out of the direct sunlight.  On cooler days, you'll want the opposite, so that you don't have to wait 10+ minutes between layers.",
+			"The bottom layer of Attempt 1.  Thin puddles of paint are created by heavy painting, preferably with two or more colors at once (for instance, the blob on the right was created with a splash of gold, stripes of red and yellow, a coat of orange, a coat of white, and more red and yellow, all laid down in under 30 seconds).  Then texture is added by laying down glossy paper and either peeling (as on the left), or smudging and sliding (as on the right).  Once you've lifted the glossy paper, allow the first layer to dry completely so that the colors don't bleed through on the night side.",
+			"The bottom layer of Attempt 2.  I actually preferred the striping on the first version, but was much happier with the angle and vibrancy on this one, not to mention that the smaller moon looked much more alive the second time around.",
+			"Applying the terminator.  I've had mixed results with using a large bowl to create a more uniform curve—it's often hard to get the line right freehand, but I prefer the fuzzier boundary of freehand to the sharpness you get when using a guide.",
+			"Attempt 2.  Note that while I tilted the axes of the planets, I left the shadow in the same relative position.",
+			"City lights.  I was never entirely satisfied with this shade of yellow—I wanted something that would be visibly distinct from the stars in the sky, but these ended up looking too much like yellow paint.",
+			"To create these speckles, put on a rubber glove and spray your own fingers from about 2\" away, for maybe 2-3 seconds, and then make quick, flicking motions.  Less paint and faster flicks leads to smaller spots.",
+			"Skipped a few steps here.  Once the night sides have dried, place bowls over both planets to preserve their integrity while you fill in the rest of the painting.  Start with a layer of black, and then thickly layer in colors with more black to create nebulae.  Let that dry completely before flicking stars, and if you want mountains (as along the bottom of the image), do more layering with your chosen colors and then scrape away before the paint dries.",
+			"Final look for Attempt 1.  Note that the nebulae colors dim as they mix with the black of the night sky.  Large stars are created with a quick, cautious spot, and their beams come from spraying at a shallow angle at the bottom edge of a piece of cardboard held an inch or two over the painting.  Practice this on throwaway scrap first!",
+			"Final look for Attempt 2.  I improved my large stars a lot, and found better results making mountains with a wood block than with crumpled paper (as in Attempt 1).  I'm still torn between the clouds on the gas giants in each attempt...what I'd like to achieve in round three is something combining the best qualities of both.",
+			"A close-up of a much smaller piece I did for the bedroom wall of a friend.  Here, I layered brown and green alongside blue and white, in hopes of creating continents and seas.",
+			"Night lights.  After seeing the somewhat jarring contrast of the larger pictures above, I decided less would be more.",
+			"This is what the nebulae look like before the paint has finished bleeding and mixing.",
+			"Final product.  As you can see, I still have trouble getting my starbeams aligned with their parent stars.  Overall, though, not bad for fifteen minutes of work and only my sixth or seventh attempt at the medium ever.  10/10 from a fun-activities perspective; would invite friends over to do any time."
+		]
 	}
 ]
