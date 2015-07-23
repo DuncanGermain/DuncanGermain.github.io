@@ -1,0 +1,33 @@
+[
+	{
+		"title": "PAINTING WITH DRILLS",
+		"intro": [
+			"I once came across a picture (posted by an enterprising Reddit parent) of a homemade world map created by drilling holes of various sizes into plywood in a sort of negative pointillism.  The concept was extremely cool, but in execution, the map was a little lacking in both resolution and inspiration.  I had an oddly-sized but beautiful piece of birch plywood in storage, and I decided that if I ever found an appropriate subject, that would be a project worth doing.",
+			"Enter Robert Naylor, a Canadian actor whose small part on the show 'Being Human' brought him to my attention.  I was writing a story centered on a trio of middle schoolers, and Robert was a dead ringer for my mental image of one of them, a slightly troubled loner named Guyler Stevens.  A quick search on IMDB provided a suitably grave and inscrutable portrait, and voilá—it was time."
+			],
+		"imageURLs": [
+			"http://i.imgur.com/8wtwXef.jpg",
+			"http://i.imgur.com/4Ga2fyY.jpg",
+			"http://i.imgur.com/9ov5R81.jpg",
+			"http://i.imgur.com/tO7kZkk.jpg",
+			"http://i.imgur.com/hciZXuQ.jpg",
+			"http://i.imgur.com/ZkJ8AyP.jpg",
+			"http://i.imgur.com/6SDTjD0.jpg",
+			"http://i.imgur.com/4fetjEn.jpg",
+			"http://i.imgur.com/Bbnd1o5.jpg",
+			"http://i.imgur.com/SCrB5Es.jpg"
+		],
+		"blurbs": [
+			"The original picture of Robert Naylor.  For a while, my brain toyed around with the idea of claiming that this was a portrait of Ender Wiggin, but Guyler Stevens won out in the end.",
+			"Step one was to crop and posterize the image, reducing it to a manageable number of different colors (in this case, six).",
+			"I overlaid a grid and began coloring squares appropriately.  As it turned out, six colors was one too many, and I lumped both white and the brightest gray together, leaving me with black, 75% gray, 50% gray, 25% gray, and white.",
+			"Possibly the most tedious part of the whole process was getting pilot marks placed on the board.  I considered using string or drawing lines, but in the end, the simplest solution was to overlay my plywood with a piece of pegboard.  The pegboard holes were spaced on a 1\" grid, and by putting a nail in the center and taking a single strike with a hammer, I was able to (relatively) quickly mark the nearly 2000 holes needed.",
+			"A closeup of early progress.  I used Forstner bits to make clean, even holes, starting with the smallest/lightest spots at 3/8\" and then moving up through 1/2\", 5/8\", and 3/4\" (white pixels were left with nothing but the original pilot hole).  Doing the colors one at a time allowed me to do easy grid-checks (both relative and absolute) to be sure that I had the right holes in the right places.",
+			"The completed face, with the smallest three holes done, and only about a thousand of the largest (and therefore hardest-to-drill) holes remaining.  Note that the plywood is atop a piece of throwaway particle board—I didn't want to put it up on blocks, since it would flex too easily, but neither did I want to dull my bits against the concrete floor.",
+			"Another closeup.  Eventually, my 3/4\" Forstner bit began to dull, and after buying a new one, I switched to using it only for the preliminary scoring, following after with a regular wood drill bit.",
+			"Whew!  Nearly two thousand holes, and at least five blisters.  Here you can just barely see the gleam of the clear-coat, which is a quick-drying, whey-based natural finish called Polywhey.  It did an excellent job of bringing out the natural grain of the birch, which had previously looked pale and featureless.",
+			"Through sheer dumb luck, the woodgrain ended up perfectly shading and accenting the plainer parts of the picture, lending a certain depth to the image.",
+			"The final product, in situ.  To finish it off, I covered the back with black butcher paper, making the shadows of even the large holes completely dark."
+		]
+	}
+]

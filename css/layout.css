@@ -77,6 +77,15 @@
 	margin: 10px auto 10px auto;
 }
 .titleWithVids {
-	margin: 50px 0px 70px 0px;
+	margin: 50px 0px 60px 0px;
 	width: 100%;
+}
+.articlePage {
+	max-width: 960px;
+}
+.articleLink {
+	display: block;
+	margin: 0px auto 5px auto;
+	max-width: 250px;
+	text-align: center;
 }

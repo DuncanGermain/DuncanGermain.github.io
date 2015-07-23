@@ -41,6 +41,9 @@ portfolioApp.controller('ProjectController', ['$scope', '$http', '$routeParams',
       if ($scope.contents.hasOwnProperty('articleURLs')) {
         $scope.format = 'article';
       }
+      if ($scope.contents.hasOwnProperty('articleLink')) {
+        $scope.hasLink = true;
+      }
     });
 }]);
 

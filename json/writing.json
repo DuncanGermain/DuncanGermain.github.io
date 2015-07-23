@@ -17,9 +17,9 @@
 	},
 	{
 		"title": "JUCANTE SPOILER ARTICLE",
-		"name": "jucante",
+		"name": "spoiler",
 		"blurb": "In 2013 and 2014, my friends and I designed a complete Magic: The Gathering expansion of over 250 cards.  In the fall of 2014, as I began to consider an application to work for Wizards of the Coast, I wrote the following \"spoiler article\" mimicking the style of the articles published on the Wizards website before a new expansion is released.",
-		"imageURL": "img/fig1Test.png",
+		"imageURL": "img/fig1Jucante.png",
 		"time": "August 2014 (10 hours)",
 		"tag": "Essay"
 	},
@@ -43,7 +43,7 @@
 		"title": "INSTRUCTIONS",
 		"name": "instructions",
 		"blurb": "There is a Neil Gaiman poem titled \"Instructions\" that offers a set of handy rules for people navigating their way through a fairy tale.  When I read it, I shed a few tears, but it was also missing many of the lessons I'd learned from Narnia, Redwall, the Castle in the Attic, the Minpins, and all the other tales of my youth.  This is my more complete take.",
-		"imageURL": "img/fig1Instructions.png",
+		"imageURL": "img/fig1InstructionsPoem.png",
 		"time": "August 2009 (2 hours)",
 		"tag": "Poetry"
 	},
@@ -83,7 +83,7 @@
 		"title": "VAULT BOX PLANS",
 		"name": "stackable",
 		"blurb": "I have had an excellent relationship with the mat manufacturers at Carolina Gym Supply since they began making custom parkour equipment for me when I was in high school.  They were interested in copying my design for a stackable/nestable vault box, so I did a quick, informal write-up of my process.",
-		"imageURL": "img/fig1Test.png",
+		"imageURL": "img/fig1Instructions.png",
 		"time": "August 2012 (10 hours)",
 		"tag": "Legal"
 	},
