@@ -16,16 +16,9 @@
 	{
 		"title": "OBSTACLES & OPPORTUNITY",
 		"name": "blackwhite",
-		"blurb": "An excerpt from the documentary Pilgrimage, this twelve-minute short features a close look at the history, philosophy, and method of parkour, as well as showcasing my first, cautious foray into the realm of graphic animation.",
+		"blurb": "An excerpt from the documentary Pilgrimage, this thirteen-minute short features a close look at the history, philosophy, and method of parkour, as well as showcasing my first, cautious foray into the realm of graphic animation.",
 		"imageURL": "img/fig1Obstacles.png",
 		"time": "November 2007 (200 hours)"
-	},
-	{
-		"title": "ONE",
-		"name": "one",
-		"blurb": "In 2010, three years after my documentary Pilgrimage and two years after a serious fall, I returned to Lisses with my friend Alan and the goal of filming a first-person POV run through some of the most famous \"original\" parkour obstacles.  I had originally hoped to do the run many times and choose the best take, but circumstances prevented me from doing it more than once.",
-		"imageURL": "img/fig1One.png",
-		"time": "July 2010 (2 hours)"
 	},
 	{
 		"title": "NEXTGEN",
@@ -33,12 +26,6 @@
 		"blurb": "As I was leaving Voyager Academy, I knew that I might want to reference the success of my afterschool parkour club in future job searches, so I asked nine of my students to come out for a midsummer filming/jam session.  We filled the gym with equipment and trained for the better part of a day, with Tanner Smith as my backup instructor/cameraman.",
 		"imageURL": "img/fig1Next.png",
 		"time": "July 2011 (15 hours)"
-	},
-	{
-		"title": "3RUN FAMILY",
-		"blurb": "From 2004 to 2008, web forums were the primary home for those interested in teaching, sharing, and talking about parkour and freerunning. This video commemorates the community found at 3Run.co.uk, where I was a moderator, and the grand tour I took across England in 2006 to meet the rest of the 3Run family.",
-		"imageURL": "img/fig13Run.png",
-		"time": "October 2006 (40 hours)"
 	},
 	{
 		"title": "COMMERCIAL (MOLLY MAID)",
@@ -49,14 +36,36 @@
 	},
 	{
 		"title": "TYPOGRAPHY (PIRATES)",
+		"name": "typography",
 		"blurb": "One of my favorite units in my sixth grade Core Connections classroom was a dynamic typography project, in which students manipulated physical cutouts of letters on a clear screen, with a camera down below.  This more traditional typography video was created as an example of the medium, for early discussion and inspiration.",
 		"imageURL": "img/fig1Pirates.png",
 		"time": "October 2010 (20 hours)"
 	},
 	{
+		"title": "STUNT REEL (LOS TRES AMIGOS)",
+		"name": "amigos",
+		"blurb": "In the spring of 2007, David, Luc, and I were all instructors under Master Sang Ho Lee of Lee Brothers Tae Kwon Do in Burlington, NC.  Master Lee had a distinguished guest visiting—a stunt team coordinator—and wanted a video to show off our skills.  The catch?  We couldn't re-use any old footage, since he'd already shown that, and the guest was arriving in four days.  Cue mad scramble!",
+		"imageURL": "img/fig1Amigos.png",
+		"time": "March 2007 (30 hours)"
+	},
+	{
+		"title": "ONE",
+		"name": "one",
+		"blurb": "In 2010, three years after my documentary Pilgrimage and two years after a serious fall, I returned to Lisses, France with my friend Alan and the goal of filming a first-person POV run through some of the most famous \"original\" parkour obstacles.  I had originally hoped to do the run many times and choose the best take, but circumstances prevented me from doing it more than once.",
+		"imageURL": "img/fig1One.png",
+		"time": "July 2010 (2 hours)"
+	},
+	{
 		"title": "TUTORIAL (GEO. SKETCHPAD)",
+		"name": "sketchpad",
 		"blurb": "As a part of my bid for the position of sixth grade Creative Productions (later renamed to Core Connections) teacher at Voyager Academy, I put together this quick tutorial on animations in Geometer's Sketchpad.  The goal was to showcase my mathematical knowledge, lecture style, and video editing skills.",
 		"imageURL": "img/fig1Geo.png",
 		"time": "March 2009 (5 hours)"
+	},
+	{
+		"title": "3RUN FAMILY",
+		"blurb": "From 2004 to 2008, web forums were the primary home for those interested in teaching, sharing, and talking about parkour and freerunning. This video, created with contributions from members at 3run.co.uk, commemorates that community and the grand tour I took across England in 2006 to meet them.",
+		"imageURL": "img/fig13Run.png",
+		"time": "October 2006 (40 hours)"
 	}
 ]
