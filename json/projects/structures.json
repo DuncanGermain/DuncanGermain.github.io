@@ -1,0 +1,60 @@
+[
+	{
+		"title": "STRUCTURES",
+		"intro": [
+			"To play with structures, draw or select a number of them equal to two more than the total number of players in the game.  Set them in the center of the table, face-up, where everyone can see them.  They cannot be destroyed and are not controlled by any player.",
+			"To occupy an empty structure, attack it with one or more creatures during your combat step.  If, when the damage step occurs, the total power among those creatures is equal to or greater than the barricade number in the lower right corner, then those creatures successfully occupy the structure.  Tap any that are untapped.",
+			"Once a structure is occupied, the controller of the occupying creatures \"gains\" the rules text of the structure as if it were a permanent under his or her control.  Occupying creatures untap as usual during their controller's untap step, and may then activate tap abilities or \"sally forth\" to attack an opponent or another structure (assuming they are not summoning sick).  They may not block attacks on their controller or one of their controller's planeswalkers, since they are considered to be physically elsewhere on the battlefield.  They may be targeted as usual (unless the structure says otherwise) and may be sent to the graveyard or their owner's hand or library as usual.",
+			"Once one or more creatures are occupying a structure, the barricade number no longer applies for creatures controlled by the same player.  This remains true as long as at least one creature is \"holding down the fort.\"",
+			"To take a structure that is occupied by an opponent's creatures, attack it with one or more of your own creatures during your combat step.  If, when the declare blockers step occurs, the total power among those creatures is equal to or greater than the barricade number, then those creatures successfully enter the structure.",
+			"Before the regular combat damage step occurs (in case other creatures are attacking or blocking normally elsewhere, and there are spells or abilities which might care about number of attacking creatures or creatures dying, etc), the two opposing groups of creatures battle for the structure.  This takes place through one or more rounds of damage exchange that are similar to the \"fight\" mechanic.",
+			"For the first round, the attacking player must distribute a loss of -X/-0 among his or her creatures, where X is the barricade number.  This represents those creatures having spent energy \"beating down the door.\"  Next, the defending player assigns at least one creature (and possibly many or all) to at least one of the attacking creatures, in a manner similar to declaring blockers.  The defending player may choose to hold some of his or her creatures back from battle so long as at least one creature is assigned to defend.",
+			"Next, each set of attacking/defending creatures deal damage equal to their power to one another simultaneously.  The attacking creature may divide its damage as its controller chooses among any of the defending creatures assigned to it.",
+			"At the end of this first round, any creatures dealt lethal damage die, and the -X/-0 given to the attacking creatures wears off.  If any attacker still has living defenders assigned to it (e.g. if a 2/3 and a 2/3 each dealt damage equal to their power to one another), the \"fight\" is repeated again until one or both have taken lethal damage.  Once all of the skirmishes have ended, if there are still living creatures controlled by both players within the structure, the defender must reassign at least one of his or her remaining creatures for a new round of battle.  This process continues until only creatures controlled by one player are occupying the structure, and then the regular combat damage step occurs for any creatures attacking or blocking normally elsewhere."
+			],
+		"imageURLs": [
+			"http://i.imgur.com/f1iSEHd.jpg",
+			"http://i.imgur.com/LLgA5VM.jpg",
+			"http://i.imgur.com/e2LEIDO.jpg",
+			"http://i.imgur.com/9DQYxHC.jpg",
+			"http://i.imgur.com/eroL9bg.jpg",
+			"http://i.imgur.com/FeU1L4m.jpg",
+			"http://i.imgur.com/47LEzqo.jpg",
+			"http://i.imgur.com/BSEE39C.jpg",
+			"http://i.imgur.com/nNXKUkJ.jpg",
+			"http://i.imgur.com/1SIiimW.jpg",
+			"http://i.imgur.com/4Abr81P.jpg",
+			"http://i.imgur.com/jtcCwoF.jpg",
+			"http://i.imgur.com/bLhFN0O.jpg",
+			"http://i.imgur.com/CdoKkKp.jpg",
+			"http://i.imgur.com/EjKbxH7.jpg",
+			"http://i.imgur.com/LaKLS18.jpg",
+			"http://i.imgur.com/nwJPSsA.jpg",
+			"http://i.imgur.com/nrJrOSr.jpg",
+			"http://i.imgur.com/5WEjjbH.jpg",
+			"http://i.imgur.com/gOEmEh7.jpg"
+		],
+		"blurbs": [
+			"Simple effects first, especially those that make the most flavor sense with the idea of sheltering inside a stronghold.",
+			"I was particularly fond of this one, as it made structures relevant in a way that planeswalkers and enchantments often fall short of.",
+			"A slight twist on regeneration and reanimation.",
+			"One of the challenges was creating structures which would be relevant to decks that weren't particularly creature-heavy.  This, along with Heretic's Tower, was designed with blue in mind.",
+			"Another basic effect.  We gave most of the more evergreen structures fairly low barricade numbers, so that they would be more likely to change hands multiple times throughout the game.",
+			"Nothing special to say here, so I'll sneak in a niche ruling: If at any time a structure is defended only by indestructible creatures with zero power, those creatures can't prevent a group of attackers from occupying the structure.  Instead, they are exiled.",
+			"When I first began designing structures, I thought of forts, schools, and roads.  This was my attempt at showing that a road could speed the movement of both personnel and information.",
+			"This was another flavorful card—a dangerous shortcut.  However, the drawback ended up being too strong, and this card ended up on the needs-fixing list.",
+			"This was one of my favorite ideas (imagine creatures stumbling around, unable to see one another in the dark as they rummage through the trash), but the -5/-0 was too much of a power reduction, resulting in lockouts where the first player to occupy it could never be dislodged.  Another one on the short list for an update.",
+			"Where Kingsdam at Runo's Ford was blue, Twinsveil was intended to be black.  The flavor could be tightened a bit (the two abilities don't feel very connected), but this is a very powerful card when utilized by the right deck.",
+			"Durbin's Barrow was meant to capture the feel of a narrow escape into only slightly better circumstances.  Interestingly, the ability may be activated multiple times by multiple players, though since it checks whether the Barrow is unoccupied on resolution, only the final creature will actually be removed from combat.",
+			"Another variation on the idea of a shortcut, this one allowing for some shenanigans during sieges.",
+			"The wording on this one could use some work, but I felt that the combination of horses and trample did a good job of portraying the wisdom of maintaining supply depots along hostile borders.",
+			"This one is slow to ramp up, but if taken early, it becomes quite the contested prize.  The barricade number was kept low both for flavor and to encourage players to fight over it—though, as in many fantasy worlds, the merchants aren't particularly fazed by coups and revolutions.  Business continues apace!",
+			"Another no-nonsense application of Magic mechanics to the concept of a fort.  The longer you have to prepare, the better your armor and weaponry when you sally forth.",
+			"This is one of the most unusual designs, but with the right deck, it allows for some bonkers combinations.  Particularly good when used with Snapcaster Mage and Cyclonic Rift (although, what ISN'T good paired with those?).",
+			"Another border stronghold, this time with a distinctly Cold War flavor.",
+			"This one is a gamble—if you can untap with six Goblin tokens inside, you've almost certainly won the game.  But you'll probably want to send a Dragon in there with them, or your opponent is unlikely to let them live that long.",
+			"One of my proudest designs, not just in terms of structures, but in Magic generally.  I'm particularly pleased by the idea that ALL creatures are capable of becoming knights, and by the fact that they have to \"kneel\" to receive their armor.",
+			"The obligatory \"make the new card type matter\" card.  I find that this structure is often ignored, but that, once occupied, it almost invariably becomes the focus for the remainder of the game."
+		]
+	}
+]

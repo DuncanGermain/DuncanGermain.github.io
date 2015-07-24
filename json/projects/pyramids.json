@@ -1,0 +1,38 @@
+[
+	{
+		"title": "MECHANICAL DRAWING",
+		"intro": [
+			"Over the course of the independent study, I drew perhaps a hundred different pictures, using a slanted desk, a square, a 30-60-90 triangle, a 45-45-90 triangle, a compass, two pencils, and an eraser.  Below are some representative examples of my work."
+			],
+		"imageURLs": [
+			"http://i.imgur.com/852kVl3.jpg",
+			"http://i.imgur.com/YTbkVib.jpg",
+			"http://i.imgur.com/gIDPXww.jpg",
+			"http://i.imgur.com/yei5Rn1.jpg",
+			"http://i.imgur.com/N4KBfo9.jpg",
+			"http://i.imgur.com/l2qJuQt.jpg",
+			"http://i.imgur.com/ZvyaI8I.jpg",
+			"http://i.imgur.com/LMlNhsB.jpg",
+			"http://i.imgur.com/KtcweOq.jpg",
+			"http://i.imgur.com/AkY3j3R.jpg",
+			"http://i.imgur.com/E0UKlKy.jpg",
+			"http://i.imgur.com/zWDRflw.jpg",
+			"http://i.imgur.com/TNWOTwG.jpg"
+		],
+		"blurbs": [
+			"One of my very first assignments.  The first line was my natural \"good handwriting,\" and the second was me imitating my professor's very particular style.  The rest were experimentation.  I would later spend a lot of time practicing drawing the arrowheads for labeling the dimensions of an object.",
+			"Significantly more difficult than I thought it would be.  Much of the class consisted of simply copying pictures out of a book, but it turned out that precision and accuracy are the product of diligence and luck.  If you'll check the center of each square, you'll notice that few of them have all four lines intersecting correctly.  This would later inspire one of my most feared and infamous projects as a sixth grade teacher, in which it took my students several days to draw a few lines to a high standard of quality.",
+			"This was a visceral lesson in the power of representation.  These are two drawings of the same bolt; the upper is the stylized version, which is much easier to draw.",
+			"Beginning to understand curves.  If you look below the midsection, to the left of the byline, you can see the intersection point of two large arcs, from which the smaller \"waist\" arc was drawn.",
+			"Combining curves and straight lines.  This was one of my favorite images from the whole year.",
+			"Portrait, profile, and cross-section.",
+			"Continued.  This sort of drawing is incredibly useful for machinists trying to build the part you have designed.",
+			"The \"three views\" of an object (profile, portrait, and birds'-eye).  Later, I would learn to use those three views and some diagonal lines to algorithmically produce a fourth, three-dimensional view.  I chose this particular example out of many, many three view drawings I did because I was particularly proud of my dimensioning and lettering.",
+			"An example of a three-dimensional view.  The other three views of this object were quite boring, since they were just a series of rectangles.",
+			"It was extremely challenging to place and size the arcs for this three-dimensional cross-section.  If you look at the outer wall of the inner groove, you'll see that I never could quite get those curves right.",
+			"One of my fun little final projects.  I produced this one on my own, based off of a photograph, once I ran out of material in the textbook.  It didn't challenge my technical skills so much as my conscientiousness ... keeping the lines evenly spaced took my full attention for several hours.",
+			"The \"impossible box!\"  My favorite part of drawing this piece was the different thicknesses of the boards when seen from various angles.",
+			"This Golden Spiral was drawn on paper nearly two feet wide.  I drew it from the inside out, and did several preliminary sketches to be sure that the final rectangle would end up in the correct place.  Interestingly, I drew only squares and curves ... the overall rectangular shape emerged from them.  I expected to have to use a pencil and string to do the final, largest arc, but my teacher actually had a compass that would stretch to a radius of 18\"."
+		]
+	}
+]
