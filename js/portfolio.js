@@ -38,11 +38,14 @@ portfolioApp.controller('ProjectController', ['$scope', '$http', '$routeParams',
       if ($scope.contents.hasOwnProperty('videoURLs')) {
         $scope.format = 'video';
       }
+      if ($scope.contents.hasOwnProperty('articleLink')) {
+        $scope.hasLink = true;
+      }
       if ($scope.contents.hasOwnProperty('articleURLs')) {
         $scope.format = 'article';
       }
-      if ($scope.contents.hasOwnProperty('articleLink')) {
-        $scope.hasLink = true;
+      if ($scope.contents.hasOwnProperty('pdfURLs')) {
+        $scope.format = 'pdf';
       }
     });
 }]);
