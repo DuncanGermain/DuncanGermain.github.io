@@ -13,7 +13,7 @@
 	{
 		"title": "STARFINDER",
 		"name": "starfinder",
-		"blurb": "As part of a larger scheme involving crowdsourced media and a combination book-picture-website, I found myself needing to count all of the stars in a ~40 megapixel image of deep space, and to assign X coordinates, Y coordinates, and a radius (in pixels) to each one.",
+		"blurb": "As part of a larger scheme involving crowdsourced media and a combination book-picture-website, I found myself needing to count all of the stars in a ~40 megapixel image of deep space, and to assign X coordinates, Y coordinates, and a radius (in pixels) to each one.  Since there were nearly 20,000 of them, it seemed like a good time to practice doing things programmatically.",
 		"imageURL": "img/fig1Starfinder.png",
 		"time": "July 2015 (50 hours)",
 		"liveLinkText": "Read write-up",
