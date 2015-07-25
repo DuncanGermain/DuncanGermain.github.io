@@ -38,6 +38,9 @@ portfolioApp.controller('ProjectController', ['$scope', '$http', '$routeParams',
       if ($scope.contents.hasOwnProperty('videoURLs')) {
         $scope.format = 'video';
       }
+      if ($scope.contents.hasOwnProperty('googleURL')) {
+        $scope.format = 'google';
+      }
       if ($scope.contents.hasOwnProperty('articleLink')) {
         $scope.hasLink = true;
       }

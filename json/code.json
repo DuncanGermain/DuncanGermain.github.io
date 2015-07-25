@@ -4,7 +4,14 @@
 		"name": "ng-scratchpost",
 		"blurb": "While struggling to teach myself AngularJS, I decided that I would be more motivated and likely to succeed with a specific goal rather than with arbitrary problems. Thus, I set about refactoring my previous project, Scratchpost, making it mobile-friendly and responsive with Angular as its new backbone.",
 		"imageURL": "img/fig1Angular.png",
-		"time": "March 2015 - July 2015 (100 hours)"
+		"time": "March 2015 - August 2015 (150 hours)"
+	},
+	{
+		"title": "STARFINDER",
+		"name": "starfinder",
+		"blurb": "As part of a larger scheme involving crowdsourced media and a combination book-picture-website, I found myself needing to count all of the stars in a ~40 megapixel image of deep space, and to assign X coordinates, Y coordinates, and a radius (in pixels) to each one.",
+		"imageURL": "img/fig1Starfinder.png",
+		"time": "July 2015 (50 hours)"
 	},
 	{
 		"title": "SIERPINSKI",
