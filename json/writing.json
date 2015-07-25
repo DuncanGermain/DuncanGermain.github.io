@@ -2,18 +2,26 @@
 	{
 		"title": "PASS",
 		"name": "pass",
-		"blurb": "Pass is the title of my ongoing novel (realistic fiction).  It follows Conor Moreton, a seventh grader with a penchant for climbing on things, as he deals with the unraveling of his oldest and most important friendship and a teacher with strange ideas and even stranger methods.",
+		"blurb": "Pass is the title of my ongoing novel (realistic fiction).  It follows Conor Moreton, a seventh grader with a penchant for climbing on things, as he deals with a sudden alienation from his best friend and a teacher with strange ideas and stranger methods.  \"On superheroes, parkour, and the meaning of friendship...\"",
 		"imageURL": "img/fig1Pass.png",
 		"time": "June 2006 - Present",
 		"tag": "Fiction"
 	},
 	{
-		"title": "CORE CONNECTIONS GUIDE",
-		"name": "handbook",
-		"blurb": "At the end of my three-year stint as a sixth-grade teacher, I wrote the following handbook to summarize my style, method, content, and rationale for the teacher replacing me.",
-		"imageURL": "img/fig1Test.png",
-		"time": "May 2012 (10 hours)",
+		"title": "INFLECTION POINT",
+		"name": "camp",
+		"blurb": "This is the curriculum for a two-week rationality camp developed for the middle-grades age group.  Its intent is to lay the groundwork for lifelong growth as an agent for positive change, providing underchallenged kids and teens with an introduction to the core concepts of logic, psychology, decision theory, epistemology, and heroic responsibility.",
+		"imageURL": "img/fig1Inflection.png",
+		"time": "January 2015 - Present",
 		"tag": "Education"
+	},
+	{
+		"title": "R!ANIMORPHS: THE RECKONING",
+		"name": "animorphs",
+		"blurb": "This is a fanfiction, inspired by 'Harry Potter and the Methods of Rationality' and based on the beloved teen sci-fi series 'Animorphs.'  In this reimagining, the rules of the universe have been made internally consistent, and both heroes and villains act with rational self-interest, moving toward victory as quickly and intelligently as they can.",
+		"imageURL": "img/fig1Animorphs.png",
+		"time": "January 2015 - Present",
+		"tag": "Fiction"
 	},
 	{
 		"title": "JUCANTE SPOILER ARTICLE",
@@ -32,6 +40,14 @@
 		"tag": "Fiction"
 	},
 	{
+		"title": "CORE CONNECTIONS GUIDE",
+		"name": "handbook",
+		"blurb": "At the end of my three-year stint as a sixth-grade teacher, I wrote the following handbook to summarize my style, method, content, and rationale for the teacher replacing me.",
+		"imageURL": "img/fig1Test.png",
+		"time": "May 2012 (10 hours)",
+		"tag": "Education"
+	},
+	{
 		"title": "WHAT 100 REALLY MEANS",
 		"name": "100",
 		"blurb": "This is one of many, many, MANY pieces of writing I did on the subject of parkour philosophy and method between 2003 and 2009, during the \"forum days.\"  It serves as a good example of the length, quality, style, and theme of most of my posts on 3run.co.uk and parkour.net, which made my nom-de-plume \"TK17\" an internationally-recognized name in the community.",
@@ -43,25 +59,9 @@
 		"title": "INSTRUCTIONS",
 		"name": "instructions",
 		"blurb": "There is a Neil Gaiman poem titled \"Instructions\" that offers a set of handy rules for people navigating their way through a fairy tale.  When I read it, I shed a few tears, but it was also missing many of the lessons I'd learned from Narnia, Redwall, the Castle in the Attic, the Minpins, and all the other tales of my youth.  This is my more complete take.",
-		"imageURL": "img/fig1InstructionsPoem.png",
+		"imageURL": "img/fig1Test.png",
 		"time": "August 2009 (2 hours)",
 		"tag": "Poetry"
-	},
-	{
-		"title": "R!ANIMORPHS: THE RECKONING",
-		"name": "animorphs",
-		"blurb": "This is a fanfiction, inspired by 'Harry Potter and the Methods of Rationality' and based on the beloved teen sci-fi series 'Animorphs.'  In this reimagining, the rules of the universe have been made internally consistent, and both heroes and villains act with rational self-interest, moving toward victory as quickly and intelligently as they can.",
-		"imageURL": "img/fig1Test.png",
-		"time": "January 2015 - Present",
-		"tag": "Fiction"
-	},
-	{
-		"title": "INFLECTION POINT",
-		"name": "camp",
-		"blurb": "This is the curriculum for a two-week rationality camp developed for the middle-grades age group.  Its intent is to lay the groundwork for lifelong growth as an agent for positive change, providing underchallenged kids and teens with an introduction to the core concepts of logic, psychology, decision theory, epistemology, and heroic responsibility.",
-		"imageURL": "img/fig1Test.png",
-		"time": "January 2015 - Present",
-		"tag": "Education"
 	},
 	{
 		"title": "TIME-BOUND PROGRAMS",
@@ -83,7 +83,7 @@
 		"title": "VAULT BOX PLANS",
 		"name": "stackable",
 		"blurb": "I have had an excellent relationship with the mat manufacturers at Carolina Gym Supply since they began making custom parkour equipment for me when I was in high school.  They were interested in copying my design for a stackable/nestable vault box, so I did a quick, informal write-up of my process.",
-		"imageURL": "img/fig1Instructions.png",
+		"imageURL": "img/fig1Stackable.png",
 		"time": "August 2012 (10 hours)",
 		"tag": "Legal"
 	},
