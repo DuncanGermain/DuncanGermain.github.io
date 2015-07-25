@@ -39,15 +39,12 @@ nav {
 	top: 153px;
 	left: 44px;
 }
-
 a {
 	text-decoration: none;
 }
-
 .fieldHeader {
 	min-height: 40px;
 }
-
 .options {
 	min-width: 135px;
 	background: #474747;
@@ -83,7 +80,6 @@ a {
 	font-size: 18px;
 	color: #d4d4d4;
 }
-
 .montserrat {
 	font-family: 'Montserrat', sans-serif;
 	font-weight: 700;
@@ -91,7 +87,6 @@ a {
 	color: #d4d4d4;
 	text-shadow: 2px 2px 2px black;
 }
-
 nav a, .sbGray {
 	font-family: Raleway;
 	font-weight: 600;
@@ -108,7 +103,6 @@ nav a, .sbGray {
 	text-decoration: none;
 	text-shadow: 2px 2px #212121;
 }
-
 nav a {
 	margin-right: 20px;
 }
