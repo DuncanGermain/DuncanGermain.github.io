@@ -26,17 +26,21 @@
 </div>
 
 <!--Populated project list-->
-<section ng-repeat="snippet in snippets | filter:filter" class="projectContainer">
-	<div class="thumbBox">
-		<a ng-href="#{{field}}/{{snippet.name}}">
-			<img class="projectCover" ng-src="{{snippet.imageURL}}">
-		</a>
-	</div>
-	<div class="blurbBox">
-		<a ng-href="#{{field}}/{{snippet.name}}">
-			<span class="itemTitle montserrat">{{snippet.title}}</span>
-		</a>
-		<span class="itemTime raleway">{{snippet.time}}</span>
-		<span class="itemBlurb raleway">{{snippet.blurb}}</span>
-	</div>
-</section>
+<div ng-switch="type">
+	<section ng-repeat="snippet in snippets | filter:filter" class="projectContainer">
+		<div class="thumbBox">
+			<a ng-href="#{{field}}/{{snippet.name}}">
+				<img class="projectCover" ng-src="{{snippet.imageURL}}">
+			</a>
+		</div>
+		<div class="blurbBox">
+			<a ng-href="#{{field}}/{{snippet.name}}">
+				<span class="itemTitle montserrat">{{snippet.title}}</span>
+			</a>
+			<span class="itemTime raleway">{{snippet.time}}</span>
+			<span class="itemBlurb raleway">{{snippet.blurb}}</span>
+		</div>
+	</section>
+
+
+</div>

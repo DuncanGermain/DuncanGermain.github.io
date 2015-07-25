@@ -81,6 +81,8 @@
 	width: 100%;
 }
 .articlePage {
+	display: block;
+	margin: auto;
 	max-width: 960px;
 	margin-bottom: 40px;
 }

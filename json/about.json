@@ -15,7 +15,7 @@
 	},
 	{
 		"title": "THE ALLURE OF PARKOUR",
-		"name": "magazine",
+		"name": "afitness",
 		"blurb": "Jeff Schnaufer's article on parkour in American Fitness magazine, drawing on interviews from me and other practitioners and featuring photos of me training in Chapel Hill, NC and San Francisco, CA.",
 		"imageURL": "img/fig1Fitness.png",
 		"time": "March 2010"
@@ -39,6 +39,27 @@
 		"name": "usa",
 		"blurb": "Janet Kornblum's article on parkour, drawing on interviews from me and other practitioners around the country.",
 		"imageURL": "img/fig1Usa.png",
-		"time": "December 4, 2007"
+		"time": "December 2007"
+	},
+	{
+		"title": "CAROUSEL MAGAZINE",
+		"name": "carousel",
+		"blurb": "After the September article in the Times-News, another local magazine run by Sondra J. Casey asked for an interview.",
+		"imageURL": "img/fig1Carousel.png",
+		"time": "October 2007"
+	},
+	{
+		"title": "BURLINGTON TIMES-NEWS",
+		"name": "times",
+		"blurb": "One of my earliest local-media exposés, an article by Roselee Papandrea for the Burlington Times-News newspaper.",
+		"imageURL": "img/fig1Times.png",
+		"time": "September 2007"
+	},
+	{
+		"title": "DAILY TAR HEEL",
+		"name": "dth",
+		"blurb": "As a student at the University of North Carolina at Chapel Hill, I liked to use breaks between classes to practice parkour and freerunning, with a particular preference for doing wallflips off of the old oak trees.  One result was an interview with Desiree Shoe, a writer for the student newspaper.",
+		"imageURL": "img/fig1dth.png",
+		"time": "November 2005"
 	}
 ]
