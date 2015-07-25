@@ -26,19 +26,46 @@
 </div>
 
 <!--Populated project list-->
-<div ng-switch="type">
-	<section ng-repeat="snippet in snippets | filter:filter" class="projectContainer">
-		<div class="thumbBox">
-			<a ng-href="#{{field}}/{{snippet.name}}">
+<div ng-switch="linkType">
+	<!-- Field pages with no special hover functionality on thumbnails -->
+	<div ng-switch-when="noHover">
+		<section ng-repeat="snippet in snippets | filter:filter" class="projectContainer">
+			<div class="thumbBox">
+				<a ng-href="#{{field}}/{{snippet.name}}">
+					<img class="projectCover" ng-src="{{snippet.imageURL}}">
+				</a>
+			</div>
+			<div class="blurbBox">
+				<a ng-href="#{{field}}/{{snippet.name}}">
+					<span class="itemTitle montserrat">{{snippet.title}}</span>
+				</a>
+				<span class="itemTime raleway">{{snippet.time}}</span>
+				<span class="itemBlurb raleway">{{snippet.blurb}}</span>
+			</div>
+		</section>
+	</div>
+	<!-- Field pages with special hover functionality on thumbnails -->
+	<div ng-switch-when="hover">
+		<section ng-repeat="snippet in snippets | filter:filter" class="projectContainer">
+			<div class="thumbBox" ng-mouseenter="showButtons=true" ng-mouseleave="showButtons=false">
 				<img class="projectCover" ng-src="{{snippet.imageURL}}">
-			</a>
-		</div>
-		<div class="blurbBox">
-			<a ng-href="#{{field}}/{{snippet.name}}">
-				<span class="itemTitle montserrat">{{snippet.title}}</span>
-			</a>
-			<span class="itemTime raleway">{{snippet.time}}</span>
-			<span class="itemBlurb raleway">{{snippet.blurb}}</span>
-		</div>
-	</section>
+				<div ng-show="showButtons">
+					<div class="thumbMask"></div>
+					<a ng-href="{{snippet.liveLinkURL}}">
+						<button class="buttons innerButtonTop">{{snippet.liveLinkText}}</button>
+					</a>
+					<a ng-href="{{snippet.sourceLinkURL}}">
+						<button class="buttons innerButtonBottom">{{snippet.sourceLinkText}}</button>
+					</a>
+				</div>
+			</div>
+			<div class="blurbBox">
+				<a ng-href="{{snippet.sourceLinkURL}}">
+					<span class="itemTitle montserrat">{{snippet.title}}</span>
+				</a>
+				<span class="itemTime raleway">{{snippet.time}}</span>
+				<span class="itemBlurb raleway">{{snippet.blurb}}</span>
+			</div>
+		</section>
+	</div>
 </div>

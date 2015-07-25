@@ -4,34 +4,54 @@
 		"name": "ng-scratchpost",
 		"blurb": "While struggling to teach myself AngularJS, I decided that I would be more motivated and likely to succeed with a specific goal rather than with arbitrary problems. Thus, I set about refactoring my previous project, Scratchpost, making it mobile-friendly and responsive with Angular as its new backbone.",
 		"imageURL": "img/fig1Angular.png",
-		"time": "March 2015 - August 2015 (150 hours)"
+		"time": "March 2015 - August 2015 (150 hours)",
+		"liveLinkText": "App is not yet live",
+		"liveLinkURL": "https://github.com/ThirdFoundation/ng-scratchpost",
+		"sourceLinkText": "View code on GitHub",
+		"sourceLinkURL": "https://github.com/ThirdFoundation/ng-scratchpost"
 	},
 	{
 		"title": "STARFINDER",
 		"name": "starfinder",
 		"blurb": "As part of a larger scheme involving crowdsourced media and a combination book-picture-website, I found myself needing to count all of the stars in a ~40 megapixel image of deep space, and to assign X coordinates, Y coordinates, and a radius (in pixels) to each one.",
 		"imageURL": "img/fig1Starfinder.png",
-		"time": "July 2015 (50 hours)"
+		"time": "July 2015 (50 hours)",
+		"liveLinkText": "Read write-up",
+		"liveLinkURL": "https://docs.google.com/document/d/19oyCF3-2_fTHyUfC_sYhKPCsu5pJWFZ2h0FZYrgWH1Q/edit?usp=sharing",
+		"sourceLinkText": "View code on GitHub",
+		"sourceLinkURL": "https://github.com/ThirdFoundation/Starmap/tree/master/mapAlgorithm"
 	},
 	{
 		"title": "SIERPINSKI",
 		"name": "sierpinski",
 		"blurb": "During my coding self-education, I often found myself darting back and forth to cover basics I'd skipped over, and sites like CodeWars and books like EloquentJS were a huge help in providing practice material. This is a detailed write-up of my solution to a simple but fun problem I completed while working data structures and algorithms.",
 		"imageURL": "img/fig1Sierpinski.png",
-		"time": "June 2015 (2 hours)"
+		"time": "June 2015 (2 hours)",
+		"liveLinkText": "Read write-up",
+		"liveLinkURL": "https://docs.google.com/document/d/1W2H-pbKQ5IiIGO-5LX3SA0VxD0g057DejkUA9sDROyw/edit?usp=sharing",
+		"sourceLinkText": "View code on GitHub",
+		"sourceLinkURL": "https://github.com/ThirdFoundation/CodingPractice"
 	},
 	{
 		"title": "THINGMAKERY",
 		"name": "thingmakery",
-		"blurb": "This portfolio site was itself a coding project, completed during my tenure at this.dev.  It was created using CSS, HTML5, JavaScript, NodeJS, and AngularJS.  The theme was built from the ground up, using Daniel Eden's Animate.css and resources created in Inkscape.",
+		"blurb": "This portfolio site was itself a coding project, begun during my tenure at this.dev.  It was created using CSS, HTML5, JavaScript, NodeJS, and AngularJS.  The theme was built from the ground up, using Daniel Eden's Animate.css and resources created in Inkscape.",
 		"imageURL": "img/fig1Thing.png",
-		"time": "May 2015 - July 2015 (75 hours)"
+		"time": "May 2015 - July 2015 (100 hours)",
+		"liveLinkText": "View site",
+		"liveLinkURL": "http://thirdfoundation.github.io/",
+		"sourceLinkText": "View code on GitHub",
+		"sourceLinkURL": "https://github.com/ThirdFoundation/ThirdFoundation.github.io"
 	},
 	{
 		"title": "SCRATCHPOST 2.0",
 		"name": "scratchpost",
 		"blurb": "This was the capstone project during my tenure at Code Fellows, completed together with Matthew McClure and Nathan O'Brien.  It was my first live application, a collaborative screen-sharing tool for use in lectures and discussions.  Additional help given by Stephanie Zolayvar, who coded a simpler version for my classroom in 2009.",
 		"imageURL": "img/fig1Scratchpost.png",
-		"time": "January 2015 (100 hours)"
+		"time": "January 2015 (100 hours)",
+		"liveLinkText": "View application",
+		"liveLinkURL": "http://scratchpost.herokuapp.com/index.html",
+		"sourceLinkText": "View code on GitHub",
+		"sourceLinkURL": "https://github.com/ThirdFoundation/scratchpost"
 	}
 ]

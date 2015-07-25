@@ -6,6 +6,7 @@
 }
 .thumbBox {
 	display: inline-block;
+	position: relative;
 	width: 256px;
 	height: 196px;
 	background-color: white;
@@ -91,4 +92,29 @@
 	margin: 0px auto 5px auto;
 	max-width: 250px;
 	text-align: center;
+}
+.thumbMask {
+	background-color: #404040;
+	opacity: .7;
+	width: 240px;
+	height: 180px;
+	position: absolute;
+	top: 8px;
+	left: 8px;
+}
+.innerButtonTop {
+	position: absolute;
+	top: 66px;
+	left: 38px;
+}
+.innerButtonTop:active {
+	top: 67px;
+}
+.innerButtonBottom {
+	position: absolute;
+	top: 104px;
+	left: 38px;
+}
+.innerButtonBottom:active {
+	top: 105px;
 }

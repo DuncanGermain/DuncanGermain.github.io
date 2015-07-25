@@ -25,9 +25,14 @@ portfolioApp.controller('HeaderController', ['$scope', '$routeParams', function(
 }]);
 
 portfolioApp.controller('FieldController', ['$scope', '$http', '$routeParams', function($scope, $http, $routeParams) {
+    $scope.linkType = "noHover";
     $scope.field = $routeParams.field;
     $http.get('json/' + $routeParams.field + '.json').success(function(data) {
       $scope.snippets = data;
+      if ($scope.snippets[0].hasOwnProperty('liveLinkText')) {
+        $scope.showButtons = false;
+        $scope.linkType = "hover";
+      }
     });
 }]);
 
@@ -37,9 +42,6 @@ portfolioApp.controller('ProjectController', ['$scope', '$http', '$routeParams',
       $scope.contents = data[0];
       if ($scope.contents.hasOwnProperty('videoURLs')) {
         $scope.format = 'video';
-      }
-      if ($scope.contents.hasOwnProperty('googleURL')) {
-        $scope.format = 'google';
       }
       if ($scope.contents.hasOwnProperty('articleLink')) {
         $scope.hasLink = true;
