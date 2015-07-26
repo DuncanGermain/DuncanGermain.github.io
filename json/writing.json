@@ -35,8 +35,16 @@
 		"title": "NEVER AGAIN",
 		"name": "never",
 		"blurb": "During my time at the University of North Carolina, I took a creative writing course from the outstanding Lawrence Naumoff.  This was one of my favorite assignments during that course, in which we were to make use of absolutely every element of a given photograph as we wrote a short story inspired by it.  I would later use the same assignment with my sixth grade students.",
-		"imageURL": "img/fig1Test.png",
+		"imageURL": "img/fig1Never.png",
 		"time": "March 2007 (3 hours)",
+		"tag": "Fiction"
+	},
+	{
+		"title": "BFF",
+		"name": "bff",
+		"blurb": "This one's going to have to speak for itself.  At the start of Professor Naumoff's class, he explicitly told us to go ahead and forget about getting an A, and I publicly challenged him on it, and he essentially washed his hands of responsibility for my future disappointment.  This was my final project, which earned a 95.",
+		"imageURL": "img/fig1Test.png",
+		"time": "April 2007 (20 hours)",
 		"tag": "Fiction"
 	},
 	{
@@ -51,31 +59,31 @@
 		"title": "WHAT 100 REALLY MEANS",
 		"name": "100",
 		"blurb": "This is one of many, many, MANY pieces of writing I did on the subject of parkour philosophy and method between 2003 and 2009, during the \"forum days.\"  It serves as a good example of the length, quality, style, and theme of most of my posts on 3run.co.uk and parkour.net, which made my nom-de-plume \"TK17\" an internationally-recognized name in the community.",
-		"imageURL": "img/fig1Test.png",
-		"time": "",
+		"imageURL": "img/fig1100.png",
+		"time": "March 2010 (3 hours)",
 		"tag": "Essay"
 	},
 	{
 		"title": "INSTRUCTIONS",
 		"name": "instructions",
-		"blurb": "There is a Neil Gaiman poem titled \"Instructions\" that offers a set of handy rules for people navigating their way through a fairy tale.  When I read it, I shed a few tears, but it was also missing many of the lessons I'd learned from Narnia, Redwall, the Castle in the Attic, the Minpins, and all the other tales of my youth.  This is my more complete take.",
-		"imageURL": "img/fig1Test.png",
+		"blurb": "There is a Neil Gaiman poem titled \"Instructions\" that offers a set of handy rules for people navigating their way through a fairy tale.  When I read it, I shed a few tears, but it was also missing many of the lessons I'd learned from Narnia, Redwall, the Castle in the Attic, the Minpins, the Sea of Stories, and all the other tales of my youth.  This is my more complete take.",
+		"imageURL": "img/fig1Instructions.png",
 		"time": "August 2009 (2 hours)",
 		"tag": "Poetry"
 	},
 	{
 		"title": "TIME-BOUND PROGRAMS",
-		"name": "time-bound",
+		"name": "timebound",
 		"blurb": "A significant part of my work at the Seattle parkour gym was developing and organizing curriculum.  We often offered special sessions and seminars ranging from a single day to twenty or thirty sessions.  This is a guide that was written to help coaches cover all the bases in time-bound programs of various lengths.",
-		"imageURL": "img/fig1Test.png",
+		"imageURL": "img/fig1Timebound.png",
 		"time": "June 2014 (10 hours)",
 		"tag": "Legal"
 	},
 	{
 		"title": "RISK & LIABILITY",
-		"name": "liability",
+		"name": "legal",
 		"blurb": "While running an afterschool parkour club at Voyager Academy, and later while preparing to start a parkour gym in North Carolina, I discovered that there were not yet any standardized forms for parkour, as there are for more well-established activities like martial arts or gymnastics.  I created these for my own use in the meantime.",
-		"imageURL": "img/fig1Test.png",
+		"imageURL": "img/fig1Legal.png",
 		"time": "January 2010 and March 2012 (10 hours)",
 		"tag": "Legal"
 	},
