@@ -41,6 +41,7 @@ nav {
 }
 a {
 	text-decoration: none;
+	color: #d4d4d4;
 }
 .fieldHeader {
 	min-height: 40px;

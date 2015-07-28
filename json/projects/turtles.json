@@ -1,11 +1,13 @@
 [
 	{
 		"title": "TURTLES 2.0",
+		"gym": true,
 		"intro": [
 			"The best parkour equipment tends to be portable, versatile, and stable.  Turtles meet all three requirements, especially with the new strap handle for easy carrying.  This is the sort of small obstacle that can be useful no matter the specific theme of your session.",
 			"This particular pair of turtles was built using DeWalt cordless power tools (skill saw, impact driver, random orbital sander), a utility knife, a six-foot steel ruler, and a pair of quick clamps.  Materials included 2\"x10\" untreated pine, 3/4\" red oak plywood, 2\" webbing, and recycled black floor matting, as well as lag screws and deck screws.  The work took about 20 hours, and the final products are roughly 13\" by 19\" by 6\" high, weighing about 10lbs apiece."
 			],
 		"imageURLs": [
+			"http://i.imgur.com/tjne9HQ.png",
 			"http://i.imgur.com/e2e2Yju.jpg",
 			"http://i.imgur.com/Tk47bZM.jpg",
 			"http://i.imgur.com/HRRtAMM.jpg",
@@ -31,7 +33,8 @@
 			"http://i.imgur.com/S1ZmR0s.jpg"
 		],
 		"blurbs": [
-			"The finished product.  I eventually went back and cleaned up the bits of glue around the bottom once it was fully dry.",
+			"The original design, with grooved handles and a slightly smaller base.",
+			"Version 2.0, finished product.  I eventually went back and cleaned up the bits of glue around the bottom once it was fully dry.",
 			"Getting started.  Quick-clamps and a long steel ruler are crucial when you don't have a table saw or any kind of fence.",
 			"The interior of the turtle is two layers of 2\"x10\" pine, beveled and stacked on top of one another.  I find it's easiest to just go ahead and bevel the entire board before cutting it into smaller sections.  For this particular iteration, I angled the edges 50 degrees from vertical (40 degrees up from horizontal).",
 			"The bottom layer (roughly 12\"x18\").",

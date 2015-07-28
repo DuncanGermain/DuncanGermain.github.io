@@ -24,6 +24,14 @@
 		"tag": "Education"
 	},
 	{
+		"title": "OBSTACLE COURSE DESIGN",
+		"name": "gym",
+		"blurb": "During my two years at the parkour gym in Seattle, my equipment and equipment designed and built by the other employees were arranged into a fantastic range of courses and challenges.  These are some of the more interesting setups that were either built by me, inspired by the curriculum I wrote, or constructed using obstacles I created.",
+		"imageURL": "img/fig1Gym.png",
+		"time": "October 2012 - January 2015",
+		"tag": "Parkour"
+	},
+	{
 		"title": "SCHOOL FLYER",
 		"name": "flyer",
 		"blurb": "One of my most useful qualifications for working with the Seattle parkour gym was my experience with running an afterschool parkour club as a middle school teacher.  During my time there, I helped develop several programs and standards for working with elementary, middle, and high schools.",
@@ -88,19 +96,11 @@
 		"tag": "Parkour"
 	},
 	{
-		"title": "THUGLETS & TWIX BARS",
-		"name": "thuglets",
-		"blurb": "In the outdoor world, most walls and curbs stay put. In a gym, it's sometimes difficult to create a similar landing space that won't tip or slide.  \"Thuglets\" and \"Twix bars\" were two of my solutions to that problem: robust, portable, and almost infinitely modular.",
-		"imageURL": "img/fig1Thuglet.png",
-		"time": "October 2013 - October 2014 (30 hours)",
-		"tag": "Parkour"
-	},
-	{
-		"title": "VAULT BOXES",
-		"name": "vaultboxen",
-		"blurb": "Vault boxes (usually trapezoidal prisms about three feet high and four feet wide) were one piece of equipment I did NOT have to build very often, since the gym had plenty.  But I did build a small pair for the younger kids, a two-height stackable one with a base, and a large wedge-shaped one that doubled as a wall or ramp.",
-		"imageURL": "img/fig1Vault.png",
-		"time": "",
+		"title": "BOXES, BLOCKS, BARS, & MORE",
+		"name": "equip",
+		"blurb": "In addition to the specific equipment detailed above, I also designed and built many vault boxes, launching and landing platforms, and portable/modular rails and bars.  By the time I left the gym in Seattle to head for the Bay, roughly half of the objects inside were the result of my work.",
+		"imageURL": "img/fig1Equip.png",
+		"time": "October 2012 - October 2014",
 		"tag": "Parkour"
 	},
 	{
@@ -134,14 +134,6 @@
 		"imageURL": "img/fig1Trapped.png",
 		"time": "June 2010 (20 hours)",
 		"tag": "Graphic || Education"
-	},
-	{
-		"title": "\"KIT KATS\"",
-		"name": "kitkat",
-		"blurb": "Carolina Gym Supply created a great deal of custom equipment for me, but most of it was just standard gear cut to odd sizes.  The \"kit kats\" (so named for the way they looked when stored side-by-side in pairs) were the first truly new idea I had—soft, portable stride bars connected to panel mats (or carpeted floor) by velcro.",
-		"imageURL": "img/fig1Kitkat.png",
-		"time": "December 2009 (5 hours)",
-		"tag": "Parkour"
 	},
 	{
 		"title": "THE NOVAN FLEET",
