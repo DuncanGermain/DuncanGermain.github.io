@@ -1,12 +1,11 @@
 [
 	{
-		"title": "FOREWARD",
+		"title": "CORE CONNECTIONS",
 		"intro": [
+			"The original scope and sequence of this class was outlined in 2009 by the Voyager Academy sixth-grade team, consisting of Sarah Walls (ELA), Kristy Lecky (Math), Michelle Nease (Social Studies), and Carrie Miller (Science).  Oversight was provided by Carl Forsyth and Alice Hagaman, and actual curriculum development was done by me in conjunction with my team and my seventh- and eighth-grade counterparts, Jim Breeden and Clay Wooldridge."
 		],
-		"articleLink": "http://www.amazon.com/The-Parkour-Freerunning-Handbook-Edwardes/dp/0061783676",
-		"articleURLs": [
-			"http://i.imgur.com/2YiMyNJ.png",
-			"http://i.imgur.com/NPlVsRp.png"
+		"pdfURLs": [
+			"img/handbook.pdf"
 		]
 	}
 ]
