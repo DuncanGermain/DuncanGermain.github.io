@@ -24,11 +24,27 @@
 		"tag": "Fiction"
 	},
 	{
+		"title": "BLACK & WHITE",
+		"name": "twokinds",
+		"blurb": "A short poem written after a personal lesson on the value of being less judgmental.",
+		"imageURL": "img/fig1Twokinds.png",
+		"time": "April 2015 (1 hour)",
+		"tag": "Poetry"
+	},
+	{
 		"title": "JUCANTE SPOILER ARTICLE",
 		"name": "spoiler",
 		"blurb": "In 2013 and 2014, my friends and I designed a complete Magic: The Gathering expansion of over 250 cards.  In the fall of 2014, as I began to consider an application to work for Wizards of the Coast, I wrote the following \"spoiler article\" mimicking the style of the articles published on the Wizards website before a new expansion is released.",
 		"imageURL": "img/fig1Jucante.png",
 		"time": "August 2014 (10 hours)",
+		"tag": "Essay"
+	},
+	{
+		"title": "FANTASY WITH A PURPOSE",
+		"name": "potter",
+		"blurb": "My cousin Bridget is a linguist and etymologist who writes a blog about language and literature.  When she put out a general call for guest posts for a Harry Potter theme week, I said yes before I even had a topic in mind.",
+		"imageURL": "img/fig1Potter.png",
+		"time": "July 2015 (3 hours)",
 		"tag": "Essay"
 	},
 	{
@@ -99,14 +115,6 @@
 		"title": "IN MEMORIUM",
 		"name": "belle",
 		"blurb": "Please forgive the sentimentality.  My mother's beloved cat, Belle, was hit by a car, and in the aftermath one of the largest concerns was preserving his memory so that his presence wouldn't fade.  I wrote this poem in memorium.",
-		"imageURL": "img/fig1Test.png",
-		"time": "",
-		"tag": "Poetry"
-	},
-	{
-		"title": "BLACK AND WHITE",
-		"name": "two",
-		"blurb": "Poem about two types of people",
 		"imageURL": "img/fig1Test.png",
 		"time": "",
 		"tag": "Poetry"
