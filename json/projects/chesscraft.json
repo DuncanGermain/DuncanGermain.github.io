@@ -1,0 +1,16 @@
+[
+	{
+		"title": "CHESSCRAFT",
+		"intro": [
+			"The mechanics of the game are still largely up in the air—it's not exactly clear what the balance of pieces will be, or what sorts of abilities they might have; there are several possible victory conditions still in contention, and it may be that more than one of them ends up staying in the final version.  However, the core of the idea centers on the board.",
+			"If we imagine each square as being roughly analogous to a square on a chessboard, then a piece (such as a pawn) that moves one square at a time will \"speed up\" and \"slow down\" depending on the size of the square.  While traveling across larger squares, a pawn can traverse large distances relative to the overall size of the board fairly quickly, whereas when traveling across the smaller one, it gets bogged down.  Similarly, if we imagine a fog of war related to distance-in-squares, it's easier for our pawn to \"see\" things across larger squares than smaller ones.",
+			"This allows the squares to accurately reflect rough and easy terrain—some sections of the board are easy to reach and to cross, while others are not.  Additionally, there is a limit to how many units may fit inside a square of a given size, meaning that when armies are traveling across the \"plains\", they can stick together, but when moving through the \"jungle\" or \"mountains,\" they end up more spread out and vulnerable.",
+			"Add to that the concept of directionality in combat, and you have the core of the game.  Essentially, if two bands encounter one another head-on, there's mutual, one-for-one annihilation, such that a band of three beats a band of two.  If one band catches another band at 90 degree angles (flanking it, essentially), then the flanked band is at a disadvantage; provisionally, an attacking band of two could mutually annihilate a defending band of three.  And finally, if a band catches another band \"from behind,\" in a rout, the odds are even more skewed, such that an attacking band of two could mutually annihilate a defending band of four."
+			],
+		"imageURLs": [
+			"http://i.imgur.com/ZH8xcAj.png"
+		],
+		"blurbs": [
+		]
+	}
+]
