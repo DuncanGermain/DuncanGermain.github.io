@@ -32,7 +32,10 @@
 			{{paragraph}}</span>
 		</div>
 		<a class="articleLink sbGray" ng-show="{{hasLink}}" ng-href="{{contents['articleLink']}}">Click here for original source.</a>
-		<img class="articlePage" ng-repeat="page in contents['articleURLs']" ng-src="{{page}}">
+		<div class="wholePageWithBlurb" ng-repeat="page in contents['articleURLs']">
+			<img class="articlePage" ng-src="{{page}}">
+			<span class="projectBlurb raleway">{{contents['blurbs'][$index]}}</span>
+		</div>
 	</div>
 	<!-- This section describes pages that reproduce articles in their original formats from PDF files. -->
 	<div ng-switch-when="pdf">
