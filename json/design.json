@@ -74,7 +74,7 @@
 	{
 		"title": "JUCANTE",
 		"name": "jucante",
-		"blurb": "Together with my friends Nate, Stephanie, Eric, Kevin, and Morgan, I designed, developed, printed, and playtested a complete Magic: The Gathering expansion of over 250 cards, centered around a world loosely inspired by Robert Jordan's Blight in the Wheel of Time series.",
+		"blurb": "Together with my friends in Seattle, I designed, developed, printed, and playtested a complete Magic: The Gathering expansion of 249 cards, centered around a world loosely inspired by Robert Jordan's Blight in the Wheel of Time series.  A \"spoiler\" article for the set can be found on this site, under Writing.",
 		"imageURL": "img/fig1Jucante.png",
 		"time": "October 2013 - February 2014 (200 hours)",
 		"tag": "Games & Toys"
@@ -142,21 +142,5 @@
 		"imageURL": "img/fig1Trapped.png",
 		"time": "June 2010 (20 hours)",
 		"tag": "Graphic || Education"
-	},
-	{
-		"title": "THE NOVAN FLEET",
-		"name": "green",
-		"blurb": "I was in third grade when get-well gifts after a car accident netted me an enviable LEGO collection practially overnight.  Since then, I have designed and built well over fifty ships for the \"Novan fleet,\" the well-intentioned-but-misunderstood bad guys of my childhood imagination.",
-		"imageURL": "img/fig1Test.png",
-		"time": "1995 - Present (3000 hours)",
-		"tag": "Games & Toys"
-	},
-	{
-		"title": "THE CENTURIAN BRIGADE",
-		"name": "orange",
-		"blurb": "It was 1999 when LEGO first began producing licensed Star Wars sets, which meant that I could finally have ORANGE pieces in my spaceships.  They didn't mesh well with my established black-blue-green theme, and thus the Centurian Briage was born, \"Trojans\" to my Novan's \"Greeks.\"",
-		"imageURL": "img/fig1Test.png",
-		"time": "1999 - Present (1000 hours)",
-		"tag": "Games & Toys"
 	}
 ]

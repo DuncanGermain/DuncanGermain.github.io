@@ -110,29 +110,5 @@
 		"imageURL": "img/fig1Stackable.png",
 		"time": "August 2012 (10 hours)",
 		"tag": "Legal"
-	},
-	{
-		"title": "IN MEMORIUM",
-		"name": "belle",
-		"blurb": "Please forgive the sentimentality.  My mother's beloved cat, Belle, was hit by a car, and in the aftermath one of the largest concerns was preserving his memory so that his presence wouldn't fade.  I wrote this poem in memorium.",
-		"imageURL": "img/fig1Test.png",
-		"time": "",
-		"tag": "Poetry"
-	},
-	{
-		"title": "PALINDROME",
-		"name": "palindrome",
-		"blurb": "Palindrome poem you keep saying you're gonna write someday",
-		"imageURL": "img/fig1Test.png",
-		"time": "",
-		"tag": "Poetry"
-	},
-	{
-		"title": "???",
-		"name": "",
-		"blurb": "Gotta get at least ONE worldsaving essay writ.  Or teaching, maybe.  There's the thing about how to teach poom saes (all at once or one move at a time).  There's lotus eating.  There's your farewell address to your sixth graders.",
-		"imageURL": "img/fig1Test.png",
-		"time": "",
-		"tag": "Poetry"
 	}
 ]
