@@ -26,7 +26,7 @@
 		"name": "sierpinski",
 		"blurb": "During my coding self-education, I often found myself darting back and forth to cover basics I'd skipped over, and sites like CodeWars and books like EloquentJS were a huge help in providing practice material. This is a detailed write-up of my solution to a simple but fun problem I completed while working data structures and algorithms.",
 		"imageURL": "img/fig1Sierpinski.png",
-		"time": "June 2015 (2 hours)",
+		"time": "June 2015 (5 hours)",
 		"liveLinkText": "Read write-up",
 		"liveLinkURL": "https://docs.google.com/document/d/1W2H-pbKQ5IiIGO-5LX3SA0VxD0g057DejkUA9sDROyw/edit?usp=sharing",
 		"sourceLinkText": "View code on GitHub",
@@ -42,6 +42,17 @@
 		"liveLinkURL": "http://thirdfoundation.github.io/",
 		"sourceLinkText": "View code on GitHub",
 		"sourceLinkURL": "https://github.com/ThirdFoundation/ThirdFoundation.github.io"
+	},
+	{
+		"title": "FLEXGRID",
+		"name": "flexgrid",
+		"blurb": "My first independent project at Code Fellows was the creation of a flexible grid layout that would responsively expand for browser windows larger than 960px.  While I never ended up using this particular layout, the process of building it taught me a lot, and I used those lessons in other projects.",
+		"imageURL": "img/fig1Flex.png",
+		"time": "January 2015 (5 hours)",
+		"liveLinkText": "View demo",
+		"liveLinkURL": "css/flexgrid/flex_gridpreview.html",
+		"sourceLinkText": "View code on GitHub",
+		"sourceLinkURL": "https://github.com/ThirdFoundation/CSSFlexibleGrid"
 	},
 	{
 		"title": "SCRATCHPOST 2.0",
