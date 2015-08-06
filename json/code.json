@@ -11,6 +11,17 @@
 		"sourceLinkURL": "https://github.com/ThirdFoundation/ng-scratchpost"
 	},
 	{
+		"title": "EA Global Media",
+		"name": "eaglobal",
+		"blurb": "I spent several days helping out with the 2015 Effective Altruism Global conference at Google in Mountain View.  After it was all over, I designed this simple page for sharing the videos of the talks, workshops, and panels.  AngularJS made implementing filters for the videos (by type, cause, or speaker) practically a one-step operation.",
+		"imageURL": "img/fig1EA.png",
+		"time": "August 2015 (5 hours)",
+		"liveLinkText": "Page is not yet live",
+		"liveLinkURL": "https://github.com/ThirdFoundation/EAGlobal",
+		"sourceLinkText": "View code on GitHub",
+		"sourceLinkURL": "https://github.com/ThirdFoundation/EAGlobal"
+	},
+	{
 		"title": "STARFINDER",
 		"name": "starfinder",
 		"blurb": "As part of a larger scheme involving crowdsourced media and a combination book-picture-website, I found myself needing to count all of the stars in a ~40 megapixel image of deep space, and to assign X coordinates, Y coordinates, and a radius (in pixels) to each one.  Since there were nearly 20,000 of them, it seemed like a good time to practice doing things programmatically.",
@@ -44,17 +55,6 @@
 		"sourceLinkURL": "https://github.com/ThirdFoundation/ThirdFoundation.github.io"
 	},
 	{
-		"title": "FLEXGRID",
-		"name": "flexgrid",
-		"blurb": "My first independent project at Code Fellows was the creation of a flexible grid layout that would responsively expand for browser windows larger than 960px.  While I never ended up using this particular layout, the process of building it taught me a lot, and I used those lessons in other projects.",
-		"imageURL": "img/fig1Flex.png",
-		"time": "January 2015 (5 hours)",
-		"liveLinkText": "View demo",
-		"liveLinkURL": "css/flexgrid/flex_gridpreview.html",
-		"sourceLinkText": "View code on GitHub",
-		"sourceLinkURL": "https://github.com/ThirdFoundation/CSSFlexibleGrid"
-	},
-	{
 		"title": "SCRATCHPOST 2.0",
 		"name": "scratchpost",
 		"blurb": "This was the capstone project during my tenure at Code Fellows, completed together with Matthew McClure and Nathan O'Brien.  It was my first live application, a collaborative screen-sharing tool for use in lectures and discussions.  Additional help given by Stephanie Zolayvar, who coded a simpler version for my classroom in 2009.",
@@ -64,5 +64,16 @@
 		"liveLinkURL": "http://scratchpost.herokuapp.com/index.html",
 		"sourceLinkText": "View code on GitHub",
 		"sourceLinkURL": "https://github.com/ThirdFoundation/scratchpost"
+	},
+	{
+		"title": "FLEXGRID",
+		"name": "flexgrid",
+		"blurb": "My first independent project at Code Fellows was the creation of a flexible grid layout that would responsively expand for browser windows larger than 960px.  While I never ended up using this particular layout, the process of building it taught me a lot, and I used those lessons in other projects.",
+		"imageURL": "img/fig1Flex.png",
+		"time": "January 2015 (5 hours)",
+		"liveLinkText": "View demo",
+		"liveLinkURL": "http://thirdfoundation.github.io/css/flexgrid/flex_gridpreview.html",
+		"sourceLinkText": "View code on GitHub",
+		"sourceLinkURL": "https://github.com/ThirdFoundation/CSSFlexibleGrid"
 	}
 ]
