@@ -5,8 +5,8 @@
 		"blurb": "While struggling to teach myself AngularJS, I decided that I would be more motivated and likely to succeed with a specific goal rather than with arbitrary problems. Thus, I set about refactoring my previous project, Scratchpost, making it mobile-friendly and responsive with Angular as its new backbone.",
 		"imageURL": "img/fig1Angular.png",
 		"time": "March 2015 - August 2015 (150 hours)",
-		"liveLinkText": "App is not yet live",
-		"liveLinkURL": "https://github.com/ThirdFoundation/ng-scratchpost",
+		"liveLinkText": "View working demo",
+		"liveLinkURL": "http://thirdfoundation.github.io/ng-scratchpost",
 		"sourceLinkText": "View code on GitHub",
 		"sourceLinkURL": "https://github.com/ThirdFoundation/ng-scratchpost"
 	},
@@ -16,8 +16,8 @@
 		"blurb": "I spent several days helping out with the 2015 Effective Altruism Global conference at Google in Mountain View.  After it was all over, I designed this simple page for sharing the videos of the talks, workshops, and panels.  AngularJS made implementing filters for the videos (by type, cause, or speaker) practically a one-step operation.",
 		"imageURL": "img/fig1EA.png",
 		"time": "August 2015 (5 hours)",
-		"liveLinkText": "Page is not yet live",
-		"liveLinkURL": "https://github.com/ThirdFoundation/EAGlobal",
+		"liveLinkText": "View demo",
+		"liveLinkURL": "http://thirdfoundation.github.io/EAGlobal/#/main",
 		"sourceLinkText": "View code on GitHub",
 		"sourceLinkURL": "https://github.com/ThirdFoundation/EAGlobal"
 	},
@@ -55,6 +55,17 @@
 		"sourceLinkURL": "https://github.com/ThirdFoundation/ThirdFoundation.github.io"
 	},
 	{
+		"title": "ANGULAR SEED",
+		"name": "angular",
+		"blurb": "One of the most difficult parts of learning AngularJS was translating tutorials and documentation about ten different ways to accomplish something into an actual, concrete product.  This is a template Angular Routes page I built to share with my fellow this.dev students, allowing the quick creation of simple multi-view sites.",
+		"imageURL": "img/fig1Seed.png",
+		"time": "May 2015 (10 hours)",
+		"liveLinkText": "View demo",
+		"liveLinkURL": "http://thirdfoundation.github.io/tiered-angular-seed",
+		"sourceLinkText": "View code on GitHub",
+		"sourceLinkURL": "https://github.com/ThirdFoundation/tiered-angular-seed"
+	},
+	{
 		"title": "SCRATCHPOST 2.0",
 		"name": "scratchpost",
 		"blurb": "This was the capstone project during my tenure at Code Fellows, completed together with Matthew McClure and Nathan O'Brien.  It was my first live application, a collaborative screen-sharing tool for use in lectures and discussions.  Additional help given by Stephanie Zolayvar, who coded a simpler version for my classroom in 2009.",
@@ -72,7 +83,7 @@
 		"imageURL": "img/fig1Flex.png",
 		"time": "January 2015 (5 hours)",
 		"liveLinkText": "View demo",
-		"liveLinkURL": "http://thirdfoundation.github.io/css/flexgrid/flex_gridpreview.html",
+		"liveLinkURL": "http://thirdfoundation.github.io/CSSFlexibleGrid/",
 		"sourceLinkText": "View code on GitHub",
 		"sourceLinkURL": "https://github.com/ThirdFoundation/CSSFlexibleGrid"
 	}
