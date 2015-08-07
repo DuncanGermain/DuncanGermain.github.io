@@ -104,11 +104,51 @@
 		"tag": "Legal"
 	},
 	{
+		"title": "UNIT PLAN (6th GRADE)",
+		"name": "unit",
+		"blurb": "The following fifty-page document is the very first formal unit plan I ever wrote, used in the spring of 2009 with sixth graders during my student teaching at Gravelly Hill Middle School in North Carolina.  The unit focused on short fiction and involved reading, analysis, and writing; I would eventually teach a similar unit in my own Creative Productions classroom.",
+		"imageURL": "img/fig1Unit.png",
+		"time": "November 2008 (30 hours)",
+		"tag": "Education"
+	},
+	{
 		"title": "VAULT BOX PLANS",
 		"name": "stackable",
 		"blurb": "I have had an excellent relationship with the mat manufacturers at Carolina Gym Supply since they began making custom parkour equipment for me when I was in high school.  They were interested in copying my design for a stackable/nestable vault box, so I did a quick, informal write-up of my process.",
 		"imageURL": "img/fig1Stackable.png",
 		"time": "August 2012 (10 hours)",
 		"tag": "Legal"
+	},
+	{
+		"title": "DETERMINISTIC MORALITY",
+		"name": "freewill",
+		"blurb": "As a teacher—first of Tae Kwon Do, then of sixth graders, and finally of parkour—I have often found that one of my most useful skills is the ability to rephrase and explain complex concepts.  That's the skill I was practicing in the following paper, completed for a Philosophy 101 class at the University of North Carolina.",
+		"imageURL": "img/fig1Freewill.png",
+		"time": "November 2005 (2 hours)",
+		"tag": "Essay"
+	},
+	{
+		"title": "ORPHANED PRINCE",
+		"name": "telemachos",
+		"blurb": "While a student at the University of North Carolina at Chapel Hill, I took a class titled \"Epic and Tragedy,\" in which we read many Greek and Roman writings in unabridged translations.  This was one of my better analyses during that semester, of the arc and motivations of Telemachos, son of Odysseus.",
+		"imageURL": "img/fig1Telemachos.png",
+		"time": "March 2005 (10 hours)",
+		"tag": "Essay"
+	},
+	{
+		"title": "BEGINNINGS OF AN AVALANCHE",
+		"name": "whatif",
+		"blurb": "In my junior and senior years of high school, I attended the North Carolina School of Science and Mathematics.  There, I took a class titled \"Wisdom, Revelation, Reason, and Doubt,\" which was a more creative take on Western Civ.  The following was a \"what if?\" assignment completed for that class in which we were asked to make a small change to history and follow it to its logical conclusion.",
+		"imageURL": "img/fig1Whatif.png",
+		"time": "September 2003 (5 hours)",
+		"tag": "Essay"
+	},
+	{
+		"title": "TO JUDGE BETWEEN DREAMS",
+		"name": "sword",
+		"blurb": "I often allowed my enthusiasm to run away with me, especially in classes where the content was particularly engaging.  This piece, written for WRRD class at Science and Math, was intended to be a 3-5 page short story that accurately showcased historical details from medieval Europe.  I began in the early afternoon with a noble blacksmith, and ended up finishing at 3AM with seventeen pages.",
+		"imageURL": "img/fig1Sword.png",
+		"time": "November 2003 (10 hours)",
+		"tag": "Fiction"
 	}
 ]
