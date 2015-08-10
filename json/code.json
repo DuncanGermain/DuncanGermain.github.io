@@ -15,7 +15,7 @@
 		"name": "eaglobal",
 		"blurb": "I spent several days helping out with the 2015 Effective Altruism Global conference at Google in Mountain View.  After it was all over, I designed this simple page for sharing the videos of the talks, workshops, and panels.  AngularJS made implementing filters for the videos (by type, cause, or speaker) practically a one-step operation.",
 		"imageURL": "img/fig1EA.png",
-		"time": "August 2015 (5 hours)",
+		"time": "August 2015 (15 hours)",
 		"liveLinkText": "View demo",
 		"liveLinkURL": "http://thirdfoundation.github.io/EAGlobal/#/main",
 		"sourceLinkText": "View code on GitHub",
