@@ -142,5 +142,13 @@
 		"imageURL": "img/fig1Trapped.png",
 		"time": "June 2010 (20 hours)",
 		"tag": "Graphic || Education"
+	},
+	{
+		"title": "THE NOVAN ALPHABET",
+		"name": "novan",
+		"blurb": "During my freshman year of high school, while taking the mandatory \"freshman seminar\" class on balancing checkbooks and using condoms, I allowed my attention to wander sufficiently far enough that I ended up inventing my own phonetic alphabet.  For two years, I used it to write secret journal entries.  Later on, I would receive extra credit in a college linguistics class for digging it out of my archives.",
+		"imageURL": "img/fig1Novan.png",
+		"time": "May 2001 (5 hours)",
+		"tag": "Graphic || Education"
 	}
 ]
