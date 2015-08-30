@@ -24,6 +24,14 @@
 		"tag": "Fiction"
 	},
 	{
+		"title": "PRIME DIRECTIVE",
+		"name": "federation",
+		"blurb": "In which the only stable time loop that includes a Federation must also include a Prime Directive.",
+		"imageURL": "img/fig1Federation.png",
+		"time": "August 30th, 2015 (Blog post)",
+		"tag": "Blog"
+	},
+	{
 		"title": "BLACK & WHITE",
 		"name": "twokinds",
 		"blurb": "A short poem written after a personal lesson on the value of being less judgmental.",
