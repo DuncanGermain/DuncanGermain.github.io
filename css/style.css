@@ -81,12 +81,57 @@ a {
 	font-size: 18px;
 	color: #d4d4d4;
 }
+#blogintro {
+	font-family: 'Raleway'; sans-serif;
+	font-weight: 300;
+	font-size: 19px;
+	color: #d4d4d4;
+	display: block;
+	width: 875px;
+	text-align: justify;
+	margin: 0px auto 10px auto;
+}
 .montserrat {
-	font-family: 'Montserrat', sans-serif;
+	font-family: 'Montserrat'; sans-serif;
 	font-weight: 700;
 	font-size: 25pt;
 	color: #d4d4d4;
 	text-shadow: 2px 2px 2px black;
+}
+.subheading {
+	font-family: 'Montserrat'; sans-serif;
+	font-weight: 700;
+	font-size: 18pt;
+	color: #d4d4d4;
+	display: block;
+	text-align: center;
+	line-height: 100px;
+	margin-top: 20px;
+	text-shadow: 2px 2px 2px black;
+	white-space: pre;
+}
+.blogtext {
+	font-family: 'Quattrocento Sans'; sans-serif;
+	font-weight: 400;
+	font-size: 17pt;
+	color: #e3e3e3;
+	line-height: 27px;
+	text-indent: 20px;
+	display: block;
+	text-align: justify;
+	width: 800px;
+	margin: 20px auto 0px auto;
+}
+.caption {
+	font-family: 'Quattrocento Sans'; sans-serif;
+	font-style: italic;
+	font-weight: 400;
+	font-size: 13pt;
+	color: #d4d4d4;
+	display: block;
+	text-align: center;
+	width: 800px;
+	margin: 5px auto 20px auto;
 }
 nav a, .sbGray {
 	font-family: Raleway;

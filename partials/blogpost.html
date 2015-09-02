@@ -1,0 +1,26 @@
+<div class="clear40"></div>
+<span class="projectTitle montserrat">{{stuff.title}}</span>
+<div ng-repeat="element in stuff.contents" ng-switch="element.type">
+	<div ng-switch-when="space">
+		<div class="clear20"></div>
+	</div>
+	<div ng-switch-when="subheading">
+		<span class="subheading">{{element.words}}</span>
+	</div>
+	<div ng-switch-when="paragraph">
+		<span class="blogtext">{{element.words}}</span>
+	</div>
+	<div ng-switch-when="caption">
+		<span class="caption">{{element.words}}</span>
+	</div>
+	<div ng-switch-when="image">
+		<img class="embeddedImage" ng-src="{{element.URL}}">
+	</div>
+	<div ng-switch-when="gif">
+		<iframe class="embeddedGif" width="480" height="360" frameborder="0" ng-src="{{element.URL | trustURL}}"></iframe>
+	</div>
+	<div ng-switch-when="video">
+		<iframe class="embeddedVid" width="640" height="480" frameborder="0" allowfullscreen ng-src="{{element.URL | trustURL}}"></iframe>
+	</div>
+</div>
+<div class="clear40"></div>

@@ -75,7 +75,18 @@
 }
 .embeddedVid {
 	display: block;
-	margin: 10px auto 10px auto;
+	margin: 20px auto 0px auto;
+}
+.embeddedGif {
+	display: block;
+	margin: 20px auto 0px auto;
+	min-width: 100px;
+	max-width: 480px;
+}
+.embeddedImage {
+	max-width: 700px;
+	display: block;
+	margin: 20px auto 0px auto;
 }
 .titleWithVids {
 	margin: 50px 0px 60px 0px;
@@ -120,4 +131,14 @@
 }
 object {
 	margin-bottom: 10px;
+}
+.clear40 {
+	height: 40px;
+	width: 100%;
+	display: block;
+}
+.clear20 {
+	height: 20px;
+	width: 100%;
+	display: block;
 }
