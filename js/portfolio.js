@@ -5,6 +5,12 @@ portfolioApp.config(function($routeProvider) {
     .when('/main', {
       templateUrl: 'partials/main.html',
       controller:  'MainController'
+    }).when('/blog', {
+      templateUrl: 'partials/bloglist.html',
+      controller: 'BlogController'
+    }).when('/blog/:blogpost', {
+      templateUrl: 'partials/blogpost.html',
+      controller: 'BlogpostController'
     }).when('/:field', {
       templateUrl: 'partials/field.html',
       controller:  'FieldController'
@@ -19,7 +25,7 @@ portfolioApp.config(function($routeProvider) {
 portfolioApp.controller('MainController', function($scope) {
 });
 
-portfolioApp.controller('HeaderController', ['$scope', '$routeParams', function($scope, $routeParams) {
+portfolioApp.controller('HeaderController', ['$scope', '$routeParams', '$location', function($scope, $routeParams, $location) {
   $scope.fields = ['Art', 'Design', 'Apparel', 'Writing', 'Video', 'Code', 'About'];
   $scope.url = $routeParams;
 }]);
@@ -52,6 +58,18 @@ portfolioApp.controller('ProjectController', ['$scope', '$http', '$routeParams',
       if ($scope.contents.hasOwnProperty('pdfURLs')) {
         $scope.format = 'pdf';
       }
+    });
+}]);
+
+portfolioApp.controller('BlogController', ['$scope', '$http', '$routeParams', function($scope, $http, $routeParams) {
+    $http.get('json/bloglist.json').success(function(data) {
+      $scope.bloglist = data;
+    });
+}]);
+
+portfolioApp.controller('BlogpostController', ['$scope', '$http', '$routeParams', function($scope, $http, $routeParams) {
+    $http.get('json/blogposts/' + $routeParams.blogpost + '.json').success(function(data) {
+      $scope.stuff = data[0];
     });
 }]);
 
