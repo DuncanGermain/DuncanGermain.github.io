@@ -20,12 +20,25 @@
 				"URL": ""
 			},
 			{
+				"type": "link",
+				"URL": "",
+				"text": ""
+			},
+			{
 				"type": "image",
 				"URL": ""
 			},
 			{
 				"type": "video",
 				"URL": ""
+			},
+			{
+				"type": "list",
+				"list": [
+					"",
+					"",
+					""
+				]
 			}
 		]
 	}

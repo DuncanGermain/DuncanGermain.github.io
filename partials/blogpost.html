@@ -22,5 +22,13 @@
 	<div ng-switch-when="video">
 		<iframe class="embeddedVid" width="640" height="480" frameborder="0" allowfullscreen ng-src="{{element.URL | trustURL}}"></iframe>
 	</div>
+	<div ng-switch-when="list">
+		<ul>
+			<li ng-repeat="point in element.list" class="blogtext"> — {{point}}</li>
+		</ul>
+	</div>
+	<div ng-switch-when="link">
+		<a ng-href="{{element.URL}}" class="bloglink">{{element.text}}</a>
+	</div>
 </div>
 <div class="clear40"></div>

@@ -142,3 +142,8 @@ object {
 	width: 100%;
 	display: block;
 }
+.bloglink {
+	display: block;
+	margin: 40px 0px 0px 80px;
+	text-decoration: underline;
+}

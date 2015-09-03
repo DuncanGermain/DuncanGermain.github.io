@@ -1,5 +1,12 @@
 [
 	{
+		"title": "QUITTABILITY",
+		"name": "quittability",
+		"blurb": "An attempt to identify an underlying principle connecting various failure modes, especially in the realm of \"Screw this; I quit.\"",
+		"imageURL": "img/fig1Quittability.png",
+		"time": "September 2nd, 2015"
+	},
+	{
 		"title": "PRIME DIRECTIVE",
 		"name": "federation",
 		"blurb": "In which the only stable time loop that includes a Federation must also include a Prime Directive.",
