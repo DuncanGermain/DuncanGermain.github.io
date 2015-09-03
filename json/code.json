@@ -11,7 +11,7 @@
 		"sourceLinkURL": "https://github.com/ThirdFoundation/ng-scratchpost"
 	},
 	{
-		"title": "EA Global Media",
+		"title": "EA GLOBAL MEDIA",
 		"name": "eaglobal",
 		"blurb": "I spent several days helping out with the 2015 Effective Altruism Global conference at Google in Mountain View.  After it was all over, I designed this simple page for sharing the videos of the talks, workshops, and panels.  AngularJS made implementing filters for the videos (by type, cause, or speaker) practically a one-step operation.",
 		"imageURL": "img/fig1EA.png",
