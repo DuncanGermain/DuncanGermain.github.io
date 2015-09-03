@@ -5,9 +5,6 @@ portfolioApp.config(function($routeProvider) {
     .when('/main', {
       templateUrl: 'partials/main.html',
       controller:  'MainController'
-    }).when('/blog', {
-      templateUrl: 'partials/bloglist.html',
-      controller: 'BlogController'
     }).when('/blog/:blogpost', {
       templateUrl: 'partials/blogpost.html',
       controller: 'BlogpostController'
@@ -26,7 +23,7 @@ portfolioApp.controller('MainController', function($scope) {
 });
 
 portfolioApp.controller('HeaderController', ['$scope', '$routeParams', '$location', function($scope, $routeParams, $location) {
-  $scope.fields = ['Art', 'Design', 'Apparel', 'Writing', 'Video', 'Code', 'About'];
+  $scope.fields = ['Art', 'Design', 'Apparel', 'Writing', 'Video', 'Code', 'About', 'Blog'];
   $scope.url = $routeParams;
 }]);
 

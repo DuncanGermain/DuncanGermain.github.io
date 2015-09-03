@@ -26,6 +26,11 @@
 	</select>
 </div>
 
+<!--Optional space for introductory paragraph at the top of the page-->
+<div ng-switch="field">
+	<span class="pageintro" ng-switch-when="blog">I'll be honest—I'm not really sure where the line between "writing" and "blogging" lies.  I started this page when I found myself uncomfortable posting various disposable musings alongside things like my novel draft or my educational proposals.  Currently, I'm thinking of it as the analog of an ongoing television series, while the Writing page is an archive of stand-alone movies.  No doubt some things will cross the line in one direction or the other; I have faith that my fellow humans will forgive me.</span>
+</div>
+
 <!--Populated project list-->
 <div ng-switch="linkType">
 	<!-- Field pages with no special hover functionality on thumbnails -->
