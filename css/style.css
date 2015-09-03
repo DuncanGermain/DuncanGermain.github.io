@@ -81,7 +81,7 @@ a {
 	font-size: 18px;
 	color: #d4d4d4;
 }
-#blogintro {
+.pageintro {
 	font-family: 'Raleway'; sans-serif;
 	font-weight: 300;
 	font-size: 19px;
@@ -89,7 +89,7 @@ a {
 	display: block;
 	width: 875px;
 	text-align: justify;
-	margin: 0px auto 10px auto;
+	margin: 0px auto 50px auto;
 }
 .montserrat {
 	font-family: 'Montserrat'; sans-serif;
