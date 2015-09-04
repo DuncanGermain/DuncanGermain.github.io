@@ -1,7 +1,6 @@
 [
 	{
 		"title": "",
-		"date": "",
 		"contents": [
 			{
 				"type": "subheading",
@@ -39,6 +38,13 @@
 					"",
 					""
 				]
+			},
+			{
+				"type": "space"
+			},
+			{
+				"type": "footnote",
+				"words": ""
 			}
 		]
 	}

@@ -1,5 +1,12 @@
 [
 	{
+		"title": "EDUCATION 101",
+		"name": "educ101",
+		"blurb": "The first of a long series of posts explaining my thoughts on the purpose of education, the nature of the student-teacher relationship, and the problems with modern Western pedagogy.",
+		"imageURL": "img/fig1Educ.png",
+		"time": "September 4th, 2015"
+	},
+	{
 		"title": "QUITTABILITY",
 		"name": "quittability",
 		"blurb": "An attempt to identify an underlying principle connecting various failure modes, especially in the realm of \"Screw this; I quit.\"",

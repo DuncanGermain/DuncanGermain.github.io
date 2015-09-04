@@ -143,6 +143,7 @@ object {
 	display: block;
 }
 .bloglink {
+	font-family: 'Quattrocento Sans'; sans-serif;
 	display: block;
 	margin: 40px 0px 0px 80px;
 	text-decoration: underline;
