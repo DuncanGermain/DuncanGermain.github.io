@@ -1,0 +1,121 @@
+[
+	{
+		"title": "EDUCATION 101",
+		"contents": [
+
+			{
+				"type": "image",
+				"URL": "http://i.imgur.com/1Z6OsPl.png"
+			},
+			{
+				"type": "space"
+			},
+			{
+				"type": "paragraph",
+				"words": "I've been teaching more or less continuously for fourteen years.  My first job ever was at Lee Brothers Tae Kwon Do academy in Burlington, North Carolina, where I became an assistant instructor a few days after I turned fifteen.  I continued to work at Lee Brothers all the way through college, and graduated with a degree in middle grades education from UNC Chapel Hill.  From there, I spent three years working the kinks out of an interdisciplinary, project-based critical thinking class for sixth graders, after which I moved to Seattle and spent another two years working my way to the top of a parkour gym.  This fall, I hope to find a place with an adult education nonprofit in the San Francisco bay area, teaching students and professionals to overcome biases and other flaws in thinking and reasoning.  In short, while I've never considered myself to BE a teacher, I've done a heck of a lot of standing up in front of people and spouting words at them."
+			},
+			{
+				"type": "paragraph",
+				"words": "And I've noticed—while listening to students and parents, and while watching the work of my colleagues—that whatever vague, amorphous thing is meant by the phrase \"teaching philosophy,\" mine is unlike everyone else's.  There have been plenty of cases of convergent evolution, where my colleagues and I would independently arrive at similar conclusions regarding best practices.  But I have yet to meet another person in the world of education who actually holds the same goals that I hold, and thinks about those goals in anything like the same way."
+			},
+			{
+				"type": "paragraph",
+				"words": "So this is my attempt at a manifesto.  Right now, I'm imagining it will clock in at somewhere around 20,000 words, in ten to twenty installments.  In the tradition of Marx, Smith, and Luther, I'm going to do lots of approximation, simplification, and hand-waving; I have the feeling that if I tried to include every caveat and equivocation, I might just run out of parentheses.  But I am going to confine myself to the realm of actual experience, so if you find yourself suspicious that there's no way these ideas could really work in the real world, remember that they did, at least once, and at least well enough that I never got fired and chased through the streets with torches and pitchforks."
+			},
+			{
+				"type": "paragraph",
+				"words": "(If you find yourself horrified, that's perfectly normal, and the support group meets on alternate Tuesdays.)"
+			},
+			{
+				"type": "subheading",
+				"words": "*      *      *"
+			},
+			{
+				"type": "paragraph",
+				"words": "So!  Let's begin.  I have no plan and no actual idea where this series will go; I'm just going to start with the low-hanging fruit, and see where we end up.  For reasons which will become clear by the end of this post, I'm going to phrase almost all of this as if I'm talking about educating kids, though I've logged a roughly equivalent amount of time working with adults."
+			},
+			{
+				"type": "subheading",
+				"words": "Big Idea #1: Kids Are People, Too"
+			},
+			{
+				"type": "paragraph",
+				"words": "Notice the lack of a \"but.\"  This is the first and most significant tenet of my heresy—most teachers, if pressed, will profess to believing in child personhood, but they usually follow it up with something about frontal lobe development not being completed until age twenty five, or with some example of how they dissociate their present selves from who they were in middle school.  Few, if any, will admit that some kids are simply terrible people*, or list a student among those whom they admire and aspire to emulate, or feel comfortable putting an eleven-year-old in a position of real power or responsibility and then actually turning their backs and letting things play out."
+			},
+			{
+				"type": "paragraph",
+				"words": "Yet in my fourteen years as a teacher, I have found absolutely nothing to shake my belief that the range is the same for both kids and adults.  Granted, I haven't spent much time with students under the age of, say, eight.  But if there's a difference, it seems to be nothing more than a slight shifting of the bell curve's peak."
+			},
+			{
+				"type": "space"
+			},
+			{
+				"type": "image",
+				"URL": "http://i.imgur.com/7aCB9MX.png"
+			},
+			{
+				"type": "space"
+			},
+			{
+				"type": "paragraph",
+				"words": "To those who will point out, \"Um, but there IS a lack of development in the frontal lobe that doesn't go away until age twenty five,\" I respond that, first, this does not stop us from giving plenty of responsibility to eighteen-to-twenty-four-year-olds, and second, that it's better to err on the side that will promote growth and self-worth than the side which promotes condescension, infantilization, and (ultimately) stagnation.  Which is about as close as a segue as I'm likely to get to my second point:"
+			},
+			{
+				"type": "subheading",
+				"words": "Big Idea #2: Some Kids Left Behind"
+			},
+			{
+				"type": "paragraph",
+				"words": "You cannot save everybody."
+			},
+			{
+				"type": "paragraph",
+				"words": "(Actually, since I'm speaking out of my own limited experience, let me rephrase: I cannot save everybody.  Perhaps there are teachers out there who can.)"
+			},
+			{
+				"type": "paragraph",
+				"words": "If I make boots, and I try to sell them for a thousand dollars a pair, I may find one or two buyers and make a couple thousand dollars.  If I sell them for two dollars a pair, I may find a near-infinite pool of buyers, but I will likely be unable to cover my costs.  Somewhere in the middle, there is a balance of price and demand that nets me maximum profit—make the boots more expensive, and I lose buyers faster than the higher price can make up for; sell them cheaper, and the gain in buyers is not offset by the loss-of-profit-per-pair."
+			},
+			{
+				"type": "paragraph",
+				"words": "This is one of the central ideas of economics, and it's at the core of what makes capitalism work.  It's part of the magic that results in goods being produced only as often as they're actually wanted, and that allocates them according to who wants them the most.  It's one of the elements of a system that produces the maximum possible wealth and surplus."
+			},
+			{
+				"type": "paragraph",
+				"words": "It's also a process that is entirely blind to things like fairness and suffering.  It routinely results in winners and losers, rich and poor.  To the extent that we, as a society, try to correct these imbalances, we do so at a loss in total wealth—we can ensure that there are no true losers, but only by introducing constraints and inefficiencies that bring the final number down."
+			},
+			{
+				"type": "paragraph",
+				"words": "There is an analogous situation in education.  We can arrange our schools such that the maximum amount of material is taught, and the maximum degree of potential fulfilled, OR we can arrange them such that every child reaches a certain level of erudition, at the cost of a reduction in the aggregate."
+			},
+			{
+				"type": "paragraph",
+				"words": "Let me be clear—I am very glad that we live in a society which cares about the disadvantaged.  I have tremendous respect for special education teachers, for urban remediation, for ESL programs.  But I would be lying if I pretended that these were jobs I was suited to perform.  My own instruction is filled with take-it-or-leave-it opportunities, with absolute minima of quality and pass-fail assignments, and with multipliers that need something significant to multiply.  As a result, I tend to turbocharge the gifted, challenge the average, and only very occasionally inspire the struggling or the apathetic.  There is a certain type of student who—whether because of attitude or because of native ability—does not respond to my teaching style, and I'm essentially comfortable with this.  It's my belief that more good comes from my held line than from other teachers' held hands, and this belief is at least partially borne out by the results."
+			},
+			{
+				"type": "subheading",
+				"words": "Big Idea #3: You Are Not In Control"
+			},
+			{
+				"type": "paragraph",
+				"words": "This one feels a bit like cheating, as it's really just an extension of #1.  But it's worth underlining as its own point, because it informs a lot of what I do in terms of classroom management and the creation of a learning atmosphere."
+			},
+			{
+				"type": "paragraph",
+				"words": "The core of this idea is that everyone who is present at a given lesson is there by choice.  This does not always FEEL true, since society is built around making its norms and restrictions feel inevitable and impermeable.  But just like the lines on the pavement don't ACTUALLY stop you from driving on the wrong side of the road, the rules and incentives that keep kids in the classroom don't ACTUALLY force them to be there.  Their presence is always a choice."
+			},
+			{
+				"type": "paragraph",
+				"words": "Teaching my students to recognize this truth is always one of my earliest priorities.  It's empowering in a way that's a necessary precondition for mature growth, and it gets them thinking in terms of constrained trade-offs, which are what make the world go 'round.  Most importantly, it frees me from the role of shepherd, and allows me to become more of an antagonist or foil, which—as we'll get into later—is another place where I and my colleagues do not quite see eye-to-eye."
+			},
+			{
+				"type": "paragraph",
+				"words": "And that's it.  Like Euclid, I'm attempting to build a solid, internally consistent framework atop as few premises as possible.  As I start to formulate proofs, I may backpedal and realize I've forgotten something, but for the moment, I encourage you to take a few minutes to think about how your own school experience would have been different, had your teachers embraced my three fundamental axioms.  Even better—if you assume that these three things are true, how would that change your opinion of what the ideal school should look like?"
+			},
+			{
+				"type": "footnote",
+				"words": "*I'm perfectly comfortable with people who say that all kids are precious and wonderful, as long as they ALSO say that all adults are precious and wonderful, too.  You have to be consistent—anyone who doesn't think an eleven-year-old can be a total snake was either raised in a utopia or is wilfully misremembering junior high.  I'm also aware of the fact that people can change for the better, and that it's my job to teach them well whether I like them or not."
+			}
+		]
+	}
+]

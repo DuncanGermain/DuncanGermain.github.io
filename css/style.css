@@ -133,6 +133,15 @@ a {
 	width: 800px;
 	margin: 5px auto 20px auto;
 }
+.footnote {
+	font-family: 'Quattrocento Sans'; sans-serif;
+	font-weight: 400;
+	font-size: 12pt;
+	color: #d4d4d4;
+	display: block;
+	width: 800px;
+	margin: 40px 0px 0px 80px;
+}
 nav a, .sbGray {
 	font-family: Raleway;
 	font-weight: 600;
