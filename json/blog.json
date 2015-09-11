@@ -1,5 +1,12 @@
 [
 	{
+		"title": "FLAVORFUL EFFORT",
+		"name": "flavor",
+		"blurb": "An examination of positive and negative flavorings in making and executing plans, and an attempt to define the right places for each.",
+		"imageURL": "img/fig1Flavor.png",
+		"time": "September 11th, 2015"
+	},
+	{
 		"title": "EDUCATION 101",
 		"name": "educ101",
 		"blurb": "The first of a long series of posts explaining my thoughts on the purpose of education, the nature of the student-teacher relationship, and the problems with modern Western pedagogy.",
