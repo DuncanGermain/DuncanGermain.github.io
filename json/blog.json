@@ -1,5 +1,12 @@
 [
 	{
+		"title": "EDUC 102: ECONOMICS",
+		"name": "educ102",
+		"blurb": "The second in an ongoing series of education/pedagogy posts.  This one is about refining and defending an economic model of classroom management.",
+		"imageURL": "img/fig1Educ.png",
+		"time": "September 12th, 2015"
+	},
+	{
 		"title": "FLAVORFUL EFFORT",
 		"name": "flavor",
 		"blurb": "An examination of positive and negative flavorings in making and executing plans, and an attempt to define the right places for each.",
@@ -7,7 +14,7 @@
 		"time": "September 11th, 2015"
 	},
 	{
-		"title": "EDUCATION 101",
+		"title": "EDUC 101: AXIOMS",
 		"name": "educ101",
 		"blurb": "The first of a long series of posts explaining my thoughts on the purpose of education, the nature of the student-teacher relationship, and the problems with modern Western pedagogy.",
 		"imageURL": "img/fig1Educ.png",

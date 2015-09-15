@@ -1,0 +1,140 @@
+[
+	{
+		"title": "ECONOMICS",
+		"contents": [
+			{
+				"type": "image",
+				"URL": "http://i.imgur.com/t9VJcEC.jpg"
+			},
+			{
+				"type": "space"
+			},
+			{
+				"type": "paragraph",
+				"words": "Where we last left off, I had made three fairly strong claims about the underpinnings of education: first, that one should treat middle schoolers and high schoolers almost exactly the same as one would treat adults (in other words, as humans); second, that the locus of control belongs in the students, not in the teacher; and third, that any given teaching environment needs a clear definition of what constitutes \"acceptable losses.\""
+			},
+			{
+				"type": "paragraph",
+				"words": "I'd like to spend this post digging a little deeper into an economic model of classroom management that ties all three of those axioms together into one coherent framework.  I expect that you'll find the philosophical stuff relatively benign and obvious (it's mostly common sense and Econ 101).  But following those precepts to their logical conclusions can lead to some surprising recommendations."
+			},
+			{
+				"type": "subheading",
+				"words": "Costs, not consequences"
+			},
+			{
+				"type": "paragraph",
+				"words": "I have a close friend who once told me that she thinks of speeding tickets in the same way she thinks of taxes or tolls.  She drives about 13 miles per hour over the limit pretty much all the time, and about once a year, she makes a large payment for that privilege.  This isn't just a metaphor—she actually did some rough calculations to estimate the value of the time she was saving and the risk and magnitude of various speeding penalties to arrive at her decision to speed by 13mph (no more, no less)."
+			},
+			{
+				"type": "paragraph",
+				"words": "While I don't necessarily endorse her particular conclusions, I was deeply impressed by her reasoning.  By treating the situation as transactional rather than punitive, she was assuming total control of it—it wasn't a question of right or wrong, or of whether the cops were being fair, or of trying to get away with something.  She simply took the constraints of the law as a given, and made a choice within them."
+			},
+			{
+				"type": "paragraph",
+				"words": "There's a lesson in there for teachers (and, by extension, for students).  We've all experienced some version of the following, in the classroom—either directly, or as bystanders:"
+			},
+			{
+				"type": "blockquote",
+				"words": "Hey—HEY!  No talking while I'm talking!  No—I don't want to hear your excuses.  We're halfway through the year; you should know better by now.  Your classmates are here to LEARN—your constant interruptions are rude and selfish, and now we're losing even MORE time because I have to stop and deal with you AGAIN.  I'm taking away your recess—in fact, no, you know what?  I'm tired of this—no more recess for you until next week.  Maybe THAT will finally teach you a lesson."
+			},
+			{
+				"type": "paragraph",
+				"words": "This is a bit of a strawman—I've exaggerated a little to hit all of the failure modes in a single example—but it's not THAT far outside of the realm of the ordinary.  Unpack this, and what do we find?  A student whose inappropriate behavior is seen as fundamental—as indicative of his or her core character.  An adult who is acting as judge, jury, and executioner, handing down moral condemnation and arbitrary punishment without hesitation.  A black-and-white universe in which there is only one set of priorities—those of the curriculum—and no room for accommodating the needs or preferences of the human beings stuck inside."
+			},
+			{
+				"type": "paragraph",
+				"words": "This is the kind of system that produces graduates who yell at traffic cops for pulling them over, who curse bad luck or injustice when they have to pay a ticket, who think of themselves as being at the mercy of fate.  It's not a system that encourages students to mature and take control, because it offers no incentives for doing so—at best, it reinforces elementary self-control in the form of conformity to authority."
+			},
+			{
+				"type": "paragraph",
+				"words": "A far better paradigm is one designed to encourage the sort of transactional thinking exemplified by my speedy friend.  For example: in my sixth grade classroom, there were four levels of permission-to-talk, indicated by a poster at the front of the room with a movable magnet.  If the magnet was set to \"Active,\" students were free to move and talk at will.  If it was set to \"Participating,\" everyone was expected to be focused on the central discussion or activity—depending on the goals of the moment, people might be allowed to blurt, or might be expected to raise their hands; side conversations were allowed, to a point.  On \"Quiet,\" students were permitted to whisper, but NOT to talk or murmur—we would practice the difference from time to time, to reinforce the standard.  And on \"Silent,\" any talking at all was considered an infraction."
+			},
+			{
+				"type": "paragraph",
+				"words": "There were a handful of consequences associated with quote, misbehavior, endquote (most often a partial silent recess, in which you would have to sit on the curb for five minutes while your friends got to run around and play).  I made it clear very early in the year that there would be no warnings given—if you spoke aloud on Quiet (or at all on Silent), I would assume that this was a deliberate choice on your part, and respond as if you were in total control of yourself and acting in your own best interests."
+			},
+			{
+				"type": "paragraph",
+				"words": "What I would NOT do is bring subjective moral judgments into the situation.  Rules and consequences are about influencing the frequency with which certain behaviors appear.  Guilt and shame and retribution are certainly methods one can use to bring about results, but they come with tangible (and often enormous) downside—they erode student confidence where effective, and corrode the student-teacher relationship where not.  If I saw too much unwanted behavior occurring, the solution was not to start shouting, it was simply to increase the price such that fewer students were willing to pay it."
+			},
+			{
+				"type": "paragraph",
+				"words": "Of course, if you truly commit to this model, then you also embrace the fact that SOME students WILL take that option, just as there's always someone who's willing to speed and risk getting a ticket.  This is not, in fact, a bad thing—with the right framing and encouragement, you can actually turn the whole misbehavior phenomenon into one giant teachable moment:"
+			},
+			{
+				"type": "blockquote",
+				"words": "What if you could pay in advance to break the rules?  If, for instance, I let you sit out at recess BEFORE class, and then gave you one freebie—what would you spend it on?  The real question isn't \"should I talk,\" it's \"if I get caught talking, will it have been worth it?\"  If your best friend is having the worst week of her life, and you think of a hilarious joke in the middle of a quiz, maybe making that joke and getting a silent recess is TOTALLY WORTH IT, because five minutes sitting out is a small price to pay for cheering up your friend—just like a speeding ticket every now and then might be a small price to pay for the freedom of going faster every day."
+			},
+			{
+				"type": "paragraph",
+				"words": "In this way, I encouraged my students to assume total agency WITHIN the constrained system of the class rules.  I made no judgments of their behavior—I simply enforced the known prices of various actions, keeping hidden costs (like \"you'll get lectured, too\") out of the equation.  For instance, some of my colleagues had rules forbidding bathroom breaks during class.  If pressed, they would hem and haw, and often give in; the magnitude of the consequences for the student (if any) depended entirely on the teacher's subjective sense of the situation.  I, on the other hand, simply set the price at one silent recess and moved on; this led to both an overall reduction in bathroom break requests AND to me not having to make moral judgments every time someone had to pee."
+			},
+			{
+				"type": "paragraph",
+				"words": "I treated my students as if they were rational agents in total control of their own behavior, and by the end of the year, they had actually made significant progress toward that ideal.  As an added benefit, I rarely found myself the target of frustration over rules and consequences.  When they thought something was unfair, they didn't blame ME—they either blamed the system (and treated me as their ally in improving it), or they blamed themselves (and felt motivation to grow).  It's the difference between shouting \"WHY DID YOU DO THAT??\" and calmly asking \"So, was it worth it?\"  The former assumes that You Are Right, And They Are Wrong; the latter assumes nothing.  One is how you treat children, and the other is how you treat human beings."
+			},
+			{
+				"type": "subheading",
+				"words": "Information markets"
+			},
+			{
+				"type": "paragraph",
+				"words": "There's a truism in economics that goes something like \"the more available a thing is, the less value it has.\"  We pay premium for diamonds and very little for glass or cubic zirconia, and while availability is not the whole story, there's power in noting that the relationship is causal in all directions.  That which is rare is perceived as valuable; that which is widely coveted eventually becomes scarce; et cetera."
+			},
+			{
+				"type": "paragraph",
+				"words": "Hold that thought in your mind for a moment, and consider what implications it has when you apply it to the words \"school\" and \"knowledge.\""
+			},
+			{
+				"type": "paragraph",
+				"words": "The first time I tugged on this thread, it led me to a place that looked and felt something like this:"
+			},
+			{
+				"type": "space"
+			},
+			{
+				"type": "image",
+				"URL": "http://i.imgur.com/6Pazbbn.png"
+			},
+			{
+				"type": "space"
+			},
+			{
+				"type": "paragraph",
+				"words": "There's the teaching that we intend to do, and there's the teaching that we actually do, and the two are often different.  It's no surprise that many students fail to get excited about the information they're being offered—from their perspective, it's roughly as abundant as dirt.  By shoving it down their throats, we're implicitly sending the message that they wouldn't want to eat it otherwise.  If you don't happen to be intrinsically motivated to learn, school is basically one long chain of \"eat your broccoli\" experiences."
+			},
+			{
+				"type": "paragraph",
+				"words": "Teachers fight this implicit narrative as hard as they can—creating engaging lesson plans, selecting compelling content, highlighting the relevance of each bit of knowledge and its application in everyday life.  But the very fact that students ASK the question \"Why do we even need to learn this?\" is indicative of a problem.  After all, the information they're treating as an imposition is something mathematicians spent generations trying to prove, or archaeologists spent years uncovering, or psychologists spent decades teasing out of the data from a hundred different experiments."
+			},
+			{
+				"type": "paragraph",
+				"words": "As it turns out, the obvious solution is, in fact, devastatingly effective.  In my sixth grade classroom, I took steps to make information more scarce, and saw an immediate and dramatic increase in student engagement.  It's like the difference between handing someone a crossword puzzle or giving them a page torn from a dictionary—each contains similar content, but only one is naturally engaging.*"
+			},
+			{
+				"type": "paragraph",
+				"words": "The poster-child for this pet theory of mine was a question limit.  Each student had a default limit of one question per day; barring things like tests, they would receive a complete and honest answer to one and only one question during the fifty minutes they spent in my class.  Students could earn additional questions through various means (some students even earned a \"permanent\" second question), but ALL questions asked counted toward one's daily limit.  If, for instance, a student were to ask \"Can you help us with this?\" I would answer \"Yes,\" check them off for the day, and walk away."
+			},
+			{
+				"type": "paragraph",
+				"words": "The result of this policy was a tangible improvement in the quality of my conversations with students.  They quickly learned to prioritize the gaps in their knowledge, thinking critically about which things they needed to know, which they could figure out on their own, and which were trivial or irrelevant.  They would routinely spend several minutes crafting a carefully worded question that would net them multiple pieces of information.  They paid more attention to one another, as well—another of my interventions was a policy of never repeating myself, so they learned to listen whenever one of their colleagues was receiving an answer."
+			},
+			{
+				"type": "paragraph",
+				"words": "Perhaps the most encouraging development was the emergence of a secondary market in questions.  About half of the projects in my classroom were partner- or group-work, and on many occasions, I would overhear sentiments like \"Oh, man, we get to ask four questions; this is going to be EASY,\" only to walk by five minutes later to hear \"I'm not going to ask that!  You can waste YOUR question on that; I'm saving MINE for something GOOD.\"  During my three years, I heard questions bartered for future questions, for pencils, for snacks, for help with homework in other classes, and for the chance to have the ball first during four-square at recess.  I even had students attempt to buy additional questions off ME by volunteering to sit out at recess—I'll let you draw your own conclusions as to my likely response."
+			},
+			{
+				"type": "paragraph",
+				"words": "And the question limit was only the beginning.  Wherever possible, I reduced the amount of information available at the start of an activity to a reasonable minimum.  Sometimes further detail had to be extracted through questions; sometimes it was hidden in clues and ciphers; sometimes it was distributed unevenly throughout the room, and students had to choose to collaborate, often in the face of local incentives encouraging them to do the opposite.  Once in a while, I even had the luxury of being able to structure a project in tiers, such that the completion of the first sub-challenge gave them the keys to the next.  The result was a classroom experience that was less like steamed broccoli and more like a video game or an obstacle course."
+			},
+			{
+				"type": "paragraph",
+				"words": "There's more to be said, but the clock is pushing midnight and the word count is pushing 2500, so this seems like a good place to press pause.  The contextual conclusion is \"learn basic economic principles, and apply them to your classroom;\" as always, the overarching message is \"assume your students are human beings, and that methods which explain and influence human beings will also explain and influence your students.\"  Next post will be another broad outline (titled \"Antagonistic Learning\"), after which we may be able to start talking about specific lessons I taught, and the lessons I took away from them.  Your homework, should you choose to accept it: think of three things your teachers said they didn't want you to do and then promptly rewarded you for doing."
+			},
+			{
+				"type": "footnote",
+				"words": "*Alternate theory: the sense of engagement comes less from an increase in perceived value, and more from the fact that barriers are fun to overcome.  The key is to create barriers of the correct height—difficult enough that students can feel pride when they finally overcome them, but not so large that students are too discouraged to try."
+			}
+		]
+	}
+]
