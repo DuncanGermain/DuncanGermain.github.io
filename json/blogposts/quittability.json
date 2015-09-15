@@ -39,7 +39,17 @@
 			},
 			{
 				"type": "paragraph",
-				"words": "There's a certain parkour movement in which you vault over a wall, fly through the air, and catch the lip of another wall with your hands, landing with your feet against its vertical surface (video linked in footnote if that description doesn't parse).  This is an extremely advanced movement, one which few people attempt within their first year."
+				"words": "There's a certain parkour movement in which you vault over a wall, fly through the air, and catch the lip of another wall with your hands, landing with your feet against its vertical surface.  This is an extremely advanced movement, one which few people attempt within their first year."
+			},
+			{
+				"type": "space"
+			},
+			{
+				"type": "image",
+				"URL": "http://i.imgur.com/uR0v3Tk.jpg"
+			},
+			{
+				"type": "space"
 			},
 			{
 				"type": "paragraph",
@@ -100,11 +110,6 @@
 			{
 				"type": "paragraph",
 				"words": "Of course, as with anything where you're setting up external pressures on yourself, be careful not to push things too far, and end up resenting the restrictions that Past You dared to put in place and smashing everything in a fit of abandon.  Quittability is a MARGINAL tool—the idea isn't to use it everywhere, but to look for specific places where you can replace a constant leak of effort with a slightly higher barrier to exit."
-			},
-			{
-				"type": "link",
-				"URL": "https://www.youtube.com/watch?v=vzFFscHc5yM&feature=youtu.be&t=3m18s",
-				"text": "Video: catpass to armjump"
 			}
 		]
 	}

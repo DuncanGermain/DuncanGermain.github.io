@@ -142,6 +142,19 @@ a {
 	width: 800px;
 	margin: 40px 0px 0px 80px;
 }
+.blockquote {
+	font-family: 'Quattrocento Sans'; sans-serif;
+	font-weight: 400;
+	font-size: 16pt;
+	font-style: italic;
+	color: #d4d4d4;
+	line-height: 24px;
+	text-indent: 20px;
+	display: block;
+	text-align: justify;
+	width: 700px;
+	margin: 30px auto 30px auto;
+}
 nav a, .sbGray {
 	font-family: Raleway;
 	font-weight: 600;
