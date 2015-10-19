@@ -16,6 +16,9 @@
 	<div ng-switch-when="image">
 		<img class="embeddedImage" ng-src="{{element.URL}}">
 	</div>
+		<div ng-switch-when="wideimage">
+		<img class="wideEmbeddedImage" ng-src="{{element.URL}}">
+	</div>
 	<div ng-switch-when="gif">
 		<iframe class="embeddedGif" width="480" height="{{element.height}}" frameborder="0" ng-src="{{element.URL | trustURL}}"></iframe>
 	</div>
@@ -24,7 +27,7 @@
 	</div>
 	<div ng-switch-when="list">
 		<ul>
-			<li ng-repeat="point in element.list" class="blogtext"> — {{point}}</li>
+			<li ng-repeat="point in element.list" class="listtext"> • {{point}}</li>
 		</ul>
 	</div>
 	<div ng-switch-when="link">

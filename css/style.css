@@ -105,8 +105,7 @@ a {
 	color: #d4d4d4;
 	display: block;
 	text-align: center;
-	line-height: 100px;
-	margin-top: 20px;
+	margin: 60px auto 0px auto;
 	text-shadow: 2px 2px 2px black;
 	white-space: pre;
 }
@@ -121,6 +120,18 @@ a {
 	text-align: justify;
 	width: 800px;
 	margin: 20px auto 0px auto;
+}
+.listtext {
+	font-family: 'Quattrocento Sans'; sans-serif;
+	font-weight: 400;
+	font-size: 17pt;
+	color: #e3e3e3;
+	line-height: 27px;
+	text-indent: 20px;
+	display: block;
+	text-align: justify;
+	width: 800px;
+	margin: 0px auto 0px auto;
 }
 .caption {
 	font-family: 'Quattrocento Sans'; sans-serif;
@@ -153,7 +164,7 @@ a {
 	display: block;
 	text-align: justify;
 	width: 700px;
-	margin: 30px auto 30px auto;
+	margin: 0px auto 0px auto;
 }
 nav a, .sbGray {
 	font-family: Raleway;
