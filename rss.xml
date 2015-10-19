@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+<title>Third Foundation RSS</title>
+<link>http://thirdfoundation.github.io/#/blog/</link>
+<description>Rationality, Education, and Flash Fiction</description>
+<item>
+  <title>Prime Directive</title>
+  <link>http://thirdfoundation.github.io/#/blog/federation</link>
+  <guid>http://thirdfoundation.github.io/#/blog/federation</guid>
+  <pubDate>Sun, 30 Aug 2015 12:00:00 GMT</pubDate>
+  <description>[CDATA[ In which the only stable time loop that includes a Federation must also include a Prime Directive. ]]</description>
+</item>

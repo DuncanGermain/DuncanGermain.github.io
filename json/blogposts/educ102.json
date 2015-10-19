@@ -34,8 +34,14 @@
 				"words": "There's a lesson in there for teachers (and, by extension, for students).  We've all experienced some version of the following, in the classroom—either directly, or as bystanders:"
 			},
 			{
+				"type": "space"
+			},
+			{
 				"type": "blockquote",
 				"words": "Hey—HEY!  No talking while I'm talking!  No—I don't want to hear your excuses.  We're halfway through the year; you should know better by now.  Your classmates are here to LEARN—your constant interruptions are rude and selfish, and now we're losing even MORE time because I have to stop and deal with you AGAIN.  I'm taking away your recess—in fact, no, you know what?  I'm tired of this—no more recess for you until next week.  Maybe THAT will finally teach you a lesson."
+			},
+			{
+				"type": "space"
 			},
 			{
 				"type": "paragraph",
