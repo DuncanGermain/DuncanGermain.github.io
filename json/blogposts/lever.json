@@ -45,6 +45,9 @@
 				"words": "*      *      *"
 			},
 			{
+				"type": "space"
+			},
+			{
 				"type": "paragraph",
 				"words": "There's a date that sticks in my mind.  It's November 12th, 1999.  I remember it because I can clearly recall telling myself to—on my bike, as I left my best friend's house and headed toward home.  The memory isn't very rich.  There's just the hint of a smell, a soft-focus memory of clouds, the feel of a breeze that's too cold for five minutes (so it's good that the bike ride only takes three)."
 			},
@@ -55,6 +58,9 @@
 			{
 				"type": "subheading",
 				"words": "*      *      *"
+			},
+			{
+				"type": "space"
 			},
 			{
 				"type": "paragraph",
@@ -87,6 +93,9 @@
 			{
 				"type": "subheading",
 				"words": "*      *      *"
+			},
+			{
+				"type": "space"
 			},
 			{
 				"type": "paragraph",

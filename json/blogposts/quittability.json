@@ -38,6 +38,9 @@
 				"words": "*      *      *"
 			},
 			{
+				"type": "space"
+			},
+			{
 				"type": "paragraph",
 				"words": "There's a certain parkour movement in which you vault over a wall, fly through the air, and catch the lip of another wall with your hands, landing with your feet against its vertical surface.  This is an extremely advanced movement, one which few people attempt within their first year."
 			},
@@ -72,6 +75,9 @@
 				"words": "*      *      *"
 			},
 			{
+				"type": "space"
+			},
+			{
 				"type": "paragraph",
 				"words": "Where this goes from observation to application is in the arena of extrinsic motivation.  You see, it takes ACTIVE EFFORT OF WILL to push through a quittable window, especially if there are strong reasons to quit (like, say, a desire to live).  But if you're in the middle of something that doesn't feel quittable, you just deal.  You might not have fun, you might complain, but you don't ACTUALLY SPEND ENERGY continually remaking the decision to keep going."
 			},
@@ -94,6 +100,9 @@
 			{
 				"type": "subheading",
 				"words": "*      *      *"
+			},
+			{
+				"type": "space"
 			},
 			{
 				"type": "paragraph",
