@@ -15,6 +15,9 @@
 				"words": "*      *      *"
 			},
 			{
+				"type": "space"
+			},
+			{
 				"type": "paragraph",
 				"words": "There's a card game I love called Magic: The Gathering, where you play as a wizard and attempt to take out your opponents by casting spells and marshalling creatures.  It's organized around a system of five colors, each of which has its own flavor and style.  Players using white cards, for example, can't really cast creepy death spells, while players using black cards don't usually have access to angels."
 			},
@@ -47,6 +50,9 @@
 			{
 				"type": "subheading",
 				"words": "*      *      *"
+			},
+			{
+				"type": "space"
 			},
 			{
 				"type": "paragraph",
@@ -83,6 +89,9 @@
 			{
 				"type": "subheading",
 				"words": "*      *      *"
+			},
+			{
+				"type": "space"
 			},
 			{
 				"type": "paragraph",

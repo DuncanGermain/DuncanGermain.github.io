@@ -379,6 +379,9 @@
 				"words": "*      *      *"
 			},
 			{
+				"type": "space"
+			},
+			{
 				"type": "paragraph",
 				"words": "It's important to pause for a moment and point out that at the heart of antagonistic learning is a single, straightforward concept: people are not their actions."
 			},
@@ -401,6 +404,9 @@
 			{
 				"type": "subheading",
 				"words": "*      *      *"
+			},
+			{
+				"type": "space"
 			},
 			{
 				"type": "paragraph",
@@ -578,6 +584,9 @@
 			{
 				"type": "subheading",
 				"words": "*      *      *"
+			},
+			{
+				"type": "space"
 			},
 			{
 				"type": "paragraph",

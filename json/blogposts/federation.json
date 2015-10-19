@@ -59,6 +59,9 @@
 				"words": "*      *      *"
 			},
 			{
+				"type": "space"
+			},
+			{
 				"type": "paragraph",
 				"words": "Jonathan Archer swore and clutched at his uniform, fumbling to close the flaps at the front as the dark swirl began to take solid form.  By the time his brain had sorted through its various options and settled on calling for security, he recognized the woman straightening up from beneath his sink."
 			},
@@ -167,6 +170,9 @@
 				"words": "*      *      *"
 			},
 			{
+				"type": "space"
+			},
+			{
 				"type": "paragraph",
 				"words": "Jonathan Archer choked, coughed, and leapt back from his bathroom sink, water spraying from his pursed lips as his oral hygienicron clattered to the floor."
 			},
@@ -209,6 +215,9 @@
 			{
 				"type": "subheading",
 				"words": "*      *      *"
+			},
+			{
+				"type": "space"
 			},
 			{
 				"type": "paragraph",
