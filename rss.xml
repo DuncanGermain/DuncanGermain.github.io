@@ -4,56 +4,64 @@
     <description><![CDATA[Third Foundation]]></description>
     <link>http://thirdfoundation.github.io/</link>
     <generator>RSS for Node</generator>
-    <lastBuildDate>Tue, 01 Dec 2015 00:25:55 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Dec 2015 00:37:43 GMT</lastBuildDate>
     <atom:link href="http://thirdfoundation.github.io/rss.xml" rel="self" type="application/rss+xml"/>
     <ttl>60</ttl>
     <item>
       <title><![CDATA[AXIOMS]]></title>
+      <description><![CDATA[The first of a long series of posts explaining my thoughts on the purpose of education, the nature of the student-teacher relationship, and the problems with modern Western pedagogy.]]></description>
       <link>http://thirdfoundation.github.io/#/blog/educ101</link>
       <guid isPermaLink="false">http://thirdfoundation.github.io/#/blog/educ101</guid>
-      <pubDate>Thu, 01 Jan 1970 00:00:00 GMT</pubDate>
+      <pubDate>Tue, 01 Dec 2015 00:37:43 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[ECONOMICS]]></title>
+      <description><![CDATA[The second in an ongoing series of education/pedagogy posts. This one is about refining and defending an economic model of classroom management.]]></description>
       <link>http://thirdfoundation.github.io/#/blog/educ102</link>
       <guid isPermaLink="false">http://thirdfoundation.github.io/#/blog/educ102</guid>
-      <pubDate>Thu, 01 Jan 1970 00:00:00 GMT</pubDate>
+      <pubDate>Tue, 01 Dec 2015 00:37:43 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[ANTAGONISTIC LEARNING]]></title>
+      <description><![CDATA[The third in an ongoing series of education/pedagogy posts. This one is about the teacher-student relationship—in particular, a model which is overrepresented in fiction, and underrepresented in real, everyday classrooms.]]></description>
       <link>http://thirdfoundation.github.io/#/blog/educ103</link>
       <guid isPermaLink="false">http://thirdfoundation.github.io/#/blog/educ103</guid>
-      <pubDate>Thu, 01 Jan 1970 00:00:00 GMT</pubDate>
+      <pubDate>Tue, 01 Dec 2015 00:37:43 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[PRIME DIRECTIVE]]></title>
+      <description><![CDATA[In which the only stable time loop that includes a Federation must also include a Prime Directive.]]></description>
       <link>http://thirdfoundation.github.io/#/blog/federation</link>
       <guid isPermaLink="false">http://thirdfoundation.github.io/#/blog/federation</guid>
-      <pubDate>Tue, 01 Dec 2015 00:25:55 GMT</pubDate>
+      <pubDate>Tue, 01 Dec 2015 00:37:43 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[FLAVORFUL EFFORT]]></title>
+      <description><![CDATA[An examination of positive and negative flavorings in making and executing plans, and an attempt to define the right places for each.]]></description>
       <link>http://thirdfoundation.github.io/#/blog/flavor</link>
       <guid isPermaLink="false">http://thirdfoundation.github.io/#/blog/flavor</guid>
-      <pubDate>Thu, 01 Jan 1970 00:00:00 GMT</pubDate>
+      <pubDate>Tue, 01 Dec 2015 00:37:43 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[THE LEVERS OF THE SOUL]]></title>
+      <description><![CDATA[Thinking about the ways in which I move myself, and the levers that let me do it.]]></description>
       <link>http://thirdfoundation.github.io/#/blog/lever</link>
       <guid isPermaLink="false">http://thirdfoundation.github.io/#/blog/lever</guid>
-      <pubDate>Thu, 01 Jan 1970 00:00:00 GMT</pubDate>
+      <pubDate>Tue, 01 Dec 2015 00:37:43 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[WINNING THE HUMAN RACE]]></title>
+      <description><![CDATA[A Rationality 101 post, drawing on the common framing of the external universe as the "territory" and one's personal understanding of it as the "map."]]></description>
       <link>http://thirdfoundation.github.io/#/blog/map</link>
       <guid isPermaLink="false">http://thirdfoundation.github.io/#/blog/map</guid>
-      <pubDate>Thu, 01 Jan 1970 00:00:00 GMT</pubDate>
+      <pubDate>Tue, 01 Dec 2015 00:37:43 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[QUITTABILITY]]></title>
+      <description><![CDATA[An attempt to identify an underlying principle connecting various failure modes, especially in the realm of "Screw this; I quit."]]></description>
       <link>http://thirdfoundation.github.io/#/blog/quittability</link>
       <guid isPermaLink="false">http://thirdfoundation.github.io/#/blog/quittability</guid>
-      <pubDate>Thu, 01 Jan 1970 00:00:00 GMT</pubDate>
+      <pubDate>Tue, 01 Dec 2015 00:37:43 GMT</pubDate>
     </item>
     <item>
       <title><![CDATA[No title]]></title>
@@ -63,9 +71,10 @@
     </item>
     <item>
       <title><![CDATA[VOLUNTARY EFFORT]]></title>
+      <description><![CDATA[An explicit, generalized model of how to motivate others, drawing on insights about motivating myself.]]></description>
       <link>http://thirdfoundation.github.io/#/blog/volunteer</link>
       <guid isPermaLink="false">http://thirdfoundation.github.io/#/blog/volunteer</guid>
-      <pubDate>Thu, 01 Jan 1970 00:00:00 GMT</pubDate>
+      <pubDate>Tue, 01 Dec 2015 00:37:43 GMT</pubDate>
     </item>
   </channel>
 </rss>
