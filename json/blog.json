@@ -1,5 +1,13 @@
 [
 	{
+		"title": "THE LENGTH OF A THOUGHT",
+		"name": "length",
+		"blurb": "Presenting a contender for the replacement for \"System 1\" and \"System 2,\" which, while useful, were never really real.",
+		"imageURL": "img/fig1Length.png",
+		"time": "August 13th, 2016",
+		"extLink": "https://medium.com/@ThingMaker/writing-102-grace-bd76ab82d8fe#.aewu8zqxb"
+	},
+	{
 		"title": "WRITING 102: GRACE",
 		"name": "grace",
 		"blurb": "A close look at a particular kind of experience in fiction, how to create it, and why it has an emotional impact on the audience.",
@@ -8,20 +16,12 @@
 		"extLink": "https://medium.com/@ThingMaker/writing-102-grace-bd76ab82d8fe#.aewu8zqxb"
 	},
 	{
-		"title": "THE LENGTH OF A THOUGHT",
-		"name": "length",
-		"blurb": "Presenting a contender for the replacement for \"System 1\" and \"System 2,\" which, while useful, were never really real.",
-		"imageURL": "img/fig1Length.png",
-		"time": "December 21st, 2015",
-		"extLink": "https://medium.com/@ThingMaker/writing-102-grace-bd76ab82d8fe#.aewu8zqxb"
-	},
-	{
 		"title": "EDUC 103: ANTAGONISTIC LEARNING",
 		"name": "educ103",
 		"blurb": "The third in an ongoing series of education/pedagogy posts.  This one is about the teacher-student relationship—in particular, a model which is overrepresented in fiction, and underrepresented in real, everyday classrooms.",
 		"imageURL": "img/fig1Educ.png",
 		"time": "October 6th, 2015",
-		"extLink": "https://medium.com/@ThingMaker/writing-102-grace-bd76ab82d8fe#.aewu8zqxb"
+		"extLink": "https://medium.com/@ThingMaker/educ-103-antagonistic-learning-b64f42bd4394#.40c9uvqp3"
 	},
 	{
 		"title": "THE LEVERS OF THE SOUL",
@@ -29,7 +29,7 @@
 		"blurb": "Thinking about the ways in which I move myself, and the levers that let me do it.",
 		"imageURL": "img/fig1Lever.png",
 		"time": "October 5th, 2015",
-		"extLink": "https://medium.com/@ThingMaker/writing-102-grace-bd76ab82d8fe#.aewu8zqxb"
+		"extLink": "https://medium.com/@ThingMaker/the-levers-of-the-soul-8d68dd64aa93#.yjnono5p9"
 	},
 	{
 		"title": "VOLUNTARY EFFORT",
