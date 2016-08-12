@@ -36,6 +36,10 @@ portfolioApp.controller('FieldController', ['$scope', '$http', '$routeParams', f
         $scope.showButtons = false;
         $scope.linkType = "hover";
       }
+      if ($scope.snippets[0].hasOwnProperty('extLink')) {
+        $scope.showButtons = false;
+        $scope.linkType = "external";
+      }
     });
 }]);
 
