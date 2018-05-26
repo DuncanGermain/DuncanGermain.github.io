@@ -32,8 +32,6 @@ portfolioApp.controller('FieldController', ['$scope', '$http', '$routeParams', f
     $scope.field = $routeParams.field;
     $http.get('json/' + $routeParams.field + '.json').success(function(data) {
       $scope.snippets = data;
-      for entry in data
-
       if ($scope.snippets[0].hasOwnProperty('liveLinkText')) {
         $scope.showButtons = false;
         $scope.linkType = "hover";
