@@ -24,6 +24,186 @@
 		"tag": "Fiction"
 	},
 	{
+		"title": "MODERATING LESSWRONG",
+		"name": "LESSWRONG",
+		"blurb": "LessWrong is a web archive and discussion forum for improving human rationality. In this post, I lay out a philosophy of moderation that differs significantly from that on the actual site.",
+		"imageURL": "img/fig1LessWrong.png",
+		"time": "May 24th, 2018",
+		"tag": "Essay",
+		"extLink": "https://medium.com/@ThingMaker/moderating-lesswrong-4de028808def"
+	},
+	{
+		"title": "OPEN PROBLEMS IN GROUP RATIONALITY",
+		"name": "grouprat",
+		"blurb": "An attempt to isolate specific, tractable problems in the domain of understanding and improving collaboration and decisionmaking in humans.",
+		"imageURL": "img/fig1Stag.png",
+		"time": "May 18th, 2018",
+		"tag": "Essay || Education",
+		"extLink": "https://medium.com/@ThingMaker/open-problems-in-group-rationality-5636440a2cd1"
+	},
+	{
+		"title": "BUCKETS AND BAYES",
+		"name": "buckets-bayes-bf61dd4163d9",
+		"blurb": "An exploration of the concept of 'bucket errors,' along with an introduction to simple Bayesian reasoning and how it can help prevent them.",
+		"imageURL": "img/fig1Buckets.png",
+		"time": "May 13th, 2018",
+		"tag": "Education || Essay",
+		"extLink": "https://medium.com/@ThingMaker/buckets-bayes-bf61dd4163d9"
+	},
+	{
+		"title": "GOODHART'S IMPERIUS",
+		"name": "goodhart",
+		"blurb": "A look into the way the human brain conditions itself according to implicit models derived from aggregated experience, and how this can go horribly, horribly wrong.",
+		"imageURL": "img/fig1Goodhart.png",
+		"time": "May 10th, 2018",
+		"tag": "Education || ",
+		"extLink": "https://medium.com/@ThingMaker/goodharts-imperius-6c023f593c9"
+	},
+	{
+		"title": "'FOCUSING' FOR SKEPTICS",
+		"name": "FOCUSING",
+		"blurb": "An introduction to a variant of Eugene Gendlin's 'Focusing' technique, which is an interface for drawing explicit information out of one's implicit models and subconscious feelings by attending to small changes in one's physiological sensations.",
+		"imageURL": "img/fig1Focusing.png",
+		"time": "May 4th, 2018",
+		"tag": "Education",
+		"extLink": "https://medium.com/@ThingMaker/focusing-for-skeptics-6b949ef33a4f"
+	},
+	{
+		"title": "IN DEFENSE OF PUNCH BUG",
+		"name": "punchbug",
+		"blurb": "A critique of a certain mindset I'm calling 'social ownership of micro,' and a gesture in the direction of an alternative based on the children's game 'punch bug.'",
+		"imageURL": "img/fig1Punch.png",
+		"time": "May 3rd, 2018",
+		"tag": "Essay",
+		"extLink": "https://medium.com/@ThingMaker/in-defense-of-punch-bug-68fcec56cd6b"
+	},
+	{
+		"title": "THE MTG COLOR WHEEL",
+		"name": "colorwheel",
+		"blurb": "An in-depth introduction to using the Magic: the Gathering color wheel as a psychological typing tool for individuals, groups, and projects.",
+		"imageURL": "img/fig1Mtg.png",
+		"time": "April 10th, 2018",
+		"tag": "Essay",
+		"extLink": "https://medium.com/s/story/the-mtg-color-wheel-c9700a7cf36d"
+	},
+	{
+		"title": "NARRATIVEMANCY 101: WHY PAPER BEATS ROCK",
+		"name": "paper",
+		"blurb": "The first in (hopefully) a series of posts about using the power of narrative to teach, persuade, inspire, and explain. This entry attempts to provide a model for why narratives are so powerful, relative to personal experience and impersonal evidence.",
+		"imageURL": "img/fig1Paper.png",
+		"time": "December 16th, 2016",
+		"tag": "Essay",
+		"extLink": "https://medium.com/@ThingMaker/narrativemancy-101-why-paper-beats-rock-bc25bc1147b6#.wmqkm737w"
+	},
+	{
+		"title": "NEED DYNAMICS",
+		"name": "need",
+		"blurb": "A discussion of three specific concepts relating to navigating neediness in interpersonal relationships.",
+		"imageURL": "img/fig1Need.png",
+		"time": "September 11th, 2016",
+		"tag": "Essay",
+		"extLink": "https://medium.com/@ThingMaker/need-dynamics-54ca9ff5955c#.glkd40n8k"
+	},
+	{
+		"title": "THE LENGTH OF A THOUGHT",
+		"name": "length",
+		"blurb": "Presenting a contender for the replacement for \"System 1\" and \"System 2,\" which, while useful, were never really real.",
+		"imageURL": "img/fig1Length.png",
+		"time": "August 13th, 2016",
+		"tag": "Essay",
+		"extLink": "https://medium.com/@ThingMaker/thought-lengths-the-ray-model-de9ee0863325#.raa9jxii6"
+	},
+	{
+		"title": "WRITING 102: GRACE",
+		"name": "grace",
+		"blurb": "A close look at a particular kind of experience in fiction, how to create it, and why it has an emotional impact on the audience.",
+		"imageURL": "img/fig1Grace.png",
+		"time": "August 10th, 2016",
+		"tag": "Essay",
+		"extLink": "https://medium.com/@ThingMaker/writing-102-grace-bd76ab82d8fe#.aewu8zqxb"
+	},
+	{
+		"title": "EDUC 103: ANTAGONISTIC LEARNING",
+		"name": "educ103",
+		"blurb": "The third in an ongoing series of education/pedagogy posts.  This one is about the teacher-student relationship—in particular, a model which is overrepresented in fiction, and underrepresented in real, everyday classrooms.",
+		"imageURL": "img/fig1Educ.png",
+		"time": "October 6th, 2015",
+		"tag": "Education || Essay",
+		"extLink": "https://medium.com/@ThingMaker/educ-103-antagonistic-learning-b64f42bd4394#.40c9uvqp3"
+	},
+	{
+		"title": "THE LEVERS OF THE SOUL",
+		"name": "lever",
+		"blurb": "Thinking about the ways in which I move myself, and the levers that let me do it.",
+		"imageURL": "img/fig1Lever.png",
+		"time": "October 5th, 2015",
+		"tag": "Essay",
+		"extLink": "https://medium.com/@ThingMaker/the-levers-of-the-soul-8d68dd64aa93#.yjnono5p9"
+	},
+	{
+		"title": "VOLUNTARY EFFORT",
+		"name": "volunteer",
+		"blurb": "An explicit, generalized model of how to motivate others, drawing on insights about motivating myself.",
+		"imageURL": "img/fig1Volunteer.png",
+		"time": "September 30th, 2015",
+		"tag": "Essay",
+		"extLink": "https://medium.com/@ThingMaker/voluntary-effort-1e543f7971f4#.5zlsa0h9i"
+	},
+	{
+		"title": "WINNING THE HUMAN RACE",
+		"name": "map",
+		"blurb": "A Rationality 101 post, drawing on the common framing of the external universe as the \"territory\" and one's personal understanding of it as the \"map.\"",
+		"imageURL": "img/fig1Map.png",
+		"time": "September 15th, 2015",
+		"tag": "Essay",
+		"extLink": "https://medium.com/@ThingMaker/winning-the-human-race-72d49aa07f2#.okwdaeego"
+	},
+	{
+		"title": "EDUC 102: ECONOMICS",
+		"name": "educ102",
+		"blurb": "The second in an ongoing series of education/pedagogy posts.  This one is about refining and defending an economic model of classroom management.",
+		"imageURL": "img/fig1Educ.png",
+		"time": "September 14th, 2015",
+		"tag": "Education || Essay",
+		"extLink": "https://medium.com/@ThingMaker/educ-102-economics-dcbe70ca5ae6#.oo1ew4ylj"
+	},
+	{
+		"title": "FLAVORFUL EFFORT",
+		"name": "flavor",
+		"blurb": "An examination of positive and negative flavorings in making and executing plans, and an attempt to define the right places for each.",
+		"imageURL": "img/fig1Flavor.png",
+		"time": "September 11th, 2015",
+		"tag": "Essay",
+		"extLink": "https://medium.com/@ThingMaker/flavorful-effort-8fe9fecc6f3e#.8yeaduocq"
+	},
+	{
+		"title": "EDUC 101: AXIOMS",
+		"name": "educ101",
+		"blurb": "The first of a long series of posts explaining my thoughts on the purpose of education, the nature of the student-teacher relationship, and the problems with modern Western pedagogy.",
+		"imageURL": "img/fig1Educ.png",
+		"time": "September 4th, 2015",
+		"tag": "Education || Essay",
+		"extLink": "https://medium.com/@ThingMaker/educ-101-axioms-f1cba0c85794#.rsibufxr6"
+	},
+	{
+		"title": "QUITTABILITY",
+		"name": "quittability",
+		"blurb": "An attempt to identify an underlying principle connecting various failure modes, especially in the realm of \"Screw this; I quit.\"",
+		"imageURL": "img/fig1Quittability.png",
+		"time": "September 2nd, 2015",
+		"tag": "Essay",
+		"extLink": "https://medium.com/@ThingMaker/quittability-7ff6675080c6#.3e1vys4bp"
+	},
+	{
+		"title": "PRIME DIRECTIVE",
+		"name": "federation",
+		"blurb": "In which the only stable time loop that includes a Federation must also include a Prime Directive.",
+		"imageURL": "img/fig1Federation.png",
+		"time": "August 30th, 2015",
+		"tag": "Fiction",
+		"extLink": "https://medium.com/@ThingMaker/prime-directive-9b6110c2a873#.xksc0r2um"
+	},
+	{
 		"title": "BLACK & WHITE",
 		"name": "twokinds",
 		"blurb": "A short poem written after a personal lesson on the value of being less judgmental.",
@@ -36,7 +216,7 @@
 		"name": "spoiler",
 		"blurb": "In 2013 and 2014, my friends and I designed a complete Magic: The Gathering expansion of over 250 cards.  In the fall of 2014, as I began to consider an application to work for Wizards of the Coast, I wrote the following \"spoiler article\" mimicking the style of the articles published on the Wizards website before a new expansion is released.",
 		"imageURL": "img/fig1Jucante.png",
-		"time": "August 2014 (10 hours)",
+		"time": "August 2014",
 		"tag": "Essay"
 	},
 	{
@@ -44,7 +224,7 @@
 		"name": "potter",
 		"blurb": "My cousin Bridget is a linguist and etymologist who writes a blog about language and literature.  When she put out a general call for guest posts for a Harry Potter theme week, I said yes before I even had a topic in mind.",
 		"imageURL": "img/fig1Potter.png",
-		"time": "July 2015 (3 hours)",
+		"time": "July 2015",
 		"tag": "Essay"
 	},
 	{
@@ -52,7 +232,7 @@
 		"name": "never",
 		"blurb": "During my time at the University of North Carolina, I took a creative writing course from the outstanding Lawrence Naumoff.  This was one of my favorite assignments during that course, in which we were to make use of absolutely every element of a given photograph as we wrote a short story inspired by it.  I would later use the same assignment with my sixth grade students.",
 		"imageURL": "img/fig1Never.png",
-		"time": "March 2007 (3 hours)",
+		"time": "March 2007",
 		"tag": "Fiction"
 	},
 	{
@@ -60,7 +240,7 @@
 		"name": "bff",
 		"blurb": "This one's going to have to speak for itself.  At the start of Professor Naumoff's class, he explicitly told us to go ahead and forget about getting an A, and I publicly challenged him on it, and he essentially washed his hands of responsibility for my future disappointment.  This was my final project, which earned a 95.",
 		"imageURL": "img/fig1BFF.png",
-		"time": "April 2007 (20 hours)",
+		"time": "April 2007",
 		"tag": "Fiction"
 	},
 	{
@@ -68,7 +248,7 @@
 		"name": "handbook",
 		"blurb": "At the end of my three-year stint teaching sixth-grade Creative Productions at Voyager Academy (later renamed to Core Connections), I wrote the following handbook to summarize my style, method, content, and rationale for the teacher replacing me.",
 		"imageURL": "img/fig1Handbook.png",
-		"time": "May 2012 (10 hours)",
+		"time": "May 2012",
 		"tag": "Education"
 	},
 	{
@@ -76,7 +256,7 @@
 		"name": "100",
 		"blurb": "This is one of many, many, MANY pieces of writing I did on the subject of parkour philosophy and method between 2003 and 2009, during the \"forum days.\"  It serves as a good example of the length, quality, style, and theme of most of my posts on 3run.co.uk and parkour.net, which made my nom-de-plume \"TK17\" an internationally-recognized name in the community.",
 		"imageURL": "img/fig1100.png",
-		"time": "March 2010 (3 hours)",
+		"time": "March 2010",
 		"tag": "Essay"
 	},
 	{
@@ -84,7 +264,7 @@
 		"name": "instructions",
 		"blurb": "There is a Neil Gaiman poem titled \"Instructions\" that offers a set of handy rules for people navigating their way through a fairy tale.  When I read it, I shed a few tears, but it was also missing many of the lessons I'd learned from Narnia, Redwall, the Castle in the Attic, the Minpins, the Sea of Stories, and all the other tales of my youth.  This is my more complete take.",
 		"imageURL": "img/fig1Instructions.png",
-		"time": "August 2009 (2 hours)",
+		"time": "August 2009",
 		"tag": "Poetry"
 	},
 	{
@@ -92,7 +272,7 @@
 		"name": "timebound",
 		"blurb": "A significant part of my work at the Seattle parkour gym was developing and organizing curriculum.  We often offered special sessions and seminars ranging from a single day to twenty or thirty sessions.  This is a guide that was written to help coaches cover all the bases in time-bound programs of various lengths.",
 		"imageURL": "img/fig1Timebound.png",
-		"time": "June 2014 (10 hours)",
+		"time": "June 2014",
 		"tag": "Legal"
 	},
 	{
@@ -100,7 +280,7 @@
 		"name": "legal",
 		"blurb": "While running an afterschool parkour club at Voyager Academy, and later while preparing to start a parkour gym in North Carolina, I discovered that there were not yet any standardized forms for parkour, as there are for more well-established activities like martial arts or gymnastics.  I created these for my own use in the meantime.",
 		"imageURL": "img/fig1Legal.png",
-		"time": "January 2010 and March 2012 (10 hours)",
+		"time": "January 2010 and March 2012",
 		"tag": "Legal"
 	},
 	{
@@ -108,23 +288,15 @@
 		"name": "unit",
 		"blurb": "The following fifty-page document is the very first formal unit plan I ever wrote, used in the spring of 2009 with sixth graders during my student teaching at Gravelly Hill Middle School in North Carolina.  The unit focused on short fiction and involved reading, analysis, and writing; I would eventually teach a similar unit in my own Creative Productions classroom.",
 		"imageURL": "img/fig1Unit.png",
-		"time": "November 2008 (30 hours)",
+		"time": "November 2008",
 		"tag": "Education"
-	},
-	{
-		"title": "VAULT BOX PLANS",
-		"name": "stackable",
-		"blurb": "I have had an excellent relationship with the mat manufacturers at Carolina Gym Supply since they began making custom parkour equipment for me when I was in high school.  They were interested in copying my design for a stackable/nestable vault box, so I did a quick, informal write-up of my process.",
-		"imageURL": "img/fig1Stackable.png",
-		"time": "August 2012 (10 hours)",
-		"tag": "Legal"
 	},
 	{
 		"title": "DETERMINISTIC MORALITY",
 		"name": "freewill",
 		"blurb": "As a teacher—first of Tae Kwon Do, then of sixth graders, and finally of parkour—I have often found that one of my most useful skills is the ability to rephrase and explain complex concepts.  That's the skill I was practicing in the following paper, completed for a Philosophy 101 class at the University of North Carolina.",
 		"imageURL": "img/fig1Freewill.png",
-		"time": "November 2005 (2 hours)",
+		"time": "November 2005",
 		"tag": "Essay"
 	},
 	{
@@ -132,7 +304,7 @@
 		"name": "telemachos",
 		"blurb": "While a student at the University of North Carolina at Chapel Hill, I took a class titled \"Epic and Tragedy,\" in which we read many Greek and Roman writings in unabridged translations.  This was one of my better analyses during that semester, of the arc and motivations of Telemachos, son of Odysseus.",
 		"imageURL": "img/fig1Telemachos.png",
-		"time": "March 2005 (10 hours)",
+		"time": "March 2005",
 		"tag": "Essay"
 	},
 	{
@@ -140,7 +312,7 @@
 		"name": "streetskit",
 		"blurb": "This is the introductory narration for the \"street skit\" section of my 2004 second-dan black belt test at Lee Brothers Tae Kwon Do in North Carolina.  The monologue was written by me and recorded by Professor Miller of NCSSM.  The accompanying music is \"Hummel Gets The Rockets,\" from the soundtrack to \"The Rock,\" by Hans Zimmer and Harry Gregson-Williams.",
 		"imageURL": "img/fig1Streetskit.png",
-		"time": "July 2004 (6 hours)",
+		"time": "July 2004",
 		"tag": "Fiction"
 	},
 	{
@@ -148,7 +320,7 @@
 		"name": "whatif",
 		"blurb": "In my junior and senior years of high school, I attended the North Carolina School of Science and Mathematics.  There, I took a class titled \"Wisdom, Revelation, Reason, and Doubt,\" which was a more creative take on Western Civ.  The following was a \"what if?\" assignment completed for that class in which we were asked to make a small change to history and follow it to its logical conclusion.",
 		"imageURL": "img/fig1Whatif.png",
-		"time": "September 2003 (5 hours)",
+		"time": "September 2003",
 		"tag": "Essay"
 	},
 	{
@@ -156,7 +328,7 @@
 		"name": "sword",
 		"blurb": "I often allowed my enthusiasm to run away with me, especially in classes where the content was particularly engaging.  This piece, written for WRRD class at Science and Math, was intended to be a 3-5 page short story that accurately showcased historical details from medieval Europe.  I began in the early afternoon with a noble blacksmith, and ended up finishing at 3AM with seventeen pages.",
 		"imageURL": "img/fig1Sword.png",
-		"time": "November 2003 (10 hours)",
+		"time": "November 2003",
 		"tag": "Fiction"
 	}
 ]
