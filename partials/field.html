@@ -49,23 +49,6 @@
 			</div>
 		</section>
 	</div>
-	<!-- Field pages where thumbnails redirect to a non-Angular, external page -->
-	<div ng-switch-when="external">
-		<section ng-repeat="snippet in snippets | filter:filter" class="projectContainer">
-			<div class="thumbBox">
-				<a ng-href="{{snippet.extTarget}}">
-					<img class="projectCover" ng-src="{{snippet.imageURL}}">
-				</a>
-			</div>
-			<div class="blurbBox">
-				<a ng-href="{{snippet.extTarget}}">
-					<span class="itemTitle montserrat">{{snippet.title}}</span>
-				</a>
-				<span class="itemTime raleway">{{snippet.time}}</span>
-				<span class="itemBlurb raleway">{{snippet.blurb}}</span>
-			</div>
-		</section>
-	</div>
 	<!-- Field pages with special hover functionality on thumbnails -->
 	<div ng-switch-when="hover">
 		<section ng-repeat="snippet in snippets | filter:filter" class="projectContainer">
@@ -83,6 +66,23 @@
 			</div>
 			<div class="blurbBox">
 				<a ng-href="{{snippet.sourceLinkURL}}">
+					<span class="itemTitle montserrat">{{snippet.title}}</span>
+				</a>
+				<span class="itemTime raleway">{{snippet.time}}</span>
+				<span class="itemBlurb raleway">{{snippet.blurb}}</span>
+			</div>
+		</section>
+	</div>
+	<!-- Field pages where thumbnails redirect to a non-Angular, external page -->
+	<div ng-switch-when="external">
+		<section ng-repeat="snippet in snippets | filter:filter" class="projectContainer">
+			<div class="thumbBox">
+				<a ng-href="{{snippet.extTarget}}">
+					<img class="projectCover" ng-src="{{snippet.imageURL}}">
+				</a>
+			</div>
+			<div class="blurbBox">
+				<a ng-href="{{snippet.extTarget}}">
 					<span class="itemTitle montserrat">{{snippet.title}}</span>
 				</a>
 				<span class="itemTime raleway">{{snippet.time}}</span>
