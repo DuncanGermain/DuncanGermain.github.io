@@ -1,5 +1,61 @@
 [
 	{
+		"title": "MODERATING LESSWRONG",
+		"name": "LESSWRONG",
+		"blurb": "LessWrong is a web archive and discussion forum for improving human rationality. In this post, I lay out a philosophy of moderation that differs significantly from that on the actual site.",
+		"imageURL": "img/fig1LessWrong.png",
+		"time": "May 24th, 2018",
+		"extLink": "https://medium.com/@ThingMaker/moderating-lesswrong-4de028808def"
+	},
+	{
+		"title": "OPEN PROBLEMS IN GROUP RATIONALITY",
+		"name": "grouprat",
+		"blurb": "An attempt to isolate specific, tractable problems in the domain of understanding and improving collaboration and decisionmaking in humans.",
+		"imageURL": "img/fig1Stag.png",
+		"time": "May 18th, 2018",
+		"extLink": "https://medium.com/@ThingMaker/open-problems-in-group-rationality-5636440a2cd1"
+	},
+	{
+		"title": "BUCKETS AND BAYES",
+		"name": "buckets-bayes-bf61dd4163d9",
+		"blurb": "An exploration of the concept of 'bucket errors,' along with an introduction to simple Bayesian reasoning and how it can help prevent them.",
+		"imageURL": "img/fig1Buckets.png",
+		"time": "May 13th, 2018",
+		"extLink": "https://medium.com/@ThingMaker/buckets-bayes-bf61dd4163d9"
+	},
+	{
+		"title": "GOODHART'S IMPERIUS",
+		"name": "goodhart",
+		"blurb": "A look into the way the human brain conditions itself according to implicit models derived from aggregated experience, and how this can go horribly, horribly wrong.",
+		"imageURL": "img/fig1Goodhart.png",
+		"time": "May 10th, 2018",
+		"extLink": "https://medium.com/@ThingMaker/goodharts-imperius-6c023f593c9"
+	},
+	{
+		"title": "'FOCUSING' FOR SKEPTICS",
+		"name": "FOCUSING",
+		"blurb": "An introduction to a variant of Eugene Gendlin's 'Focusing' technique, which is an interface for drawing explicit information out of one's implicit models and subconscious feelings by attending to small changes in one's physiological sensations.",
+		"imageURL": "img/fig1Focusing.png",
+		"time": "May 4th, 2018",
+		"extLink": "https://medium.com/@ThingMaker/focusing-for-skeptics-6b949ef33a4f"
+	},
+	{
+		"title": "IN DEFENSE OF PUNCH BUG",
+		"name": "punchbug",
+		"blurb": "A critique of a certain mindset I'm calling 'social ownership of micro,' and a gesture in the direction of an alternative based on the children's game 'punch bug.'",
+		"imageURL": "img/fig1Punch.png",
+		"time": "May 3rd, 2018",
+		"extLink": "https://medium.com/@ThingMaker/in-defense-of-punch-bug-68fcec56cd6b"
+	},
+	{
+		"title": "THE MTG COLOR WHEEL",
+		"name": "colorwheel",
+		"blurb": "An in-depth introduction to using the Magic: the Gathering color wheel as a psychological typing tool for individuals, groups, and projects.",
+		"imageURL": "img/fig1Mtg.png",
+		"time": "April 10th, 2018",
+		"extLink": "https://medium.com/s/story/the-mtg-color-wheel-c9700a7cf36d"
+	},
+	{
 		"title": "NARRATIVEMANCY 101: WHY PAPER BEATS ROCK",
 		"name": "paper",
 		"blurb": "The first in (hopefully) a series of posts about using the power of narrative to teach, persuade, inspire, and explain. This entry attempts to provide a model for why narratives are so powerful, relative to personal experience and impersonal evidence.",
