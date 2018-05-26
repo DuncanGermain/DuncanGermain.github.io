@@ -1,63 +1,63 @@
 [
 	{
 		"title": "RÉSUMÉ",
-		"name": "resume",
+		"target": "resume",
 		"blurb": "Born in 1986 and raised in North Carolina, I am a teacher, parkour practitioner, sci-fi enthusiast, and maker of things.  My current projects include a novel, several web applications, a summer camp to teach bright middle schoolers rationality/epistemology, and figuring out how to help save the world. Click the image to see my current résumé.",
 		"imageURL": "img/fig1Resume.png",
 		"time": ""
 	},
 	{
 		"title": "NOW YOU SEE IT",
-		"name": "pedagogy",
+		"target": "pedagogy",
 		"blurb": "Now You See It: How Technology and Brain Science Will Transform Schools and Business for the 21st Century. In its fifth chapter, Cathy N. Davidson's text on the future of education features an extensive look at my sixth grade Core Connections classroom at the project-based learning Voyager Academy in North Carolina.",
 		"imageURL": "img/fig1Pedagogy.png",
 		"time": "July 2012"
 	},
 	{
 		"title": "THE ALLURE OF PARKOUR",
-		"name": "afitness",
+		"target": "afitness",
 		"blurb": "Jeff Schnaufer's article on parkour in American Fitness magazine, drawing on interviews from me and other practitioners and featuring photos of me training in Chapel Hill, NC and San Francisco, CA.",
 		"imageURL": "img/fig1Fitness.png",
 		"time": "March 2010"
 	},
 	{
 		"title": "PARKOUR HANDBOOK",
-		"name": "foreward",
+		"target": "foreward",
 		"blurb": "Dan Edwardes' handbook on the disciplines of parkour and freerunning, featuring an introduction written by me.",
 		"imageURL": "img/fig1Foreward.png",
 		"time": "August 2009"
 	},
 	{
 		"title": "INSIDE LOOK: PILGRIMAGE",
-		"name": "worldwide",
+		"target": "worldwide",
 		"blurb": "WorldwideJam's interview with me after the release of my documentary Pilgrimage, about the birthplace of parkour and the practitioners who travel there from around the world to train.",
 		"imageURL": "img/fig1Proof.png",
 		"time": "April 2008"
 	},
 	{
 		"title": "LOOK MA, NO HANDS",
-		"name": "usa",
+		"target": "usa",
 		"blurb": "Janet Kornblum's article on parkour, drawing on interviews from me and other practitioners around the country.",
 		"imageURL": "img/fig1Usa.png",
 		"time": "December 2007"
 	},
 	{
 		"title": "CAROUSEL MAGAZINE",
-		"name": "carousel",
+		"target": "carousel",
 		"blurb": "After the September article in the Times-News, another local magazine run by Sondra J. Casey asked for an interview.",
 		"imageURL": "img/fig1Carousel.png",
 		"time": "October 2007"
 	},
 	{
 		"title": "BURLINGTON TIMES-NEWS",
-		"name": "times",
+		"target": "times",
 		"blurb": "One of my earliest local-media exposés, an article by Roselee Papandrea for the Burlington Times-News newspaper.",
 		"imageURL": "img/fig1Times.png",
 		"time": "September 2007"
 	},
 	{
 		"title": "DAILY TAR HEEL",
-		"name": "dth",
+		"target": "dth",
 		"blurb": "As a student at the University of North Carolina at Chapel Hill, I liked to use breaks between classes to practice parkour and freerunning, with a particular preference for doing wallflips off of the old oak trees.  One result was an interview with Desiree Shoe, a writer for the student newspaper.",
 		"imageURL": "img/fig1dth.png",
 		"time": "November 2005"

@@ -1,7 +1,6 @@
 [
 	{
 		"title": "SCRATCHPOST 3.0",
-		"name": "ng-scratchpost",
 		"blurb": "While struggling to teach myself AngularJS, I decided that I would be more motivated and likely to succeed with a specific goal rather than with arbitrary problems. Thus, I set about refactoring my previous project, Scratchpost, making it mobile-friendly and responsive with Angular as its new backbone.",
 		"imageURL": "img/fig1Angular.png",
 		"time": "March 2015 - August 2015 (150 hours)",
@@ -12,7 +11,6 @@
 	},
 	{
 		"title": "EA GLOBAL MEDIA",
-		"name": "eaglobal",
 		"blurb": "I spent several days helping out with the 2015 Effective Altruism Global conference at Google in Mountain View.  After it was all over, I designed this simple page for sharing the videos of the talks, workshops, and panels.  AngularJS made implementing filters for the videos (by type, cause, or speaker) practically a one-step operation.",
 		"imageURL": "img/fig1EA.png",
 		"time": "August 2015 (15 hours)",
@@ -23,7 +21,6 @@
 	},
 	{
 		"title": "STARFINDER",
-		"name": "starfinder",
 		"blurb": "As part of a larger scheme involving crowdsourced media and a combination book-picture-website, I found myself needing to count all of the stars in a ~40 megapixel image of deep space, and to assign X coordinates, Y coordinates, and a radius (in pixels) to each one.  Since there were nearly 20,000 of them, it seemed like a good time to practice doing things programmatically.",
 		"imageURL": "img/fig1Starfinder.png",
 		"time": "July 2015 (50 hours)",
@@ -34,7 +31,6 @@
 	},
 	{
 		"title": "SIERPINSKI",
-		"name": "sierpinski",
 		"blurb": "During my coding self-education, I often found myself darting back and forth to cover basics I'd skipped over, and sites like CodeWars and books like EloquentJS were a huge help in providing practice material. This is a detailed write-up of my solution to a simple but fun problem I completed while working data structures and algorithms.",
 		"imageURL": "img/fig1Sierpinski.png",
 		"time": "June 2015 (5 hours)",
@@ -45,7 +41,6 @@
 	},
 	{
 		"title": "THINGMAKERY",
-		"name": "thingmakery",
 		"blurb": "This portfolio site was itself a coding project, begun during my tenure at this.dev.  It was created using CSS, HTML5, JavaScript, NodeJS, and AngularJS.  The theme was built from the ground up, using Daniel Eden's Animate.css and resources created in Inkscape.",
 		"imageURL": "img/fig1Thing.png",
 		"time": "May 2015 - July 2015 (100 hours)",
@@ -56,7 +51,6 @@
 	},
 	{
 		"title": "ANGULAR SEED",
-		"name": "angular",
 		"blurb": "One of the most difficult parts of learning AngularJS was translating tutorials and documentation about ten different ways to accomplish something into an actual, concrete product.  This is a template Angular Routes page I built to share with my fellow this.dev students, allowing the quick creation of simple multi-view sites.",
 		"imageURL": "img/fig1Seed.png",
 		"time": "May 2015 (10 hours)",
@@ -67,7 +61,6 @@
 	},
 	{
 		"title": "SCRATCHPOST 2.0",
-		"name": "scratchpost",
 		"blurb": "This was the capstone project during my tenure at Code Fellows, completed together with Matthew McClure and Nathan O'Brien.  It was my first live application, a collaborative screen-sharing tool for use in lectures and discussions.  Additional help given by Stephanie Zolayvar, who coded a simpler version for my classroom in 2009.",
 		"imageURL": "img/fig1Scratchpost.png",
 		"time": "January 2015 (100 hours)",
@@ -78,7 +71,6 @@
 	},
 	{
 		"title": "FLEXGRID",
-		"name": "flexgrid",
 		"blurb": "My first independent project at Code Fellows was the creation of a flexible grid layout that would responsively expand for browser windows larger than 960px.  While I never ended up using this particular layout, the process of building it taught me a lot, and I used those lessons in other projects.",
 		"imageURL": "img/fig1Flex.png",
 		"time": "January 2015 (5 hours)",

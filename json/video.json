@@ -1,84 +1,98 @@
 [
 	{
 		"title": "GO",
-		"name": "go",
+		"target": "go",
 		"blurb": "Filmed at UNC Chapel Hill and the courthouse plaza in Greensboro, North Carolina, this project represents my third and fourth years of parkour training. It's a personal sampler meant to convey the quieter, smoother, less extreme aspects of the discipline that were often overlooked in videos at the time.",
 		"imageURL": "img/fig1Go.png",
 		"time": "June 2005 - August 2007 (500 hours)"
 	},
 	{
 		"title": "PILGRIMAGE",
-		"name": "pilgrimage",
+		"target": "pilgrimage",
 		"blurb": "This is a full-length documentary about the birthplace of parkour, and the practitioners who travel there to reconnect with the roots of the discipline.  It was completed collaboratively, with footage contributed by traceurs from around the world.  It contains history, philosophy, technical information, and plenty of action, and was endorsed by David Belle, one of parkour's central founding figures.",
 		"imageURL": "img/fig1Proof.png",
 		"time": "May 2007 - February 2008 (1000 hours)"
 	},
 	{
+		"title": "INTRO TO APPLIED RATIONALITY",
+		"target": "berkeley",
+		"blurb": "An informal talk for the Effective Altruists student group at Berkeley based on my work at the Center for Applied Rationality, giving them an intro to the CFAR canon and a handful of practical techniques.",
+		"imageURL": "img/fig1Berkeley.png",
+		"time": "April 26th, 2017 (2 hours)"
+	},
+	{
 		"title": "OBSTACLES & OPPORTUNITY",
-		"name": "blackwhite",
+		"target": "blackwhite",
 		"blurb": "An excerpt from the documentary Pilgrimage, this thirteen-minute short features a close look at the history, philosophy, and method of parkour, as well as showcasing my first, cautious foray into the realm of graphic animation.",
 		"imageURL": "img/fig1Obstacles.png",
 		"time": "November 2007 (200 hours)"
 	},
 	{
+		"title": "GO (UNEDITED)",
+		"target": "goraw",
+		"blurb": "This is the raw footage that went into making my video 'Go,' complete with sound, showcasing more of the physical exertion involved, as well as a few bails and mistakes.",
+		"imageURL": "img/fig1Go.png",
+		"time": "June 2005 - August 2007 (500 hours)"
+	},
+	{
 		"title": "NEXTGEN",
-		"name": "nextgen",
+		"target": "nextgen",
 		"blurb": "As I was leaving Voyager Academy, I knew that I might want to reference the success of my afterschool parkour club in future job searches, so I asked nine of my students to come out for a midsummer filming/jam session.  We filled the gym with equipment and trained for the better part of a day, with Tanner Smith as my backup instructor/cameraman.",
 		"imageURL": "img/fig1Next.png",
 		"time": "July 2011 (15 hours)"
 	},
 	{
 		"title": "COMMERCIAL (MOLLY MAID)",
-		"name": "commercial",
+		"target": "commercial",
 		"blurb": "My father owns a Molly Maid franchise in North Carolina, and once recruited me, my mother, and my grandmother to make a quick advertisement he could place on the local page of the Molly Maid website.  The filming was done with tripods in my childhood home as our regular cleaning crew went about their routine.",
 		"imageURL": "img/fig1Maid.png",
 		"time": "March 2011 (10 hours)"
 	},
 	{
 		"title": "TUTORIAL (PARKOUR)",
-		"name": "lowwall",
+		"target": "lowwall",
 		"blurb": "One of the leftovers of my martial arts career is a firm belief in the power of preset forms as a tool for learning and practice.  This is a \"low wall form\" that I wrote and refined over the years, meant to diagnose, teach, and maintain flow while moving on and around small obstacles.  It takes under a minute to perform and includes most major up-and-down wall movements.",
 		"imageURL": "img/fig1Low.png",
 		"time": "October 2014 (2 hours)"
 	},
 	{
 		"title": "TYPOGRAPHY (PIRATES)",
-		"name": "typography",
+		"target": "typography",
 		"blurb": "One of my favorite units in my sixth grade Core Connections classroom was a dynamic typography project, in which students manipulated physical cutouts of letters on a clear screen, with a camera down below.  This more traditional typography video was created as an example of the medium, for early discussion and inspiration.",
 		"imageURL": "img/fig1Pirates.png",
 		"time": "October 2010 (20 hours)"
 	},
 	{
 		"title": "STUNT REEL (LOS TRES AMIGOS)",
-		"name": "amigos",
+		"target": "amigos",
 		"blurb": "In the spring of 2007, David, Luc, and I were all instructors under Master Sang Ho Lee of Lee Brothers Tae Kwon Do in Burlington, NC.  Master Lee had a distinguished guest visiting—a stunt team coordinator—and wanted a video to show off our skills.  The catch?  We couldn't re-use any old footage, since he'd already shown that, and the guest was arriving in four days.  Cue mad scramble!",
 		"imageURL": "img/fig1Amigos.png",
 		"time": "March 2007 (30 hours)"
 	},
 	{
 		"title": "ONE",
-		"name": "one",
+		"target": "one",
 		"blurb": "In 2010, three years after my documentary Pilgrimage and two years after a serious fall, I returned to Lisses, France with my friend Alan and the goal of filming a first-person POV run through some of the most famous \"original\" parkour obstacles.  I had originally hoped to do the run many times and choose the best take, but circumstances prevented me from doing it more than once.",
 		"imageURL": "img/fig1One.png",
 		"time": "July 2010 (2 hours)"
 	},
 	{
 		"title": "TUTORIAL (GEO. SKETCHPAD)",
-		"name": "sketchpad",
+		"target": "sketchpad",
 		"blurb": "As a part of my bid for the position of sixth grade Creative Productions (later renamed to Core Connections) teacher at Voyager Academy, I put together this quick tutorial on animations in Geometer's Sketchpad.  The goal was to showcase my mathematical knowledge, lecture style, and video editing skills.",
 		"imageURL": "img/fig1Geo.png",
 		"time": "March 2009 (5 hours)"
 	},
 	{
 		"title": "TUTORIAL (NUNCHAKUS)",
-		"name": "nunchaku",
+		"target": "nunchaku",
 		"blurb": "During my tenure as an instructor at Lee Brothers Tae Kwon Do in Burlington, NC, my absolute favorite weapon was the nunchaku.  This is a video covering the fundamental nunchaku strikes, as taught to me by Grand Master Sang Ho Lee and Master David Lanning.  WARNING: At the time, I was a much better martial artist than videographer.",
 		"imageURL": "img/fig1Chucks.png",
 		"time": "November 2006 (5 hours)"
 	},
 	{
 		"title": "3RUN FAMILY",
-		"name": "family",
+		"target": "family",
 		"blurb": "From 2004 to 2008, web forums were the primary home for those interested in teaching, sharing, and talking about parkour and freerunning. This video, created with contributions from members at 3run.co.uk, commemorates that community and the grand tour I took across England in 2006 to meet them.",
 		"imageURL": "img/fig13Run.png",
 		"time": "October 2006 (40 hours)"

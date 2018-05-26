@@ -23,7 +23,7 @@ portfolioApp.controller('MainController', function($scope) {
 });
 
 portfolioApp.controller('HeaderController', ['$scope', '$routeParams', '$location', function($scope, $routeParams, $location) {
-  $scope.fields = ['Art', 'Design', 'Apparel', 'Writing', 'Video', 'Code', 'About', 'Blog'];
+  $scope.fields = ['Art', 'Design', 'Apparel', 'Writing', 'Video', 'Code', 'About'];
   $scope.url = $routeParams;
 }]);
 
@@ -32,11 +32,13 @@ portfolioApp.controller('FieldController', ['$scope', '$http', '$routeParams', f
     $scope.field = $routeParams.field;
     $http.get('json/' + $routeParams.field + '.json').success(function(data) {
       $scope.snippets = data;
+      for entry in data
+
       if ($scope.snippets[0].hasOwnProperty('liveLinkText')) {
         $scope.showButtons = false;
         $scope.linkType = "hover";
       }
-      if ($scope.snippets[0].hasOwnProperty('extLink')) {
+      if ($scope.snippets[0].hasOwnProperty('extTarget')) {
         $scope.showButtons = false;
         $scope.linkType = "external";
       }
@@ -62,17 +64,17 @@ portfolioApp.controller('ProjectController', ['$scope', '$http', '$routeParams',
     });
 }]);
 
-portfolioApp.controller('BlogController', ['$scope', '$http', '$routeParams', function($scope, $http, $routeParams) {
-    $http.get('json/bloglist.json').success(function(data) {
-      $scope.bloglist = data;
-    });
-}]);
+// portfolioApp.controller('BlogController', ['$scope', '$http', '$routeParams', function($scope, $http, $routeParams) {
+//     $http.get('json/bloglist.json').success(function(data) {
+//       $scope.bloglist = data;
+//     });
+// }]);
 
-portfolioApp.controller('BlogpostController', ['$scope', '$http', '$routeParams', function($scope, $http, $routeParams) {
-    $http.get('json/blogposts/' + $routeParams.blogpost + '.json').success(function(data) {
-      $scope.stuff = data[0];
-    });
-}]);
+// portfolioApp.controller('BlogpostController', ['$scope', '$http', '$routeParams', function($scope, $http, $routeParams) {
+//     $http.get('json/blogposts/' + $routeParams.blogpost + '.json').success(function(data) {
+//       $scope.stuff = data[0];
+//     });
+// }]);
 
 portfolioApp.filter('trustURL', function ($sce) {
   return function(url) {
