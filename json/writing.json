@@ -24,6 +24,22 @@
 		"tag": "Fiction"
 	},
 	{
+		"title": "DRAGON ARMY: THEORY & CHARTER",
+		"extTarget": "https://medium.com/@ThingMaker/dragon-army-theory-charter-8192dc64ea22",
+		"blurb": "This is the theory and charter for a high-structure, high-commitment group house experiment I ended up running in Berkeley in late 2017/early 2018.",
+		"imageURL": "img/fig1DA.png",
+		"time": "May 25th, 2017",
+		"tag": "Essay"
+	},
+	{
+		"title": "DRAGON ARMY RETROSPECTIVE",
+		"extTarget": "https://medium.com/@ThingMaker/dragon-army-retrospective-597faf182e50",
+		"blurb": "This is the retrospective from the above group house experiment, framed as advice-to-past-me and containing lessons from the experience.",
+		"imageURL": "img/fig1DARetro.png",
+		"time": "March 18th, 2018",
+		"tag": "Essay"
+	},
+	{
 		"title": "MODERATING LESSWRONG",
 		"extTarget": "https://medium.com/@ThingMaker/moderating-lesswrong-4de028808def",
 		"blurb": "LessWrong is a web archive and discussion forum for improving human rationality. In this post, I lay out a philosophy of moderation that differs significantly from that on the actual site.",
@@ -240,12 +256,28 @@
 		"tag": "Fiction"
 	},
 	{
+		"title": "ADVICE",
+		"extTarget": "https://medium.com/@ThingMaker/advice-6a8e6d8ab836",
+		"blurb": "A year or two after I'd taught him, the family of one of my favorite students put on a secular bar mitzvah celebration. This is the speech I gave toward the end of the ceremony.",
+		"imageURL": "img/fig1Brock.png",
+		"time": "November 2012",
+		"tag": "Essay"
+	},
+	{
 		"title": "CORE CONNECTIONS GUIDE",
 		"extTarget": "https://drive.google.com/file/d/1bQJghTNGxY0G683RmuZG_cm4WqfQ4Yc4/view?usp=sharing",
 		"blurb": "At the end of my three-year stint teaching sixth-grade Creative Productions at Voyager Academy (later renamed to Core Connections), I wrote the following handbook to summarize my style, method, content, and rationale for the teacher replacing me.",
 		"imageURL": "img/fig1Handbook.png",
 		"time": "May 2012",
 		"tag": "Education"
+	},
+	{
+		"title": "DEAR STUDENTS",
+		"extTarget": "https://medium.com/@ThingMaker/dear-graduating-sixth-graders-e86abd7271dc",
+		"blurb": "This is a speech that I gave to my 100 sixth-grade public school students on the last day of school, at the end of a year-long class on critical thinking, collaboration, and project-based learning.",
+		"imageURL": "img/fig1Sixth.png",
+		"time": "June 2010",
+		"tag": "Essay || Education"
 	},
 	{
 		"title": "WHAT 100 REALLY MEANS",
@@ -312,19 +344,19 @@
 		"tag": "Fiction"
 	},
 	{
-		"title": "BEGINNINGS OF AN AVALANCHE",
-		"extTarget": "https://medium.com/@ThingMaker/the-beginnings-of-an-avalanche-c0a62173f876",
-		"blurb": "In my junior and senior years of high school, I attended the North Carolina School of Science and Mathematics.  There, I took a class titled \"Wisdom, Revelation, Reason, and Doubt,\" which was a more creative take on Western Civ.  The following was a \"what if?\" assignment completed for that class in which we were asked to make a small change to history and follow it to its logical conclusion.",
-		"imageURL": "img/fig1Whatif.png",
-		"time": "September 2003",
-		"tag": "Essay"
-	},
-	{
 		"title": "TO JUDGE BETWEEN DREAMS",
 		"extTarget": "https://archiveofourown.org/works/14762496",
 		"blurb": "I often allowed my enthusiasm to run away with me, especially in classes where the content was particularly engaging.  This piece, written for WRRD class at the North Carolina School of Science and Math, was intended to be a 3-5 page short story that accurately showcased historical details from medieval Europe.  I began in the early afternoon with a noble blacksmith, and ended up finishing at 3AM with seventeen pages.",
 		"imageURL": "img/fig1Sword.png",
 		"time": "November 2003",
 		"tag": "Fiction"
+	},
+	{
+		"title": "WRRD WHAT IF",
+		"extTarget": "https://medium.com/@ThingMaker/the-beginnings-of-an-avalanche-c0a62173f876",
+		"blurb": "In my junior and senior years of high school, I attended the North Carolina School of Science and Mathematics.  There, I took a class titled \"Wisdom, Revelation, Reason, and Doubt,\" which was a more creative take on Western Civ.  The following was a \"what if?\" assignment completed for that class in which we were asked to make a small change to history and follow it to its logical conclusion.",
+		"imageURL": "img/fig1Whatif.png",
+		"time": "September 2003",
+		"tag": "Essay"
 	}
 ]
