@@ -24,22 +24,6 @@
 		"tag": "Fiction"
 	},
 	{
-		"title": "DRAGON ARMY: THEORY & CHARTER",
-		"extTarget": "https://medium.com/@ThingMaker/dragon-army-theory-charter-8192dc64ea22",
-		"blurb": "This is the theory and charter for a high-structure, high-commitment group house experiment I ended up running in Berkeley in late 2017/early 2018.",
-		"imageURL": "img/fig1DA.png",
-		"time": "May 25th, 2017",
-		"tag": "Essay"
-	},
-	{
-		"title": "DRAGON ARMY RETROSPECTIVE",
-		"extTarget": "https://medium.com/@ThingMaker/dragon-army-retrospective-597faf182e50",
-		"blurb": "This is the retrospective from the above group house experiment, framed as advice-to-past-me and containing lessons from the experience.",
-		"imageURL": "img/fig1DARetro.png",
-		"time": "March 18th, 2018",
-		"tag": "Essay"
-	},
-	{
 		"title": "MODERATING LESSWRONG",
 		"extTarget": "https://medium.com/@ThingMaker/moderating-lesswrong-4de028808def",
 		"blurb": "LessWrong is a web archive and discussion forum for improving human rationality. In this post, I lay out a philosophy of moderation that differs significantly from that on the actual site.",
@@ -93,6 +77,22 @@
 		"blurb": "An in-depth introduction to using the Magic: the Gathering color wheel as a psychological typing tool for individuals, groups, and projects.",
 		"imageURL": "img/fig1Mtg.png",
 		"time": "April 10th, 2018",
+		"tag": "Essay"
+	},
+	{
+		"title": "DRAGON ARMY: THEORY & CHARTER",
+		"extTarget": "https://medium.com/@ThingMaker/dragon-army-theory-charter-8192dc64ea22",
+		"blurb": "This is the theory and charter for a high-structure, high-commitment group house experiment I ended up running in Berkeley in late 2017/early 2018.",
+		"imageURL": "img/fig1DA.png",
+		"time": "May 25th, 2017",
+		"tag": "Essay"
+	},
+	{
+		"title": "DRAGON ARMY RETROSPECTIVE",
+		"extTarget": "https://medium.com/@ThingMaker/dragon-army-retrospective-597faf182e50",
+		"blurb": "This is the retrospective from the above group house experiment, framed as advice-to-past-me and containing lessons from the experience.",
+		"imageURL": "img/fig1DARetro.png",
+		"time": "March 18th, 2018",
 		"tag": "Essay"
 	},
 	{
